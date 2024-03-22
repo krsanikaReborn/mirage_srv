@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+  <phase id="1">
+    <name>퍼시벌</name>
+    <description>테스트</description>
+  </phase>
+  <phase id="2">
+    <name>연금술사 퍼시벌</name>
+  </phase>
+  <phase id="3"/>
+  <phase id="4"/>
+  <phase id="5">
+    <name>갤러해드</name>
+  </phase>
+  <phase id="6">
+    <name>기사 갤러해드</name>
+  </phase>
+  <phase id="7">
+    <name>성배기사 갤러해드</name>
+  </phase>
+  <phase id="8"/>
+  <phase id="9">
+    <name>보르스</name>
+  </phase>
+  <phase id="10">
+    <name>웨스턴 보르스</name>
+  </phase>
+  <phase id="11">
+    <name>워킹 램 보르스</name>
+  </phase>
+  <phase id="12">
+    <name>성인 보르스</name>
+  </phase>
+  <phase id="13">
+    <name>뮈르딘</name>
+  </phase>
+  <phase id="14">
+    <name>마스코트 뮈르딘</name>
+  </phase>
+  <phase id="15">
+    <name>킹스맨 뮈르딘</name>
+  </phase>
+  <phase id="16">
+    <name>대드루이드 뮈르딘</name>
+  </phase>
+  <phase id="17">
+    <name>비비아</name>
+  </phase>
+  <phase id="18">
+    <name>마법소녀 비비아</name>
+  </phase>
+  <phase id="19">
+    <name>호수의 여 비비아</name>
+  </phase>
+  <phase id="20"/>
+  <phase id="21">
+    <name>아서</name>
+  </phase>
+  <phase id="22">
+    <name>킹 아서</name>
+  </phase>
+  <phase id="23"/>
+  <phase id="24"/>
+  <phase id="25">
+    <name>가웨인</name>
+  </phase>
+  <phase id="26"/>
+  <phase id="27"/>
+  <phase id="28"/>
+  <phase id="29">
+    <name>랑슬로</name>
+  </phase>
+  <phase id="30"/>
+  <phase id="31"/>
+  <phase id="32"/>
+  <phase id="33">
+    <name>팔라메데스</name>
+  </phase>
+  <phase id="34"/>
+  <phase id="35"/>
+  <phase id="36"/>
+  <phase id="37">
+    <name>트리스탄</name>
+  </phase>
+  <phase id="38"/>
+  <phase id="39"/>
+  <phase id="40"/>
+  <phase id="41">
+    <name>케이</name>
+  </phase>
+  <phase id="42"/>
+  <phase id="43"/>
+  <phase id="44"/>
+  <phase id="45">
+    <name>유웨인</name>
+  </phase>
+  <phase id="46"/>
+  <phase id="47"/>
+  <phase id="48"/>
+  <phase id="49">
+    <name>모드레드</name>
+  </phase>
+  <phase id="50"/>
+  <phase id="51"/>
+  <phase id="52"/>
+  <phase id="53">
+    <name>모르가나</name>
+  </phase>
+  <phase id="54"/>
+  <phase id="55"/>
+  <phase id="56"/>
+  <phase id="57">
+    <name>액터</name>
+  </phase>
+  <phase id="58"/>
+  <phase id="59"/>
+  <phase id="60"/>
+  <phase id="61">
+    <name>그웬드린</name>
+  </phase>
+  <phase id="62"/>
+  <phase id="63"/>
+  <phase id="64"/>
+  <phase id="65">
+    <name>귀네비어</name>
+  </phase>
+  <phase id="66"/>
+  <phase id="67"/>
+  <phase id="68">
+    <name>이졸데</name>
+  </phase>
+  <phase id="69"/>
+  <phase id="70"/>
+  <phase id="71"/>
+  <phase id="72">
+    <name>마크</name>
+  </phase>
+  <phase id="73"/>
+  <phase id="74"/>
+  <phase id="75"/>
+  <phase id="76">
+    <name>펠리노어</name>
+  </phase>
+  <phase id="77">
+    <name>유서</name>
+  </phase>
+  <phase id="78">
+    <name>자유창쟁이</name>
+  </phase>
+  <phase id="79">
+    <name>또다른 자유창쟁이</name>
+  </phase>
+  <phase id="80">
+    <name>굴러먹던 자유창쟁이</name>
+  </phase>
+  <phase id="81">
+    <name>베디비어</name>
+  </phase>
+  <phase id="82"/>
+  <phase id="83">
+    <name>보티건</name>
+  </phase>
+  <phase id="84">
+    <name>페람</name>
+  </phase>
+  <phase id="85">
+    <name>반</name>
+  </phase>
+  <phase id="86">
+    <name>베이린</name>
+  </phase>
+  <phase id="87"/>
+  <phase id="88"/>
+  <phase id="89"/>
+  <phase id="90">
+    <name>로트</name>
+  </phase>
+  <phase id="91">
+    <name>이즈루드</name>
+  </phase>
+  <phase id="92"/>
+  <phase id="93"/>
+  <phase id="94">
+    <name>오르카데스</name>
+  </phase>
+  <phase id="95"/>
+  <phase id="96"/>
+  <phase id="97">
+    <name>보어</name>
+  </phase>
+  <phase id="98">
+    <name>골로이스</name>
+  </phase>
+  <phase id="99">
+    <name>우리엔</name>
+  </phase>
+  <phase id="100">
+    <name>코르네우스 공작</name>
+  </phase>
+  <phase id="101">
+    <name>유소연</name>
+  </phase>
+  <phase id="102">
+    <name>유소연 비긴즈</name>
+  </phase>
+  <phase id="103">
+    <name>마스터 유소연</name>
+  </phase>
+  <phase id="104">
+    <name>패왕 유소연</name>
+  </phase>
+  <phase id="105">
+    <name>나유리</name>
+  </phase>
+  <phase id="106">
+    <name>유소연버스터 나유리</name>
+  </phase>
+  <phase id="107">
+    <name>저 쪽 학교 나유리</name>
+  </phase>
+  <phase id="108">
+    <name>시스로드 나유리</name>
+  </phase>
+  <phase id="109">
+    <name>채미리</name>
+  </phase>
+  <phase id="110">
+    <name>마감직전 채미리</name>
+  </phase>
+  <phase id="111">
+    <name>오셀롯 채미리</name>
+  </phase>
+  <phase id="112">
+    <name>커플 채미리</name>
+  </phase>
+  <phase id="113">
+    <name>오세아</name>
+  </phase>
+  <phase id="114">
+    <name>스파토이 오세아</name>
+  </phase>
+  <phase id="115">
+    <name>결전모드 오세아</name>
+  </phase>
+  <phase id="116">
+    <name>유천향</name>
+  </phase>
+  <phase id="117">
+    <name>조마경 유천향</name>
+  </phase>
+  <phase id="118">
+    <name>백호영</name>
+  </phase>
+  <phase id="119">
+    <name>캡틴 백호영</name>
+  </phase>
+  <phase id="120">
+    <name>이로</name>
+  </phase>
+  <phase id="121">
+    <name>마술사 이로</name>
+  </phase>
+  <phase id="122">
+    <name>파편사용자 이로</name>
+  </phase>
+  <phase id="123">
+    <name>유연호</name>
+  </phase>
+  <phase id="124">
+    <name>오점순</name>
+  </phase>
+  <phase id="125">
+    <name>이윤주</name>
+  </phase>
+  <phase id="126">
+    <name>윤소미</name>
+  </phase>
+  <phase id="127">
+    <name>김보선</name>
+  </phase>
+  <phase id="128">
+    <name>정승우</name>
+  </phase>
+  <phase id="129">
+    <name>송마음</name>
+  </phase>
+  <phase id="130">
+    <name>산군</name>
+  </phase>
+  <phase id="131">
+    <name>창량</name>
+  </phase>
+  <phase id="132">
+    <name>산지기</name>
+  </phase>
+  <phase id="133">
+    <name>교장신부님</name>
+  </phase>
+  <phase id="134"/>
+  <phase id="135">
+    <name>송준필</name>
+  </phase>
+  <phase id="136">
+    <name>한티 패트리어트</name>
+  </phase>
+  <phase id="137"/>
+  <phase id="138">
+    <name>송마음</name>
+  </phase>
+  <phase id="139">
+    <name>파이오니아 피겨린</name>
+  </phase>
+  <phase id="140">
+    <name>엘리베이터 귀신</name>
+  </phase>
+  <phase id="141">
+    <name>호버링 할매</name>
+  </phase>
+  <phase id="142">
+    <name>지하철 귀신</name>
+  </phase>
+  <phase id="143">
+    <name>삐에로</name>
+  </phase>
+  <phase id="144">
+    <name>곰인형</name>
+  </phase>
+  <phase id="145">
+    <name>강아지인형</name>
+  </phase>
+  <phase id="146">
+    <name>쳐키인형</name>
+  </phase>
+  <phase id="147">
+    <name>보초인형</name>
+  </phase>
+  <phase id="148">
+    <name>노려보는 초상화</name>
+  </phase>
+  <phase id="149">
+    <name>커튼귀신</name>
+  </phase>
+  <phase id="150">
+    <name>거울귀신</name>
+  </phase>
+  <phase id="151">
+    <name>물귀신</name>
+  </phase>
+  <phase id="152">
+    <name>통통통귀신</name>
+  </phase>
+  <phase id="153">
+    <name>가위귀신</name>
+  </phase>
+  <phase id="154">
+    <name>음악실귀신</name>
+  </phase>
+  <phase id="155">
+    <name>분신사바</name>
+  </phase>
+  <phase id="156">
+    <name>챨리</name>
+  </phase>
+  <phase id="157">
+    <name>검은 마부</name>
+  </phase>
+  <phase id="158">
+    <name>좀비</name>
+  </phase>
+  <phase id="159">
+    <name>세종대상</name>
+  </phase>
+  <phase id="160">
+    <name>충무공상</name>
+  </phase>
+  <phase id="161">
+    <name>두루미동상</name>
+  </phase>
+  <phase id="162">
+    <name>창립자흉상</name>
+  </phase>
+  <phase id="163">
+    <name>어머니와 자식 상</name>
+  </phase>
+  <phase id="164">
+    <name>비디오귀신</name>
+  </phase>
+  <phase id="165">
+    <name>홍콩할매</name>
+  </phase>
+  <phase id="166">
+    <name>뱀파이어</name>
+  </phase>
+  <phase id="167">
+    <name>외계인</name>
+  </phase>
+  <phase id="168">
+    <name>빨간 마스크</name>
+  </phase>
+  <phase id="169">
+    <name>휴지귀신</name>
+  </phase>
+  <phase id="170">
+    <name>저승사자</name>
+  </phase>
+  <phase id="171">
+    <name>도깨비</name>
+  </phase>
+  <phase id="172">
+    <name>그슨대</name>
+  </phase>
+  <phase id="173">
+    <name>숫자 세는 아이</name>
+  </phase>
+  <phase id="174">
+    <name>도플갱어</name>
+  </phase>
+  <phase id="175">
+    <name>달걀귀신</name>
+  </phase>
+  <phase id="176">
+    <name>유령버스</name>
+  </phase>
+  <phase id="177">
+    <name>틈새귀신</name>
+  </phase>
+  <phase id="178">
+    <name>화장실 귀신</name>
+  </phase>
+  <phase id="179">
+    <name>고독</name>
+  </phase>
+  <phase id="180">
+    <name>구렁이</name>
+  </phase>
+  <phase id="181">
+    <name>인어</name>
+  </phase>
+  <phase id="182">
+    <name>어둑시니</name>
+  </phase>
+  <phase id="183">
+    <name>귀신보다 무서운 것</name>
+  </phase>
+  <phase id="184">
+    <name>우는 아이 초상화</name>
+  </phase>
+  <phase id="185">
+    <name>복제인형</name>
+  </phase>
+  <phase id="186">
+    <name>용신</name>
+  </phase>
+  <phase id="187">
+    <name>조신</name>
+  </phase>
+  <phase id="188">
+    <name>문간신</name>
+  </phase>
+  <phase id="189">
+    <name>측간신</name>
+  </phase>
+  <phase id="190">
+    <name>인체모형</name>
+  </phase>
+  <phase id="191">
+    <name>표본 개구리</name>
+  </phase>
+  <phase id="192">
+    <name>지즈</name>
+  </phase>
+  <phase id="193">
+    <name>레비아탄</name>
+  </phase>
+  <phase id="194">
+    <name>베히모스</name>
+  </phase>
+  <phase id="195">
+    <name>베알제붑</name>
+  </phase>
+  <phase id="196">
+    <name>아지다하크</name>
+  </phase>
+  <phase id="197">
+    <name>아지다하크 주니어</name>
+  </phase>
+  <phase id="198">
+    <name>이윤정</name>
+  </phase>
+  <phase id="199">
+      <name>공학부장</name>
+  </phase>
+  <phase id="200">
+      <name>공학부원</name>
+  </phase>
+  <phase id="201"/>
+
+  <phase id="401">
+    <name>도로시</name>
+  </phase>
+  <phase id="402">
+    <name>흰토끼 도로시</name>
+  </phase>
+  <phase id="403"/>
+
+  <phase id="404">
+    <name>오즈의 도로시</name>
+  </phase>
+  <phase id="405"/>
+  <phase id="406">
+    <name>양철나무꾼</name>
+  </phase>
+  <phase id="407">
+    <name>클래식 양철나무꾼</name>
+  </phase>
+  <phase id="408">
+    <name>모자장수 양철나무꾼</name>
+  </phase>
+  <phase id="409">
+    <name>마법의 가을 양철나무꾼</name>
+  </phase>
+  <phase id="410">
+    <name>한별이</name>
+  </phase>
+  <phase id="411">
+    <name>교복 한별이</name>
+  </phase>
+  <phase id="412">
+    <name>이상한 나라의 한별이</name>
+  </phase>
+  <phase id="413">
+    <name>현세의 마녀 한별이</name>
+  </phase>
+  <phase id="414">
+    <name>사자</name>
+  </phase>
+  <phase id="415"/>
+  <phase id="416"/>
+  <phase id="417">
+    <name>허수아비</name>
+  </phase>
+  <phase id="418"/>
+  <phase id="419"/>
+  <phase id="420">
+    <name>백서리</name>
+  </phase>
+  <phase id="421">
+    <name>클래식 백서리</name>
+  </phase>
+  <phase id="422">
+    <name>붉은여 백서리</name>
+  </phase>
+  <phase id="423"/>
+  <phase id="424">
+    <name>사냥꾼</name>
+  </phase>
+  <phase id="425">
+    <name>클래식 사냥꾼</name>
+  </phase>
+  <phase id="426"/>
+  <phase id="427">
+    <name>보디가드</name>
+  </phase>
+  <phase id="428">
+    <name>배주희</name>
+  </phase>
+  <phase id="429">
+    <name>클래식 라푼젤</name>
+  </phase>
+  <phase id="430">
+    <name>백다은</name>
+  </phase>
+  <phase id="431">
+    <name>클래식 뷰티</name>
+  </phase>
+  <phase id="432">
+    <name>건우</name>
+  </phase>
+  <phase id="433">
+    <name>클래식 비스트</name>
+  </phase>
+  <phase id="434">
+    <name>이유리</name>
+  </phase>
+  <phase id="435">
+    <name>클래식 신데렐라</name>
+  </phase>
+  <phase id="436">
+    <name>이선화</name>
+  </phase>
+  <phase id="437">
+    <name>클래식 프린스</name>
+  </phase>
+  <phase id="438"/>
+  <phase id="439">
+    <name>이새벽</name>
+  </phase>
+  <phase id="440">
+    <name>클래식 페어리</name>
+  </phase>
+  <phase id="441"/>
+  <phase id="442">
+    <name>한수정</name>
+  </phase>
+  <phase id="443">
+    <name>클래식 후크</name>
+  </phase>
+  <phase id="444"/>
+  <phase id="445">
+    <name>피터 팬</name>
+  </phase>
+  <phase id="446">
+    <name>날지 못하는 피터 팬</name>
+  </phase>
+  <phase id="447"/>
+  <phase id="448"/>
+  <phase id="449">
+    <name>팅커벨</name>
+  </phase>
+  <phase id="450"/>
+  <phase id="451"/>
+  <phase id="452"/>
+  <phase id="453">
+    <name>현세의 마녀 이하나</name>
+  </phase>
+  <phase id="454"/>
+  <phase id="455">
+    <name>『마녀』</name>
+  </phase>
+  <phase id="456">
+    <name>거울의 『마녀』</name>
+  </phase>
+  <phase id="457">
+    <name>덩쿨의 『마녀』</name>
+  </phase>
+  <phase id="458">
+    <name>과자의 『마녀』</name>
+  </phase>
+  <phase id="601">
+    <name>유은아</name>
+  </phase>
+  <phase id="602"/>
+  <phase id="603"/>
+  <phase id="604">
+    <name>이현준</name>
+  </phase>
+  <phase id="605">
+    <name>대머리선배</name>
+  </phase>
+  <phase id="606">
+    <name>교장선생님</name>
+  </phase>
+  <phase id="607">
+    <name>유소연(카메라ON)</name>
+  </phase>
+  <phase id="608">
+    <name>이가희</name>
+  </phase>
+  <phase id="609">
+    <name>신샛별</name>
+  </phase>
+  <phase id="610">
+    <name>윤소리</name>
+  </phase>
+  <phase id="611">
+    <name>검둥이</name>
+  </phase>
+  <phase id="1101">
+    <name>시온</name>
+  </phase>
+  <phase id="1102">
+    <name>마법사 시온</name>
+  </phase>
+  <phase id="1103">
+    <name>어령검 시온</name>
+  </phase>
+  <phase id="1104">
+    <name>크레아노미콘 시온</name>
+  </phase>
+  <phase id="1105">
+    <name>타케이</name>
+  </phase>
+  <phase id="1106">
+    <name>무명류 타케이</name>
+  </phase>
+  <phase id="1107">
+    <name>카무이 타케이</name>
+  </phase>
+  <phase id="1108">
+    <name>이사야</name>
+  </phase>
+  <phase id="1109">
+    <name>비프론즈 이사야</name>
+  </phase>
+  <phase id="1110">
+    <name>데빌헌터 이사야</name>
+  </phase>
+  <phase id="1111"/>
+  <phase id="1112">
+    <name>루카</name>
+  </phase>
+  <phase id="1113">
+    <name>무명류 면허개전 루카</name>
+  </phase>
+  <phase id="1114">
+    <name>마신 해방 루카</name>
+  </phase>
+  <phase id="1115"/>
+  <phase id="1116">
+    <name>호타루</name>
+  </phase>
+  <phase id="1117">
+    <name>카마키 호타루</name>
+  </phase>
+  <phase id="1118">
+    <name>견습사원 호타루</name>
+  </phase>
+  <phase id="1119"/>
+  <phase id="1120">
+    <name>치류</name>
+  </phase>
+  <phase id="1121">
+    <name>인기변호사 치류</name>
+  </phase>
+  <phase id="1122">
+    <name>아야노</name>
+  </phase>
+  <phase id="1123">
+    <name>당주 아야노</name>
+  </phase>
+  <phase id="1124">
+    <name>입금받은 아야노</name>
+  </phase>
+  <phase id="1125">
+    <name>아스카</name>
+  </phase>
+  <phase id="1126"/>
+  <phase id="1127"/>
+  <phase id="1128"/>
+  <phase id="1129">
+    <name>코우지</name>
+  </phase>
+  <phase id="1130">
+    <name>아나자프타</name>
+  </phase>
+  <phase id="1131">
+    <name>오드</name>
+  </phase>
+  <phase id="1132"/>
+  <phase id="1133"/>
+  <phase id="1134"/>
+  <phase id="1135">
+    <name>이븐</name>
+  </phase>
+  <phase id="1136"/>
+  <phase id="1137"/>
+  <phase id="1138"/>
+  <phase id="1139">
+    <name>아라트</name>
+  </phase>
+  <phase id="1140">
+    <name>카샤</name>
+  </phase>
+  <phase id="1141">
+    <name>아그누스 데 버저트</name>
+  </phase>
+  <phase id="1142">
+    <name>카제츠바키</name>
+  </phase>
+  <phase id="1143">
+    <name>크레스니크</name>
+  </phase>
+  <phase id="1144">
+    <name>에오리스</name>
+  </phase>
+  <phase id="1145">
+    <name>얄다바오스</name>
+  </phase>
+  <phase id="1146">
+    <name>칼밤신</name>
+  </phase>
+  <phase id="1147">
+    <name>포치</name>
+  </phase>
+  <phase id="1148"/>
+  <phase id="1149">
+    <name>이누가미</name>
+  </phase>
+  <phase id="1150">
+    <name>히데노리</name>
+  </phase>
+  <phase id="1151">
+    <name>류쉐화</name>
+  </phase>
+  <phase id="1152"/>
+  <phase id="1153"/>
+  <phase id="1154">
+    <name>야하즈</name>
+  </phase>
+  <phase id="1155"/>
+  <phase id="1156"/>
+  <phase id="1157"/>
+  <phase id="1158">
+    <name>미부</name>
+  </phase>
+  <phase id="1159"/>
+  <phase id="1160"/>
+  <phase id="1161"/>
+  <phase id="1162">
+    <name>아실칼</name>
+  </phase>
+  <phase id="1163"/>
+  <phase id="1164"/>
+  <phase id="1165"/>
+  <phase id="1166">
+    <name>치토세</name>
+  </phase>
+  <phase id="1167">
+    <name>이나리 치토세</name>
+  </phase>
+  <phase id="1168">
+    <name>다래어리</name>
+  </phase>
+  <phase id="1169"/>
+  <phase id="1170">
+    <name>스즈네</name>
+  </phase>
+  <phase id="1171"/>
+  <phase id="1172"/>
+  <phase id="1173"/>
+  <phase id="1174">
+    <name>미치나리</name>
+  </phase>
+  <phase id="1175"/>
+  <phase id="1176">
+    <name>들좌백</name>
+  </phase>
+  <phase id="1177">
+    <name>산좌백</name>
+  </phase>
+  <phase id="1178">
+    <name>셋달이</name>
+  </phase>
+  <phase id="1179"/>
+  <phase id="1180">
+    <name>나달보리</name>
+  </phase>
+  <phase id="1181"/>
+  <phase id="1182">
+    <name>펌프킨</name>
+  </phase>
+  <phase id="1183">
+    <name>펌프킨 폰</name>
+  </phase>
+  <phase id="1184">
+    <name>펌프킨 나이트</name>
+  </phase>
+  <phase id="1185">
+    <name>펌프킨 비숍</name>
+  </phase>
+  <phase id="1186">
+    <name>펌프킨 루크</name>
+  </phase>
+  <phase id="1187">
+    <name>펌프킨 퀸</name>
+  </phase>
+  <phase id="1188">
+    <name>펌프킨 엠퍼러</name>
+  </phase>
+  <phase id="10001">
+    <name>계란계란</name>
+  </phase>
+  <phase id="10002">
+    <name>환상거북</name>
+  </phase>
+  <phase id="10003">
+    <name>모시레치크</name>
+  </phase>
+  <phase id="10004">
+    <name>엉클 못</name>
+  </phase>
+  <phase id="10005">
+    <name>피바람의 모시레치크</name>
+  </phase>
+</StringTable>

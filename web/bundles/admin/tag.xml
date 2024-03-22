@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+	<tag id="1">
+		<name>남자</name>
+	</tag>
+	<tag id="2">
+		<name>여자</name>
+	</tag>
+	<tag id="3">
+		<name>어린이</name>
+	</tag>
+	<tag id="4">
+		<name>마신</name>
+	</tag>
+	<tag id="5">
+		<name>악마</name>
+	</tag>
+	<tag id="6">
+		<name>요정</name>
+	</tag>
+	<tag id="7">
+		<name>귀신</name>
+	</tag>
+	<tag id="8">
+		<name>정령</name>
+	</tag>
+	<tag id="9">
+		<name>흡혈귀</name>
+	</tag>
+	<tag id="10">
+		<name>수인</name>
+	</tag>
+	<tag id="11">
+		<name>무생물</name>
+	</tag>
+	<tag id="12">
+		<name>사념체</name>
+	</tag>
+	<tag id="13">
+		<name>신령</name>
+	</tag>
+	<tag id="14">
+		<name>도깨비</name>
+	</tag>
+	<tag id="15">
+		<name>요괴</name>
+	</tag>
+	<tag id="16">
+		<name>용족</name>
+	</tag>
+	<tag id="17">
+		<name>촉수</name>
+	</tag>
+	<tag id="18">
+		<name>군주</name>
+	</tag>
+	<tag id="19">
+		<name>왕자</name>
+	</tag>
+	<tag id="20">
+		<name>공주</name>
+	</tag>
+	<tag id="21">
+		<name>고등학생</name>
+	</tag>
+	<tag id="22">
+		<name>대학생</name>
+	</tag>
+	<tag id="23">
+		<name>선생</name>
+	</tag>
+	<tag id="24">
+		<name>기사</name>
+	</tag>
+	<tag id="25">
+		<name>마녀</name>
+	</tag>
+	<tag id="26">
+		<name>사장</name>
+	</tag>
+	<tag id="27">
+		<name>학자</name>
+	</tag>
+	<tag id="28">
+		<name>만화가</name>
+	</tag>
+	<tag id="29">
+		<name>해적</name>
+	</tag>
+	<tag id="31">
+		<name>투희</name>
+	</tag>
+	<tag id="32">
+		<name>학생회</name>
+	</tag>
+	<tag id="33">
+		<name>닌쟈</name>
+	</tag>
+	<tag id="34">
+		<name>아이돌</name>
+	</tag>
+	<tag id="35">
+		<name>커피파</name>
+	</tag>
+	<tag id="36">
+		<name>홍차파</name>
+	</tag>
+	<tag id="37">
+		<name>시간능력자</name>
+	</tag>
+	<tag id="38">
+		<name>기자</name>
+	</tag>
+	<tag id="39">
+		<name>공돌이</name>
+	</tag>
+	<tag id="40">
+		<name>연금술사</name>
+	</tag>
+	<tag id="43">
+		<name>프리랜서</name>
+	</tag>
+	<tag id="44">
+		<name>루키</name>
+	</tag>
+	<tag id="41">
+		<name>주술사</name>
+	</tag>
+	<tag id="42">
+		<name>소환사</name>
+	</tag>
+	<tag id="45">
+		<name>주역</name>
+	</tag>
+	<tag id="46">
+		<name>모리배</name>
+	</tag>
+	<tag id="47">
+		<name>총잡이</name>
+	</tag>
+	<tag id="48">
+		<name>부먹</name>
+	</tag>
+	<tag id="49">
+		<name>찍먹</name>
+	</tag>
+	<tag id="50">
+		<name>동물</name>
+	</tag>
+	<tag id="51">
+		<name>클래식</name>
+	</tag>
+	<tag id="52">
+		<name>호버링 할매의 타겟</name>
+	</tag>
+</StringTable>

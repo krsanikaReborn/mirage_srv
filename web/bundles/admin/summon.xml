@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+	<summon id="101">
+		<name>조커포지 팩</name>
+		<description>테스트</description>
+	</summon>
+	<summon id="102">
+		<name>계란계란 팩</name>
+	</summon>
+	<summon id="103">
+		<name>환상거북 팩</name>
+	</summon>
+	<summon id="1011">
+		<name>청금석1연소환</name>
+	</summon>
+	<summon id="1012">
+		<name>청금석11연소환</name>
+	</summon>
+	<summon id="1013">
+		<name>골드1연소환</name>
+	</summon>
+	<summon id="1014">
+		<name>골드11연소환</name>
+	</summon>
+	<summon id="1015">
+		<name>티켓 3성이상 1연소환</name>
+	</summon>
+	<summon id="1020">
+		<name>이벤트티켓 4성이상 1연소환</name>
+	</summon>
+	<summon id="1021">
+		<name>(구)이벤트티켓 5성이상 1연소환</name>
+	</summon>
+
+
+</StringTable>

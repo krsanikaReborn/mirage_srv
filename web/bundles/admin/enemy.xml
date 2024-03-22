@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+    <enemy id="1">
+        <name>몹</name>
+        <description></description>
+    </enemy>
+    <enemy id="2">
+        <name>몹ㄹㄷㄹㄷ</name>
+        <description></description>
+    </enemy>
+    <enemy id="3">
+        <name>몹모봅</name>
+        <description></description>
+    </enemy>
+</StringTable>

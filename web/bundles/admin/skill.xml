@@ -1,0 +1,1548 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+  <skill id="1">
+    <name>스피어 어퍼</name>
+    <effect>테스트</effect>
+    <description>아래에서부터 위로 올려베는 창술.</description>
+  </skill>
+  <skill id="2">
+    <name>투창</name>
+    <description>적의 약점을 노려 강하게 창을 던져 꿰뚫는다</description>
+  </skill>
+  <skill id="3">
+    <name>사냥꾼의 감</name>
+    <description>사냥꾼의 날카로운 감. 공격력에 보너스를 받는다</description>
+  </skill>
+  <skill id="4">
+    <name>평타</name>
+    <description>몸을 비틀며 검을 횡으로 휘둘러 벤다.</description>
+  </skill>
+  <skill id="5">
+    <name>세일럼의 폭풍</name>
+    <description>몸을 크게 돌리면서 전열의 적을 모두 공격한다.</description>
+  </skill>
+  <skill id="6">
+    <name>밤하늘의 빛</name>
+    <description>밤하늘을 연상시키는 검신에서 뿜어지는 눈부신 빛이 부정적인 효과를 제거한다.</description>
+  </skill>
+  <skill id="7">
+    <name>베어가르기</name>
+    <description>날렵하게 프릿사를 꺼내어 베어버린다.</description>
+  </skill>
+  <skill id="8">
+    <name>암습</name>
+    <description>상대방의 뒤로 들어가 단검으로 찌른다. 알고도 막을 수 없다고 한다.</description>
+  </skill>
+  <skill id="9">
+    <name>타겟 인사이트</name>
+    <description>대상의 행동패턴을 읽는다.</description>
+  </skill>
+  <skill id="10">
+    <name>창격</name>
+    <description>일반적인 찌르기. 창을 넓게 잡고, 지른다!</description>
+  </skill>
+  <skill id="11">
+    <name>밀어내기</name>
+    <description>간격을 두고 싶을 때 사용한다.. 창을 넓게 잡고, 질러본다!</description>
+  </skill>
+  <skill id="12">
+    <name>포이즌 스피어</name>
+    <description>날에 독을 먹인 창. 넓게 잡고, 지른다!!</description>
+  </skill>
+  <skill id="13">
+    <name>monami-153 0.7mm</name>
+    <description>단순한 구조와 높은 생산성으로 널리 사랑받는 볼팬. 스프링을 이용해 팬 머리를 사격할수 있다.</description>
+  </skill>
+  <skill id="14">
+    <name>전교 1등 킬러</name>
+    <description>1등은 늘 한 명 뿐이다. 언제나 그러했듯이. 전교1등에게만 효과가 있다.</description>
+  </skill>
+  <skill id="15">
+    <name>전교 1등</name>
+    <description>전교 1등의 기운. 나약한 녀석은 감히 범접할 수 조차 없다.</description>
+  </skill>
+  <skill id="16">
+    <name>펜 미사일</name>
+    <description>펜의 극의에 달한 사람은 펜촉을 조종하여 전방위 공격을 할 수 있다.</description>
+  </skill>
+  <skill id="17">
+    <name>먹선궤적</name>
+    <description>펜촉이 움직일때 그려지는 궤적의 먹선을 이용한 방어기술.</description>
+  </skill>
+  <skill id="18">
+    <name>"내일은 없다"</name>
+    <description>채미리 특제 붕붕드링크 "내일은 없다." 복용 후 무한한 힘을 느낄수 있으나, 지속시간이 끝나면…</description>
+  </skill>
+  <skill id="19">
+    <name>스파토이 소환</name>
+    <description>용의 이빨을 이용해 병사를 불러낸다.</description>
+  </skill>
+  <skill id="20">
+    <name>아브라카다브라</name>
+    <description>아군에게 들려준 부적이 단 한 번만 행운을 불러온다.</description>
+  </skill>
+  <skill id="21">
+    <name>오컬트지식</name>
+    <description>마신, 악마, 요정, 정령, 흡혈귀, 용족, 촉수일 경우 공격력을 20%감소시킨다. 오컬트 지식을 사용해 서양의 영적 존재들의 약점을 간파한다.</description>
+  </skill>
+  <skill id="22">
+    <name>불꽃반응확인</name>
+    <description>상대를 불로 지져서 불꽃반응을 확인한다 햣하!</description>
+  </skill>
+  <skill id="23">
+    <name>RPG-7</name>
+    <description>탄두에 성수가 가득 차있는 RPG-7. 잘못 맞으면 위험하다.</description>
+  </skill>
+  <skill id="24">
+    <name>사제폭탄</name>
+    <description>장인의 손길이 담긴 성형작약 폭탄. 유천향의 손길이 구석구석 닿아있다.</description>
+  </skill>
+  <skill id="25">
+    <name>황금의 박치기</name>
+    <description>단련된 머리에서 나오는 박치기. 앞을 가로막는 장애물을 돌파하는 1등공신.</description>
+  </skill>
+  <skill id="26">
+    <name>학생회장의 위엄</name>
+    <description>학생회장으로서 다른 학생들을 이끄는 힘. 아이들의 안전을 최우선으로 생각한다.</description>
+  </skill>
+  <skill id="27">
+    <name>카운터박치기</name>
+    <description>상대의 공격을 박치기로 되받아친다.</description>
+  </skill>
+  <skill id="28">
+    <name>커팅 샤드</name>
+    <description>[파편]으로부터 발동되는 모든것을 잘라버리는 능력.</description>
+  </skill>
+  <skill id="29">
+    <name>커피공급</name>
+    <description>캔커피를 던져줘서 아군의 HP를 재생한다. 홍차파라도 커피를 마셔야한다!</description>
+  </skill>
+  <skill id="30">
+    <name>삼백이론</name>
+    <description>자신이 받는 디버프를 무시하고 그 수치만큼 버프를 받는다. 자신을 언제나 방해하는 300명의 사람이 있다는 이론. 어떤 역경도 아무렇지 않게 넘길 수 있다.</description>
+  </skill>
+  <skill id="31">
+    <name>창격(대걸레)</name>
+    <description>일반적인 찌르기. 창을 넓게 잡고, 지른다! 하지만 대걸레다.</description>
+  </skill>
+  <skill id="32">
+    <name>만파식적가</name>
+    <description>귀신, 사념체만을 대상으로 한다. 차지 중 공격을 받으면 해제된다. 만파식적으로 연주된 곡을 소재로한 즉흥곡.</description>
+  </skill>
+  <skill id="33">
+    <name>말뚝이</name>
+    <description>귀신, 도깨비, 요괴에게 주는 데미지를 20%늘린다.</description>
+  </skill>
+  <skill id="34">
+    <name>묘권</name>
+    <description>홍콩할매에게 배운 영타. 본래는 귀수라는 수법이며 상대의 본질을 두들기기 때문에 방어력을 무시한다.</description>
+  </skill>
+  <skill id="35">
+    <name>라이트 훅</name>
+    <description>상대를 부수는 라이트 훅. 뱀파이어에게는 즉효라고 한다.</description>
+  </skill>
+  <skill id="36">
+    <name>전교 1등</name>
+    <description>전교 1등의 기운. 나약한 녀석은 감히 범접할 수 조차 없다.</description>
+  </skill>
+  <skill id="37">
+    <name>형광등세이버</name>
+    <description>패왕의 기운으로 감싼 형광등세이버를 이용한 공격. 뽀스의 눈으로 볼 수 있는 사념체에겐 잘 통하지 않으나, 수행을 쌓으면 더 아프게 때릴 수 있다. (스킬레벨업으로 단점 완화)</description>
+  </skill>
+  <skill id="38">
+    <name>자구의 자세</name>
+    <description>적이 공격하는 순간의 빈틈을 노리는 후수필승의 자세. 근거리공격을 반드시 무효화하며 확률로 적을 반격한다. (스킬레벨업으로 반격률 증가)</description>
+  </skill>
+  <skill id="39">
+    <name>유격의 자세</name>
+    <description>멀리서 오는 공격을 침착하게 견디기 위한 자세. 원거리 공격을 반드시 무효화하며 확률로 자신보다 약한 아군에게 향하는 공격을 끌어와 대신 받는다. </description>
+  </skill>
+  <skill id="40">
+    <name>주먹도끼</name>
+    <description>인류가 가장 최초에 사용한 도구, 아직은 도구에 의존해야한다.</description>
+  </skill>
+  <skill id="41">
+    <name>마운트 포지션</name>
+    <description>적은 움직이지 않을 때까지 적이다!</description>
+  </skill>
+  <skill id="42">
+    <name>산삼한뿌리</name>
+    <description>맹독을 견뎌냄으로써 잠재능력을 끌어올려주는 굉장한 풀! 아직은 독성을 제대로 버티질 못한다.</description>
+  </skill>
+  <skill id="43">
+    <name>사자후</name>
+    <description>우렁찬 포효를 질러 어지간한 상대는 그대로 날려버린다.</description>
+  </skill>
+  <skill id="44">
+    <name>한티고식 던지기</name>
+    <description>바로 앞의 적을 던져서 대상과 그 주변의 적에게 피해를 입힌다. 경쟁자는 옥상에서 집어던진다. 고작 그정도로 쓰러져선 한티고에선 살아남을 수 없다.</description>
+  </skill>
+  <skill id="45">
+    <name>흔들리지 않는 발걸음</name>
+    <description>전투 시작 후 3턴간 디버프와 상태이상의 효과를 받지 않는다.</description>
+  </skill>
+  <skill id="46">
+    <name>부정의 무게</name>
+    <description>고등학생, 대학생이 대상이면 15%추가 피해. 대상이 평소 품던 부정적인 감정으로 상대를 짓누른다.</description>
+  </skill>
+  <skill id="47">
+    <name>열등감</name>
+    <description>고등학생만을 대상으로 한다. 차지 중 공격을 받으면 해제된다. 학생들이 가지고 있는 부의 감정 중 특히 칙칙하고 무거운 것으로 상대를 짓누른다.</description>
+  </skill>
+  <skill id="48">
+    <name>극복</name>
+    <description>부정적인 감정을 극복하고 그것마저 자신으로 받아들여 새로운 힘을 얻…은 거 같은 기분이 들게 된다.</description>
+  </skill>
+  <skill id="49">
+    <name>장거리 멱살잡이</name>
+    <description>엄청난 힘으로 멀리 떨어진 상대의 멱살을 잡아 자신을 향해 끌어당긴다</description>
+  </skill>
+  <skill id="50">
+    <name>무한한 번개</name>
+    <description>무한한 힘으로 손에서 번개를 뿜어 상대에게 반드시 치명적인 타격을 입힌다.</description>
+  </skill>
+  <skill id="51">
+    <name>콩의 법칙</name>
+    <description>제자가 2인자가 되지 않도록 한 명의 제자만을 받는 법칙.</description>
+  </skill>
+  <skill id="52">
+    <name>펜도깨비</name>
+    <description>오랫동안 아낀 펜에 도깨비가 깃들어 공격을 보조한다.</description>
+  </skill>
+  <skill id="53">
+    <name>야근의 정령</name>
+    <description>눈꺼풀이 내려가는 걸 막아주는 야근의 정령은 마감 전에 잠드는 것을 결코 용납하지 않는다.</description>
+  </skill>
+  <skill id="54">
+    <name>마감빙의</name>
+    <description>마감에 빙의되어 다른 잡귀는 들리지 않는다. 마감은 귀신보다 무섭다.</description>
+  </skill>
+  <skill id="55">
+    <name>피스메이커</name>
+    <description>싱글 액션 아미다. 세상에서 가장 고귀한 총이지. 탄수는 6발.</description>
+  </skill>
+  <skill id="56">
+    <name>즉결처형</name>
+    <description>...는 즉결처형이다! 탕탕탕! (아주 약간의 확률로 맞은 상대가 즉사할 수 있습니다.)</description>
+  </skill>
+  <skill id="57">
+    <name>차기작 주인공</name>
+    <description>주역만을 대상으로 한다. 차기작… 과연 차기작은 정말 찾아올 것인가?</description>
+  </skill>
+  <skill id="58">
+    <name>올레인지 펜 미사일</name>
+    <description>펜의 극의에 달한 사람은 펜촉을 조종하여 전방위 공격을 할 수 있다.</description>
+  </skill>
+  <skill id="59">
+    <name>불가사리</name>
+    <description>마신, 사념체에게 50%의 추가 데미지. 연호와 함께 그림을 그리고 곡을 연주하여 불가사리를 불러내 적을 불태운다.</description>
+  </skill>
+  <skill id="60">
+    <name>차기작 주인공</name>
+    <description>차기작… 과연 차기작은 정말 찾아올 것인가?</description>
+  </skill>
+  <skill id="61">
+    <name>창격</name>
+    <description>일반적인 찌르기. 창을 넓게 잡고, 지른다!</description>
+  </skill>
+  <skill id="62">
+    <name>다리후리기</name>
+    <description>창으로 상대의 다리를 후려 넘어트린다.</description>
+  </skill>
+  <skill id="63">
+    <name>아이기스</name>
+    <description>전투 시작시 발동한다. 메두사의 머리가 박힌 페르세우스의 방패를 소환해 아군을 향한 공격을 막아낸다.</description>
+  </skill>
+  <skill id="64">
+    <name>솔로몬의 반지</name>
+    <description>솔로몬의 반지를 매개로 소환된 모래의 마신 이프리트가 검으로 상대를 공격한다.</description>
+  </skill>
+  <skill id="65">
+    <name>세상의 이치</name>
+    <description>모든 이능력의 스위치를 강제로 꺼버리는 강력한 결계마법. 아군도 범위에 들어가니 주의!</description>
+  </skill>
+  <skill id="66">
+    <name>아폴리욘</name>
+    <description>필드에 '메뚜기 떼(매 턴 데미지)'상태를 부여한다. 지옥의 메뚜기 떼 아바돈의 군단을 불러내 상대 진영 전체를 지속적으로 공격한다.</description>
+  </skill>
+  <skill id="67">
+    <name>불꽃반응확인</name>
+    <description>상대를 불로 지져서 불꽃반응을 확인한다 햣하!</description>
+  </skill>
+  <skill id="68">
+    <name>초장거리 정밀타격</name>
+    <description>조마경을 통해 멀리 떨어진 상대를 포착해 아주 먼 거리에서 폭격을 가한다.</description>
+  </skill>
+  <skill id="69">
+    <name>정체성부정</name>
+    <description>귀신 태그만을 대상으로 한다. 상대가 가진 정체성의 애매함을 지적해 불완전한 존재로 몰아 리타이어시킨다.</description>
+  </skill>
+  <skill id="70">
+    <name>커팅 샤드</name>
+    <description>[파편]으로부터 발동되는 모든것을 잘라버리는 능력. 실로 연결해 사정거리를 늘렸다</description>
+  </skill>
+  <skill id="71">
+    <name>탈출마술</name>
+    <description>탈출마술로 자신이나 다른 아군을 임의의 장소로 이동시킨다.</description>
+  </skill>
+  <skill id="72">
+    <name>기물파괴</name>
+    <description>[파편]으로 주변 기물을 파괴해서 자리에 부여된 효과를 제거한다.</description>
+  </skill>
+  <skill id="73">
+    <name>커팅 샤드</name>
+    <description>[파편]으로부터 발동되는 모든것을 잘라버리는 능력. 실로 연결해 사정거리를 늘렸다</description>
+  </skill>
+  <skill id="74">
+    <name>최후의 파편질</name>
+    <description>사용 후 아크페이즈가 '기본 이로'로 변경된다. 이후 이 전투 동안 '파편사용자 이로'로 아크페이즈를 변경할 수 없다. [파편]을 이번을 마지막으로 다신 쓰지 않겠다는 의지로 학교 하나를 다 부숴버릴 정도로 능력을 크게 사용한다.</description>
+  </skill>
+  <skill id="75">
+    <name>미스디렉션</name>
+    <description>공격을 2번 할 때마다 효과를 받는다. 마술트릭을 사용해 상대를 속여서 급소를 노린다.</description>
+  </skill>
+  <skill id="76">
+    <name>스태빙 샤드</name>
+    <description>철골 같은 걸 소환해 상대를 찌르는 [파편]의 힘을 사용한다.</description>
+  </skill>
+  <skill id="77">
+    <name>무거운 일격</name>
+    <description>[파편]의 힘을 사용해 조금 늦지만 강한 타격을 주는 구조물을 날린다.</description>
+  </skill>
+  <skill id="78">
+    <name>동경의 발자취</name>
+    <description>전투 중에 전투불능이 됐을 경우 한 번만 hp1로 부활한다. 이정표가 되어줄 발자취를 따라 걸어간다. 이 발자국이 보이는 한 어디까지든 걸어갈 수 있다.</description>
+  </skill>
+  <skill id="79">
+    <name>스파토이 소환</name>
+    <description>용의 이빨을 이용해 병사를 불러낸다.</description>
+  </skill>
+  <skill id="80">
+    <name>토르의 망치</name>
+    <description>토르의 망치인 묠니르의 상징이 새겨진 돌을 던져 벼락과 함께 망치를 떨어트린다.</description>
+  </skill>
+  <skill id="81">
+    <name>오컬트지식</name>
+    <description>아군이 마신, 악마, 요정, 정령, 흡혈귀, 용족, 촉수에게 주는 데미지를 20%늘린다. 오컬트 지식을 사용해 서양의 영적 존재들의 약점을 간파한다.</description>
+  </skill>
+  <skill id="82">
+    <name>파편의 군세</name>
+    <description>톱니의 [파편]이 박힌 물체를 부려 상대를 공격한다.</description>
+  </skill>
+  <skill id="83">
+    <name>매칭 샤드</name>
+    <description>상대 1체가 가진 버프와 디버프 상태를 그대로 아군 1체에게 적용한다. 상대의 강함에 맞춰 자신의 강함을 조정하는 힘을 가진 [파편]</description>
+  </skill>
+  <skill id="84">
+    <name>등떠밀기</name>
+    <description>다른 사람의 목표를 응원하기 위해 등을 떠밀어준다</description>
+  </skill>
+  <skill id="85">
+    <name>펜촉 미사일</name>
+    <description>펜의 극의에 달한 사람은 펜촉을 조종하여 전방위 공격을 할 수 있다.</description>
+  </skill>
+  <skill id="86">
+    <name>클로징 샤드</name>
+    <description>문을 만들어 닫는 [파편]의 힘을 사용해 벽을 만들어 공격을 막는다.</description>
+  </skill>
+  <skill id="87">
+    <name>나의 '이빨'</name>
+    <description>이건 더 이상 펜촉이 아니다! 이건 이제부터 '이빨'이다!</description>
+  </skill>
+  <skill id="88">
+    <name>물로켓</name>
+    <description>성수가 들어간 물로켓, 탄산수를 넣은 이중구조로 멀리까지 날아간다.</description>
+  </skill>
+  <skill id="89">
+    <name>피겨린 3호</name>
+    <description>드론을 통한 정밀관측으로 상대의 회피상태를 해제한다.</description>
+  </skill>
+  <skill id="90">
+    <name>반복작업</name>
+    <description>매 공격 시마다 중첩된다. 같은 지점을 공격할 때마다 대상에게 주는 데미지가 증가한다. 같은 장소를 몇 번이고 맞추며 궤도확인작업을 한다.</description>
+  </skill>
+  <skill id="91">
+    <name>물기</name>
+    <description>날카롭게 돋은 이빨로 깨문다.</description>
+  </skill>
+  <skill id="92">
+    <name>폭풍강타</name>
+    <description>폭풍처럼 매서운 일격을 가해 상대를 정신 못차리게 만든다.</description>
+  </skill>
+  <skill id="93">
+    <name>얼리어답터</name>
+    <description>현세에 찌들어 발전된 기술을 빠르게 습득한다. "그대는 어찌하여 시대의 흐름을 보지 못하는가!"</description>
+  </skill>
+  <skill id="94">
+    <name>옛다 특별한 거</name>
+    <description>꼬리를 꺼내 상대를 공격한다. 판타스틱!</description>
+  </skill>
+  <skill id="95">
+    <name>목꺽기</name>
+    <description>달려드는 상대를 피하며 목을 꺽는다.</description>
+  </skill>
+  <skill id="96">
+    <name>여우신선</name>
+    <description>지정한 장소를 공격대상으로 지정할 수 없게 만든다. 여우 태생이기 때문에 남을 홀려 헤매게 하는 술법에 능하다.</description>
+  </skill>
+  <skill id="97">
+    <name>지팡이</name>
+    <description>다리가 불편해서 사용하는 지팡이지만 공격에도 사용할 수 있다.</description>
+  </skill>
+  <skill id="98">
+    <name>장승투척</name>
+    <description>장승을 상대 진영에 던져서 액을 쫓는다.</description>
+  </skill>
+  <skill id="99">
+    <name>장승</name>
+    <description>액을 쫓는 장승을 깎아 아군 진영에 설치한다.</description>
+  </skill>
+  <skill id="100">
+    <name>보라색 손</name>
+    <description>저쪽 학교에서 치명상을 입으면 이쪽으로 끌고오던 보라색 손</description>
+  </skill>
+  <skill id="101">
+    <name>억누르는 손</name>
+    <description>기둥을 억누르던 손. 상대의 움직임을 저해한다.</description>
+  </skill>
+  <skill id="102">
+    <name>참교육자</name>
+    <description>고등학생,대학생태그를 가진 캐릭터만 효과를 받는다. 참교육자는 학생을 이끈다.</description>
+  </skill>
+  <skill id="103">
+    <name>눈부신 대머리</name>
+    <description>가발을 벗어서 민둥민둥한 대머리가 햇빛을 반사해 상대의 시야를 멀게 한다.</description>
+  </skill>
+  <skill id="104">
+    <name>클레임</name>
+    <description>상대에게 클레임을 넣어서 행동을 방해한다.</description>
+  </skill>
+  <skill id="105">
+    <name>페미니스트</name>
+    <description>남자를 공격할 때 데미지 50%증가, 여자를 공격할 때 50%감소. 여자라면 유치원생부터 할머니까지 배려를 잊지 않는다!</description>
+  </skill>
+  <skill id="106">
+    <name>성수에 담근 BB 서브머신건</name>
+    <description>악마,마신,사념체에겐 10% 추가 피해. 성수에 담근 BB탄을 쏜다.</description>
+  </skill>
+  <skill id="107">
+    <name>히드라 다연장 성수로켓</name>
+    <description>방어 감소 효과는 악마,마신,사념체만을 대상으로 한다. 성수로켓을 한 번에 여러 개를 쏴서 날린다.</description>
+  </skill>
+  <skill id="108">
+    <name>수리</name>
+    <description>무생물 태그를 가진 캐릭터만 대상으로 할 수 있다. 공학지식을 살려 기계를 수리한다.</description>
+  </skill>
+  <skill id="109">
+    <name>개틀링 BB탄 총</name>
+    <description>뒤쪽의 둥근 탱크에 압축 공기와 BB탄 컨테이너가 들어있다. 사실 총신이 회전할 필요는 굳이 없다고 한다.</description>
+  </skill>
+  <skill id="110">
+    <name>하이드라 캐넌</name>
+    <description>캡사이신이 들어있는 물을 분사한다. 직사는 위법이다.</description>
+  </skill>
+  <skill id="111">
+    <name>헤어진 여친</name>
+    <description>커플에게 추가 데미지. 공학부 선배들의 원한이 들어간 최첨단 그레네이드. 무엇이 나올지는 쏴봐야 안다.</description>
+  </skill>
+  <skill id="112">
+    <name>거울너머의 일격</name>
+    <description>거울 저편에서 44번 거울을 넘어 상대를 공격한다.</description>
+  </skill>
+  <skill id="113">
+    <name>1개 모자라</name>
+    <description>가한 데미지의 절반만큼 자신도 데미지를 입는다. 44번째라고 생각했지만 알고보니 43번째였다.</description>
+  </skill>
+  <skill id="114">
+    <name>44번의 허들넘기</name>
+    <description>엘리베이터에서 타고 내리는 짧은 시간 동안 거울 44개를 넘는 재빠른 허들넘기 실력</description>
+  </skill>
+  <skill id="115">
+    <name>오늘은 네 차례란다</name>
+    <description>호버링 할매의 타겟'태그가 붙은 캐릭터에게 100% 추가 데미지를 준다. 그 후 태그를 제거한다. "오늘은 널 찾아온 거란다."</description>
+  </skill>
+  <skill id="116">
+    <name>네 친구 집이 어디니</name>
+    <description>대상에게 '호버링 할매의 타겟'상태이상을 부여한다. "김xx란 애가 사는 곳이 어디 있는지 알고 있니?"</description>
+  </skill>
+  <skill id="117">
+    <name>호버링</name>
+    <description>높은 건물의 창문을 지나치는 할머니. 왜 플라잉이 아니라 호버링인지는 아무도 모른다.</description>
+  </skill>
+  <skill id="118">
+    <name>잡아끌기</name>
+    <description>지하철 틈에서 튀어나와 다리를 잡고 끌고간다.</description>
+  </skill>
+  <skill id="119">
+    <name>에그브레이커</name>
+    <description>행동불능 효과는 남자에게만 부여된다. 한 다리만 잡는다. 양 다리가 아니라 한 다리만 잡고 끌고간다.</description>
+  </skill>
+  <skill id="120">
+    <name>지하철 틈의 귀신</name>
+    <description>자신의 앞뒤에 캐릭터가 인접한 상태일 경우에만 발동한다. 지하철과 승강장의 틈에 숨어있는 귀신,</description>
+  </skill>
+  <skill id="121">
+    <name>물기</name>
+    <description>날카롭게 돋은 이빨로 깨문다.</description>
+  </skill>
+  <skill id="122">
+    <name>말년의 은신술</name>
+    <description>말년병장만이 사용할 수 있는 은신술. 하지만 행보관에겐 통하지 않는다고 한다.</description>
+  </skill>
+  <skill id="123">
+    <name>사립다이스스쿨</name>
+    <description>만화가만 대상으로 한다. 잠시 연재되었던 홍보 만화. 가끔 기억하는 사람이 있다. 인지도야 말로 만화가의 생명이다!</description>
+  </skill>
+  <skill id="124">
+    <name>클로</name>
+    <description>못 여러 개를 손톱처럼 꺼내 쥐고 상대를 할퀸다.</description>
+  </skill>
+  <skill id="125">
+    <name>봉제인형</name>
+    <description>솜이 잔뜩 들어간 푹신한 봉제인형이기 때문에 치명적인 타격은 입지 않는다.</description>
+  </skill>
+  <skill id="126">
+    <name>저주받은 인형</name>
+    <description>아군 진영에 자신만 존재하고 상대 진영에 1체만 존재할 경우 효과를 발휘한다. 저주받은 인형을 아이와 단 둘이 남겨두면 안 된다.</description>
+  </skill>
+  <skill id="127">
+    <name>물기</name>
+    <description>날카롭게 돋은 이빨로 깨문다.</description>
+  </skill>
+  <skill id="128">
+    <name>핥기</name>
+    <description>핥아서 동료를 회복한다. 인형이지만 어떻게 핥아서 회복하는지는 의문이다.</description>
+  </skill>
+  <skill id="129">
+    <name>막내야 후임 받아라</name>
+    <description>전투 중 1번, 자신 보다 레벨이 낮은 아크페이즈가 공격받았을 때만 적용된다. 후임을 받는다고 군생활이 끝나는게 아니다. 이제는 후임 때문에 2배로 까일 것이다.</description>
+  </skill>
+  <skill id="130">
+    <name>식칼</name>
+    <description>식칼을 거꾸로 잡고 내려친다.</description>
+  </skill>
+  <skill id="131">
+    <name>2달간 막내</name>
+    <description>상태 이상의 확률이 감소된다. 막내에겐 언제나 신속한 행동이 요구된다. 후임을 받는다고 금방 버릇든 행동이 사라지진 않는다.</description>
+  </skill>
+  <skill id="132">
+    <name>끝없는 후속작</name>
+    <description>전투 중에 전투불능이 됐을 경우 한 번만 hp1로 부활한다. 후속작이 계속 나오는 한 끊임없이 부활한다.</description>
+  </skill>
+  <skill id="133">
+    <name>총검</name>
+    <description>총검을 휘둘러 상대를 공격한다.</description>
+  </skill>
+  <skill id="134">
+    <name>경비</name>
+    <description>경비를 서서 사전에 적의 공격을 감지해 막아낸다.</description>
+  </skill>
+  <skill id="135">
+    <name>삼연사</name>
+    <description>공격은 3회 실행한 것으로 취급한다. 조정간 위치 자동으로 쏜다. 총알을 너무 낭비하진 맙시다!</description>
+  </skill>
+  <skill id="136">
+    <name>눈에서 빔</name>
+    <description>눈에서 수상쩍은 빛을 쏴 상대를 공격한다.</description>
+  </skill>
+  <skill id="137">
+    <name>회복광선</name>
+    <description>눈에서 닿은 부위를 치료하는 빛을 쏜다.</description>
+  </skill>
+  <skill id="138">
+    <name>시선고정</name>
+    <description>이전 턴과 같은 대상에게 같은 스킬을 사용할 때마다 주는 데미지가 3p씩 증가한다. 시선을 유지하며 상대를 계속 노려본다.</description>
+  </skill>
+  <skill id="139">
+    <name>스닉어택</name>
+    <description>희박한 존재감을 살려 적에게 기습을 가한다.</description>
+  </skill>
+  <skill id="140">
+    <name>성불</name>
+    <description>차지 중 공격을 받으면 취소된다. 깨달음을 얻고 성불한다. 성불하면서 뿜어지는 후광이 전장의 모든 캐릭터의 전의를 상실시킨다.</description>
+  </skill>
+  <skill id="141">
+    <name>7대불가사의</name>
+    <description>7대불가사의. 하지만 한티고교에서는 동네북에 불과하다.</description>
+  </skill>
+  <skill id="142">
+    <name>거울너머의 일격</name>
+    <description>거울 속의 귀신이지만 거울 너머의 상대를 때릴 수 있다.</description>
+  </skill>
+  <skill id="143">
+    <name>가위바위보</name>
+    <description>자신이 받은 데미지와 똑같은 피해를 되돌려준다. 받은 데미지로 전투불능이 되도 데미지는 발생한다. 가위바위보로 상대와 같은 손을 낸다.</description>
+  </skill>
+  <skill id="144">
+    <name>7대불가사의</name>
+    <description>7대불가사의. 하지만 한티고교에서는 동네북에 불과하다.</description>
+  </skill>
+  <skill id="145">
+    <name>잡아끌기</name>
+    <description>물 속에서 튀어나와 상대를 붙잡아 끌어당긴다.</description>
+  </skill>
+  <skill id="146">
+    <name>발목잡기</name>
+    <description>대상을 '이동불가'상태로 만든다. 발목을 붙잡아 상대를 움직일 수 없게 만든다.</description>
+  </skill>
+  <skill id="147">
+    <name>제로섬게임</name>
+    <description>자신이 공격을 받아 전투불능이 될 경우 공격한 상대에게 데미지를 준다. 끈질김의 대명사인 물귀신. 그냥 죽진 않는다.</description>
+  </skill>
+  <skill id="148">
+    <name>전교1등의 원한</name>
+    <description>고등학생에게 50%의 추가 데미지. 성적 때문에 살해당한 원한으로 상대를 공격한다.</description>
+  </skill>
+  <skill id="149">
+    <name>탑승</name>
+    <description>인접한 캐릭터 하나를 지정해서 그 캐릭터를 향한 공격만을 대신 맞는다. 실제 용법은 아니지만 스카이콩콩처럼 타고다닐 수도 있다.</description>
+  </skill>
+  <skill id="150">
+    <name>현실과 타협</name>
+    <description>전투 중 1번만 hp가 0이 될 공격을 피한다. 어른이기 때문에 현실과 타협할 줄 안다.</description>
+  </skill>
+  <skill id="151">
+    <name>목조르기</name>
+    <description>가위에 눌린 상대의 목을 조른다.</description>
+  </skill>
+  <skill id="152">
+    <name>매수</name>
+    <description>가위에 눌리게 하려는 상대를 지키는 애완견 등을 육포 등의 뇌물로 매수한다.</description>
+  </skill>
+  <skill id="153">
+    <name>가위눌림</name>
+    <description>행동불능인 캐릭터만 대상으로 할 수 있다. 행동불능 상태의 지속시간을 1턴 추가한다. 자고 있는 상대를 가위에 눌리게 한다.</description>
+  </skill>
+  <skill id="154">
+    <name>올콤보</name>
+    <description>공격이 성공할 때 마다 다음 공격의 데미지가 5씩 상승한다. 화려한 연주는 마치 리듬 게임의 올콤보 퍼펙트를 연상시킨다.</description>
+  </skill>
+  <skill id="155">
+    <name>비탄의 아리아</name>
+    <description>애절한 선율로 적들의 전의를 고갈시킨다.</description>
+  </skill>
+  <skill id="156">
+    <name>입시예술의 분노</name>
+    <description>선생에게만 효과를 발휘한다. 규격화된 입시예술에 대한 분노로 교사에게 화풀이를 한다.</description>
+  </skill>
+  <skill id="157">
+    <name>펜미사일</name>
+    <description>자신의 빙의대인 펜을 움직여서 상대를 공격한다.</description>
+  </skill>
+  <skill id="158">
+    <name>빙의</name>
+    <description>차지 중 공격을 받으면 취소된다. 대상에게 상태이상 '빙의(자기 차례가 됐을 때 아군을 공격한다)'를 건다. 섯불리 귀신을 부르면 씌일 위험이 있다.</description>
+  </skill>
+  <skill id="159">
+    <name>어시스턴트</name>
+    <description>만화가만 대상으로 한다. 분신사바로 불러낸 귀신을 묶어서 어시로 사용하는 금단의 기술. 마감에 사로잡힌 만화가는 귀신보다 무섭다.</description>
+  </skill>
+  <skill id="160">
+    <name>더블 펜 미사일</name>
+    <description>자신의 빙의대인 펜을 움직여서 상대를 공격한다. 펜 두 자루로 부르기 때문에 날리는 펜도 두 자루다.</description>
+  </skill>
+  <skill id="161">
+    <name>챨리 챨리 챌린지</name>
+    <description>질문에 예나 아니오로 답변하여 동료에게 직후에 향하는 공격을 피할 수 있게 한다.</description>
+  </skill>
+  <skill id="162">
+    <name>굴러온 돌</name>
+    <description>자신의 위치를 지정한 장소로 변경한다. 이미 아군이 배치된 장소를 지정할 경우 그 아군과 위치를 변경한다. "이 분야의 권위자인 분신사바님께서는 이녀석을 어찌 보시는지?"</description>
+  </skill>
+  <skill id="163">
+    <name>풀스로틀 급발진</name>
+    <description>정차 중 급발진한다. 위험하니 실제로는 따라하지 마세요.</description>
+  </skill>
+  <skill id="164">
+    <name>대폭발</name>
+    <description>차지 중 공격을 받으면 취소된다. 노래를 따라 마차가 폭발한다. 어지간한 가사로는 회생불가다.</description>
+  </skill>
+  <skill id="165">
+    <name>드리프트</name>
+    <description>화려한 드리프트로 속도를 줄이는 일 없이 커브를 돌며 돌격한다.</description>
+  </skill>
+  <skill id="166">
+    <name>물기</name>
+    <description>좀비가 되서 강화된 악력으로 물어뜯는다.</description>
+  </skill>
+  <skill id="167">
+    <name>감염</name>
+    <description>감염(매 턴 지속 데미지)부여,상대를 바이러스에 감염시켜서 지속적인 피해를 입힌다.</description>
+  </skill>
+  <skill id="168">
+    <name>사후경직</name>
+    <description>사후경직이 발생해 딱딱해진 몸이 피해를 경감한다.</description>
+  </skill>
+  <skill id="169">
+    <name>방문환영</name>
+    <description>환영인사로 주문을 외워 마법을 사용한다."조선의 땅에 당도한 것을 환영하오 낯선이여."</description>
+  </skill>
+  <skill id="170">
+    <name>선전포고</name>
+    <description>시간을 들여 강력한 마법으로 적을 공격한다. "가엾고 딱한 자로다"</description>
+  </skill>
+  <skill id="171">
+    <name>대왕 대지에 서다</name>
+    <description>압도적인 기술력으로 과학승리를 노린다. "아주 좋소"</description>
+  </skill>
+  <skill id="172">
+    <name>내려치기</name>
+    <description>소지한 검으로 내려친다. 실제론 지휘용으로 실전에 쓰는 검은 아니었다는거 같지만 아무래도 좋다.</description>
+  </skill>
+  <skill id="173">
+    <name>필사즉생필생즉사</name>
+    <description>즉사효과는 지속시간 종료 시에 발동한다. 죽기를 각오하고 싸운다. 설령 죽더라도 그 죽음을 적에게 알리지 말라</description>
+  </skill>
+  <skill id="174">
+    <name>계급장 떼고 붙읍시다</name>
+    <description>군주에게만 효과를 발휘한다. "저언하아, 제가 조정에 쌓인게 좀 많습니다."</description>
+  </skill>
+  <skill id="175">
+    <name>쪼기</name>
+    <description>부리로 쫀다. 동으로 만들어진 부리로 쪼이면 아픈 걸론 안 끝난다.</description>
+  </skill>
+  <skill id="176">
+    <name>두루미사일</name>
+    <description>기묘한 궤도를 그리며 날아가는 깃털을 발사해 적을 공격한다.</description>
+  </skill>
+  <skill id="177">
+    <name>은혜갚기</name>
+    <description>두루미에게 베푼 은혜만큼 보답을 받을 것이다.</description>
+  </skill>
+  <skill id="178">
+    <name>입에서 빔</name>
+    <description>흉상의 입이 빔을 발사한다. 흉상의 내부구조가 어떻게 되어있는지는 의문이다</description>
+  </skill>
+  <skill id="179">
+    <name>초토화 빔</name>
+    <description>입에서 쏜 빔으로 지형을 파괴한다.</description>
+  </skill>
+  <skill id="180">
+    <name>팔다리는 장식</name>
+    <description>팔다리는 장식에 불과하다. 높으신 분들은 그걸 몰라.</description>
+  </skill>
+  <skill id="181">
+    <name>등짝후리기</name>
+    <description>등짝을 손바닥으로 강렬하게 후려친다. 어머니의 사랑이 느껴진다!</description>
+  </skill>
+  <skill id="182">
+    <name>어머니의 자애</name>
+    <description>아기를 언제나 업고 다니며 보살피는 어머니의 사랑으로 동료를 치료한다.</description>
+  </skill>
+  <skill id="183">
+    <name>베이비해머</name>
+    <description>공격력 증가 효과는 자신이 받는다. 업고 있던 자식을 둔기로 휘둘러 적을 공격한다. 이후, 자식을 잃은 슬픔에 휩싸여 진정한 힘을 발휘한다.</description>
+  </skill>
+  <skill id="184">
+    <name>원작에선 볼 수 없던 공격</name>
+    <description>원작에선 한 대도 때리지 못했던 귀신의 공격. 유소연 너프좀….</description>
+  </skill>
+  <skill id="185">
+    <name>가택침입</name>
+    <description>비디오가 재생되는 도중이라면 어디든 찾아갈 수 있다.</description>
+  </skill>
+  <skill id="186">
+    <name>적정거리유지</name>
+    <description>TV를 볼 때는 방에 불을 밝게 하고 멀리 떨어져서 보세요.</description>
+  </skill>
+  <skill id="187">
+    <name>묘권</name>
+    <description>홍콩할매 묘권. 본래는 귀수라는 수법이며 상대의 본질을 두들기기 때문에 방어력을 무시한다.</description>
+  </skill>
+  <skill id="188">
+    <name>호랑이교관</name>
+    <description>어린이에게만 효과를 발휘한다. 사자가 자기 자식을 절벽에 떨어트려 기른다는 속설처럼 혹독한 교육으로 제자를 괴물로 키운다.</description>
+  </skill>
+  <skill id="189">
+    <name>신살자</name>
+    <description>마신과 신령에게만 효과를 발휘한다. 공자를 만나면 공자를 죽여라, 부처를 만나면 부처를 죽여라.</description>
+  </skill>
+  <skill id="190">
+    <name>물기</name>
+    <description>가한 피해의 절반만큼 자신의 hp를 회복한다. 물어서 상대의 피를 빤다.</description>
+  </skill>
+  <skill id="191">
+    <name>박쥐변신</name>
+    <description>차지 중 공격을 받으면 취소된다. 박쥐로 변해 상대의 공격을 피한다.</description>
+  </skill>
+  <skill id="192">
+    <name>밤의 제왕</name>
+    <description>매 공격 마다 10점씩 경감한다. "밤의 제왕은 무적이다!"…라고 주장하고 있다.</description>
+  </skill>
+  <skill id="193">
+    <name>플라즈마 피스톨</name>
+    <description>외계의 기술력으로 제작된 총.</description>
+  </skill>
+  <skill id="194">
+    <name>스텔스</name>
+    <description>외계의 기술력으로 스텔스 기능을 적용한다.</description>
+  </skill>
+  <skill id="195">
+    <name>은하계 호구</name>
+    <description>귀신, 도깨비에게만 효과를 발휘한다. 악령을 쫓는 각종 부적을 구매해서 갖추고 있다.</description>
+  </skill>
+  <skill id="196">
+    <name>가위질</name>
+    <description>의료용 가위를 휘둘러 공격한다.</description>
+  </skill>
+  <skill id="197">
+    <name>입찢기</name>
+    <description>출혈(매 턴 지속 데미지)부여,상대의 입을 가위로 크게 찢어버린다.</description>
+  </skill>
+  <skill id="198">
+    <name>왜 그리 심각해</name>
+    <description>위기에 처한 상대에게 자신의 입이 찢어진 이유를 장황하게 설명하지만 그 이유는 매번 다르다.</description>
+  </skill>
+  <skill id="199">
+    <name>휴지표창</name>
+    <description>빳빳하게 선 휴지를 날려서 공격한다.</description>
+  </skill>
+  <skill id="200">
+    <name>어떤 휴지 줄까</name>
+    <description>출혈(매 턴 지속 데미지)부여,생각해보면 빨간 휴지를 고르든 파란 휴지를 고르든 사인은 출혈사다.</description>
+  </skill>
+  <skill id="201">
+    <name>텃세</name>
+    <description>지정한 장소에 '봉쇄(해당 장소로 이동불가)'상태를 부여한다. 텃세를 부리며 화장실를 자리로 하는 귀신들과 자리싸움을 벌인다.</description>
+  </skill>
+  <skill id="202">
+    <name>저승 편도 티켓</name>
+    <description>귀신에게는 50% 추가 데미지를 준다. 죽을 운명을 가진 사람을 저승으로 인도한다. 티켓이긴 하지만 모양은 부적.</description>
+  </skill>
+  <skill id="203">
+    <name>프로파일링</name>
+    <description>상대를 '제삿날(입는 데미지 50%추가)'상태로 만든다. 각종 데이터를 바탕으로 산 사람의 사망일을 예측한 정보가 들어있다.</description>
+  </skill>
+  <skill id="204">
+    <name>발로 뛰는 공무원</name>
+    <description>자신의 위치를 지정한 장소로 변경한다. 이미 캐릭터가 위치한 장소로는 이동할 수 없다. "무엇을 도와드릴까요, 고객님?"</description>
+  </skill>
+  <skill id="205">
+    <name>괴력</name>
+    <description>압도적인 힘으로! 상대를 집어던진다.</description>
+  </skill>
+  <skill id="206">
+    <name>안다리걸기</name>
+    <description>씨름의 기술. 상대의 다리를 걸어 넘어트린다.</description>
+  </skill>
+  <skill id="207">
+    <name>천하장사</name>
+    <description>갈고 닦은 씨름의 기술과 압도적인 힘으로 상대를 지키는 존재를 모두 재치고 목적만을 노린다.</description>
+  </skill>
+  <skill id="208">
+    <name>재생</name>
+    <description>검은 덩어리인 몸체가 저절로 수복된다.</description>
+  </skill>
+  <skill id="209">
+    <name>시선고정</name>
+    <description>점점 커지는 그슨대에게서 시선을 뗄 수 없게 만든다.</description>
+  </skill>
+  <skill id="210">
+    <name>성장</name>
+    <description>매 턴 누적. 정면에 적이 존재할 경우 효과를 발휘한다. 그슨대를 바라보고 있으면 점점 거대해진다.</description>
+  </skill>
+  <skill id="211">
+    <name>숫자세기</name>
+    <description>숫자를 세며 상대를 유인한다.</description>
+  </skill>
+  <skill id="212">
+    <name>추락</name>
+    <description>방심해서 다가온 상대를 붙잡아 아래로 떨어트린다.</description>
+  </skill>
+  <skill id="213">
+    <name>줄넘기</name>
+    <description>폴짝폴짝 뛰면서 적의 공격을 피한다.</description>
+  </skill>
+  <skill id="214">
+    <name>격투</name>
+    <description>주먹이나 발차기로 상대를 공격한다.</description>
+  </skill>
+  <skill id="215">
+    <name>흉내내기</name>
+    <description>상대 1체가 가진 버프와 디버프 상태를 그대로 자신에게 적용한다. 상대의 모습을 훔친다.</description>
+  </skill>
+  <skill id="216">
+    <name>모습을 빼앗는 자</name>
+    <description>남의 모습을 훔치는 요괴. 상처를 입어도 피가 흐르지 않고 죽어도 시체를 남기지 않는다.</description>
+  </skill>
+  <skill id="217">
+    <name>빛나는 얼굴</name>
+    <description>민둥민둥한 얼굴이 빛을 반사해서 상대의 눈을 공격한다.</description>
+  </skill>
+  <skill id="218">
+    <name>무서운 얼굴</name>
+    <description>민둥민둥한 얼굴로 갑자기 나타나 상대를 놀라게 하여 움직임을 늦춘다.</description>
+  </skill>
+  <skill id="219">
+    <name>꼰대질</name>
+    <description>귀신에게만 효과를 발휘한다. "어허, 어디 감히 유행한지 얼마 되지도 않은 귀신이 어른의 자리를 뺏으려 드느냐"</description>
+  </skill>
+  <skill id="220">
+    <name>몸통박치기</name>
+    <description>상대를 차로 들이 받는다.</description>
+  </skill>
+  <skill id="221">
+    <name>뺑소니</name>
+    <description>상대방을 차체로 쳐서 멀리 날려버린다.</description>
+  </skill>
+  <skill id="222">
+    <name>헤드라이트</name>
+    <description>헤드라이트를 켜서 상대의 눈을 멀게 한다.</description>
+  </skill>
+  <skill id="223">
+    <name>붉은 시선</name>
+    <description>섬뜩한 시선으로 상대를 노려봐서 움직임을 늦춘다.</description>
+  </skill>
+  <skill id="224">
+    <name>틈새에 숨은 자</name>
+    <description>자신의 앞뒤에 캐릭터가 인접한 상태일 경우에만 발동한다. 틈새에 숨어 그 몸은 제대로 보여주는 일이 없다.</description>
+  </skill>
+  <skill id="225">
+    <name>째려보기</name>
+    <description>상대를 무시무시한 표정으로 노려보는 것으로 전의를 깎는다.</description>
+  </skill>
+  <skill id="226">
+    <name>머리카락 세기</name>
+    <description>가까운 상대의 머리카락을 하나씩 센다. 머리카락을 다 센 상대를 저승으로 잡아간다.</description>
+  </skill>
+  <skill id="227">
+    <name>영역다툼</name>
+    <description>정면에 적이 존재할 경우에만 효과를 발휘한다. 갖은 귀신으로 포화상태인 화장실에서 살아남기 위해서는 높은 방어력이 필요하다.</description>
+  </skill>
+  <skill id="228">
+    <name>천장이동</name>
+    <description>천장에 붙어 기어다니기 때문에 땅을 밟지 않는다.</description>
+  </skill>
+  <skill id="229">
+    <name>맹독</name>
+    <description>중독(매 턴 지속 데미지)부여, 강한 독을 품은 이빨 등으로 상대를 물어 중독시킨다.</description>
+  </skill>
+  <skill id="230">
+    <name>최후의 하나</name>
+    <description>아군이 전투불능이 될 때마다 발동한다. 효과는 중첩된다. 다른 독충을 먹어치우며 점점 독을 키워간다.</description>
+  </skill>
+  <skill id="231">
+    <name>단단한 갑각</name>
+    <description>매 공격 마다 15점씩 경감한다. 단단한 갑각이 몸을 지키고 있다.</description>
+  </skill>
+  <skill id="232">
+    <name>물기</name>
+    <description>날카롭게 돋은 이빨로 깨문다.</description>
+  </skill>
+  <skill id="233">
+    <name>비 부르기</name>
+    <description>필드를 '진흙탕'으로 만든다. 용이 되지 못한 원한을 상제님께 호소하여 허락받은 권한. 원한이 섞인 비를 내린다.</description>
+  </skill>
+  <skill id="234">
+    <name>승천</name>
+    <description>전투불능이 되면 발동한다. 죽음의 메아리…가 아니라 죽음을 통해 한을 풀고 용이 되어 승천한다. 용이 승천하는 모습을 보는 것은 길조로 행운을 가져온다.</description>
+  </skill>
+  <skill id="235">
+    <name>꼬리치기(물리)</name>
+    <description>꼬리로 때린다. 꼬리치는게 아니다.</description>
+  </skill>
+  <skill id="236">
+    <name>인어의 노래</name>
+    <description>노랫소리로 상대를 현혹한다.</description>
+  </skill>
+  <skill id="237">
+    <name>치유의 노래</name>
+    <description>마력이 깃든 노랫소리로 동료의 상처를 치유한다.</description>
+  </skill>
+  <skill id="238">
+    <name>격투</name>
+    <description>주먹이나 발차기로 상대를 공격한다.</description>
+  </skill>
+  <skill id="239">
+    <name>발묶기</name>
+    <description>상대를 공포로 움직일 수 없게 만든다.</description>
+  </skill>
+  <skill id="240">
+    <name>거대화</name>
+    <description>매 턴 누적. 정면에 적이 존재할 경우 효과를 발휘한다. 상대가 두려움을 품으면 점점 커진다.</description>
+  </skill>
+  <skill id="241">
+    <name>감염</name>
+    <description>감염(매 턴 지속 데미지)부여,문 상대에게 질병을 옮긴다.</description>
+  </skill>
+  <skill id="242">
+    <name>공포의 존재</name>
+    <description>귀신보다 두려운 무시무시한 존재. 감히 손을 대기도 두렵다.</description>
+  </skill>
+  <skill id="243">
+    <name>경이적인 번식</name>
+    <description>매 턴 누적. 바퀴벌레의 경이적인 번식력으로 내버려두면 25의 n제곱으로 불어난다.</description>
+  </skill>
+  <skill id="244">
+    <name>방화</name>
+    <description>담긴 염에 응하여 불을 지른다.</description>
+  </skill>
+  <skill id="245">
+    <name>유천향제 사제폭탄</name>
+    <description>장인의 손길이 담긴 성형작약 폭탄. 유천향의 손길이 구석구석 닿아있다.</description>
+  </skill>
+  <skill id="246">
+    <name>염을 담는 그림</name>
+    <description>1전투 중 1번만 사용할 수 있다. 타인의 염을 받아 불을 지르는 것으로 실현한다.</description>
+  </skill>
+  <skill id="247">
+    <name>삼각자</name>
+    <description>숨바꼭질을 시작할 때 찌른 물체. 유소연의 호신강기마저 뚫는 무서운 무기다.</description>
+  </skill>
+  <skill id="248">
+    <name>숨바꼭질</name>
+    <description>상대를 '표적(입는 데미지 50%추가)'상태로 만든다. "다음엔 네가 술래야"</description>
+  </skill>
+  <skill id="249">
+    <name>본뜨는 인형</name>
+    <description>대상 1체가 가진 버프와 디버프 상태를 그대로 자신에게 적용한다. 손톱을 넣은 대상의 성향을 본떠 분신이 된다.</description>
+  </skill>
+  <skill id="250">
+    <name>물대포</name>
+    <description>물을 뿜어서 적을 공격한다. 강한 수압에 밀려나 정신을 차리기 힘들게 된다.</description>
+  </skill>
+  <skill id="251">
+    <name>물을 관리하는 신</name>
+    <description>필드에 '진흙탕(행동마다 발생하는 경직이 10씩 증가)'상태를 부여한다. 물을 관리하는 신으로 최근은 우물이 없어서 주방에서 조왕신에게 구박 받고 살아간다.</description>
+  </skill>
+  <skill id="252">
+    <name>역린</name>
+    <description>크리티컬을 맞으면 발동한다. 건드리면 용을 분노하게 만드는 유일한 비늘.</description>
+  </skill>
+  <skill id="253">
+    <name>밥주걱</name>
+    <description>밥주걱으로 힘껏 때린다. 배가 고프면 뺨에 묻은 밥알이라도 떼어 먹자.</description>
+  </skill>
+  <skill id="254">
+    <name>밥이 보약</name>
+    <description>해제는 디버프에만 작용한다. 식이요법으로 평소부터 관리한 기초체력이 건강의 비결!</description>
+  </skill>
+  <skill id="255">
+    <name>부엌을 지키는 신</name>
+    <description>부엌을 수호하는 신으로 화재를 막고 가족의 건강도 보살핀다.</description>
+  </skill>
+  <skill id="256">
+    <name>창격</name>
+    <description>일반적인 찌르기. 창을 넓게 잡고, 지른다!</description>
+  </skill>
+  <skill id="257">
+    <name>경비</name>
+    <description>경비를 서서 사전에 적의 공격을 감지해 막아낸다.</description>
+  </skill>
+  <skill id="258">
+    <name>대문을 지키는 신</name>
+    <description>전투 중 1번, 공격을 대신 맞는다. 대문을 지키는 가택신. 역신과 저승사자도 함부러 들어오면 경을 친다.</description>
+  </skill>
+  <skill id="259">
+    <name>역류</name>
+    <description>더러운 물이 역류하여 적을 쓸어내린다.</description>
+  </skill>
+  <skill id="260">
+    <name>측간신의 저주</name>
+    <description>머리를 세는 것을 방해한 자에게 강력한 저주를 내린다.</description>
+  </skill>
+  <skill id="261">
+    <name>화장실을 지키는 신</name>
+    <description>확률로 발생하는 상태이상에 걸릴 확률을 반감한다. 더러운 곳으로 여겨지는 화장실을 수호하는 신이기에 탁기가 차기 어렵다.</description>
+  </skill>
+  <skill id="262">
+    <name>가슴의 파편</name>
+    <description>가슴에 박힌 파편에서 보라색 촉수가 나타나 상대를 공격한다.</description>
+  </skill>
+  <skill id="263">
+    <name>파편 풀파워</name>
+    <description>가슴의 파편에서 수많은 보라색 촉수가 적에게 쇄도한다.</description>
+  </skill>
+  <skill id="264">
+    <name>하단회피</name>
+    <description>자세를 숙여서 상단과 중단의 공격을 회피한다.</description>
+  </skill>
+  <skill id="265">
+    <name>불길한 울음소리</name>
+    <description>불길한 울음소리로 적을 겁먹게한다.</description>
+  </skill>
+  <skill id="266">
+    <name>소울풀 R&amp;B</name>
+    <description>영혼이 넘치는 R&amp;B로 동료의 전의를 고양한다.</description>
+  </skill>
+  <skill id="267">
+    <name>표본병</name>
+    <description>크리티컬을 맞으면 효과를 잃는다. 유리병과 포르말린 용액으로 보호되고 있지만 강한 공격을 받으면 깨질 수 있다.</description>
+  </skill>
+  <skill id="268">
+    <name>쪼기</name>
+    <description>거대하고 단단한 부리로 상대를 쫀다.</description>
+  </skill>
+  <skill id="269">
+    <name>버드미사일</name>
+    <description>거대한 몸집을 살려 날아서 돌진한다. "한 발만! 한 발만 쏘게 해줘!"</description>
+  </skill>
+  <skill id="270">
+    <name>날짐승의 왕</name>
+    <description>바닥 효과 무시'효과를 받고 있는 캐릭터만 대상으로 한다. 행동으로 발생하는 경직이 감소한다. 날짐승의 왕으로 여겨지는 거대한 새가 동료에게 순풍을 불러일으킨다.</description>
+  </skill>
+  <skill id="271">
+    <name>물기</name>
+    <description>날카롭게 돋은 이빨로 깨문다.</description>
+  </skill>
+  <skill id="272">
+    <name>해일</name>
+    <description>거대한 해일을 일으켜 적들을 일제히 쓸어버린다.</description>
+  </skill>
+  <skill id="273">
+    <name>질투의 대죄</name>
+    <description>상대 1체가 가진 버프와 디버프를 그대로 자신에게 적용한다. 7대죄악 중 질투를 상징한다. 상대의 향상을 질투하여 그만큼 자신의 능력을 향상시킨다.</description>
+  </skill>
+  <skill id="274">
+    <name>몸통박치기</name>
+    <description>거대한 몸을 그대로 상대에게 부딪쳐서 공격한다.</description>
+  </skill>
+  <skill id="275">
+    <name>투석</name>
+    <description>주변의 지형지물을 집어던져서 상대를 공격한다.</description>
+  </skill>
+  <skill id="276">
+    <name>거대한 뭍짐승</name>
+    <description>수인, 짐승만을 대상으로 한다. 모든 뭍짐승의 우두머리가 동료들을 수호한다.</description>
+  </skill>
+  <skill id="277">
+    <name>파리의 무리</name>
+    <description>가한 피해의 50%만큼 자신의 hp를 회복한다. 파리떼가 달려들어 상대를 습격한다.</description>
+  </skill>
+  <skill id="278">
+    <name>폭식의 대죄</name>
+    <description>다수의 대상이 지정될 경우 버프 효과는 전부 중첩된다. 7대죄악 중 폭식을 상징한다. 파리들이 달라붙어 상대의 힘을 먹어치운다.</description>
+  </skill>
+  <skill id="279">
+    <name>파리대왕</name>
+    <description>질병의 매개체인 파리의 군주가 부패와 역병을 이끈다.</description>
+  </skill>
+  <skill id="280">
+    <name>분열</name>
+    <description>지정한 장소에 '아지다하크 주니어'를 1체 소환한다. 작은 아지다하크를 소환한다.</description>
+  </skill>
+  <skill id="281">
+    <name>악신의 마술</name>
+    <description>사악한 마술로 상대를 지키는 모든 가호를 제거한다.</description>
+  </skill>
+  <skill id="282">
+    <name>수의 폭력</name>
+    <description>아군 필드 9칸이 모두 채워져 있을 경우에만 효과를 발휘한다. 수에는 장사 없다.</description>
+  </skill>
+  <skill id="283">
+    <name>맹독의 엄니</name>
+    <description>중독(매 턴 지속 데미지)부여, 강한 독을 품은 이빨 등으로 상대를 물어 중독시킨다.</description>
+  </skill>
+  <skill id="284">
+    <name>악의 화신</name>
+    <description>주역에게만 효과를 발휘한다. 선한 존재를 멸망시키기 위해 악신에게 창조된 존재</description>
+  </skill>
+  <skill id="285">
+    <name>악룡의 독혈</name>
+    <description>전투불능이 되면 발동한다. 악룡은 죽어서 흘리는 피마저도 주변을 오염시키고 파괴한다.</description>
+  </skill>
+  <skill id="286">
+    <name>개틀링 BB탄 총</name>
+    <description>뒤쪽의 둥근 탱크에 압축 공기와 BB탄 컨테이너가 들어있다. 사실 총신이 회전할 필요는 없다고 한다.</description>
+  </skill>
+  <skill id="287">
+    <name>스터닝 피스트</name>
+    <description>상대를 가격해서 기절시킨다.</description>
+  </skill>
+  <skill id="288">
+    <name>수능의 무게</name>
+    <description>한국의 고등학생들을 짓누르는 학업의 무게 "내가 여태껏 풀어왔던 문제집의 양은 3톤이 넘는단다"</description>
+  </skill>
+  <skill id="289">
+    <name>바주카 200</name>
+    <description>대상을 '암흑(명중률 감소)'상태로 만든다. 1200만 화소, 손떨림 방지기능, 터치액션 LCD에 인물 자동포커스.</description>
+  </skill>
+  <skill id="290">
+    <name>기자의 격언</name>
+    <description>기자에게 필요한 다양한 조언들. 출처는 은아 자신이다.</description>
+  </skill>
+  <skill id="291">
+    <name>막무가내 취재</name>
+    <description>강한 호기심으로 때와 장소, 상대를 가리지 않고 특종이 될 거 같은 일이라면 무턱대고 뛰어든다.</description>
+  </skill>
+  <skill id="292">
+    <name>바주카 50R</name>
+    <description>대상을 '암흑(명중률 감소)'상태로 만든다. 신문부의 부비로 구매한 카메라. 현재는 보조용으로 쓰인다.</description>
+  </skill>
+  <skill id="293">
+    <name>아수라현준</name>
+    <description>청소용 빗자루를 둔기로 휘두른다. 마치 팔이 6개로 보일 만큼 재빠른 공격.</description>
+  </skill>
+  <skill id="294">
+    <name>침착한 보조</name>
+    <description>막무가내로 사건에 뛰어드는 은아를 보조할 수 있을 만큼 훌륭한 지원능력. 어떤 상대에게도 맞춰서 행동을 지원한다.</description>
+  </skill>
+  <skill id="295">
+    <name>월브레이킹펀치</name>
+    <description>벽을 부술 기세의 펀치. 실제로 부수지는 않는다.</description>
+  </skill>
+  <skill id="296">
+    <name>캔자스 킥</name>
+    <description>종착역은 캔자스, 캔자스입니다. 내리실 문은 없습니다.</description>
+  </skill>
+  <skill id="297">
+    <name>도로시 블로킹</name>
+    <description>도로시가 체득한 고유의 방어술.</description>
+  </skill>
+  <skill id="298">
+    <name>이상한 나라의 물총</name>
+    <description>생일 파티를 위해 준비한 물총.</description>
+  </skill>
+  <skill id="299">
+    <name>이상한 세계의 안내인</name>
+    <description>동료 1체를 지정한 장소로 이동시킨다. 흰토끼를 따라간 앨리스는 구멍에 빠져 이상한 나라로 가게 됐습니다.</description>
+  </skill>
+  <skill id="300">
+    <name>바쁘다바빠</name>
+    <description>행동으로 발생하는 경직이 감소한다. 실제로 바쁜 건 아니지만 원작에 대한 리스펙트를 갖도록 하자.</description>
+  </skill>
+  <skill id="301">
+    <name>마법의 구두</name>
+    <description>지정한 대상을 임의의 장소로 이동시킨다. 굽을 3번 부딪히면 원하는 것만을 이동시키는 힘을 발휘한다.</description>
+  </skill>
+  <skill id="302">
+    <name>붉은 구두</name>
+    <description>마녀에게만 효과를 발휘한다. 도로시에게 맞춰 구두가 변화한 마녀를 쓰러트릴 수 있는 힘.</description>
+  </skill>
+  <skill id="303">
+    <name>도끼투척</name>
+    <description>가지고 있는 도끼를 던져서 공격한다.</description>
+  </skill>
+  <skill id="304">
+    <name>도끼질</name>
+    <description>도끼를 휘둘러 적을 공격한다. 레벨 퍼 데미지</description>
+  </skill>
+  <skill id="305">
+    <name>뛰지 않는 심장</name>
+    <description>오즈에서의 모험 끝에 얻은 심장. 하지만 그 심장은 아직 뛰지 않는다.</description>
+  </skill>
+  <skill id="306">
+    <name>나무베기</name>
+    <description>나무를 베는 듯한 움직임으로 적을 힘껏 벤다.</description>
+  </skill>
+  <skill id="307">
+    <name>기름칠</name>
+    <description>몸에 기름칠을 하여 더욱 부드러운 움직임이 가능해진다.</description>
+  </skill>
+  <skill id="308">
+    <name>양철의 몸</name>
+    <description>저주로 잃어버린 나무꾼의 몸을 대체한 양철로 만들어진 몸.</description>
+  </skill>
+  <skill id="309">
+    <name>홍차 한 잔</name>
+    <description>우려낸 홍차를 동료에게 따라줘서 체력을 회복한다. 취향에 따라 메뉴는 바뀔 수도 있다.</description>
+  </skill>
+  <skill id="310">
+    <name>뜨거운 홍차</name>
+    <description>대상을 화상(매 턴 추가 데미지)상태로 만든다 펄펄 끓는 뜨거운 홍차가 들어있는 찻잔을 상대에게 투척한다.</description>
+  </skill>
+  <skill id="311">
+    <name>매드 티파티</name>
+    <description>동료들을 다과회에 초대해서 차를 대접한다. 원작과 달리 정신나간 파티는 아니다.</description>
+  </skill>
+  <skill id="312">
+    <name>남자의 주먹</name>
+    <description>남자는 주먹으로 말해라!</description>
+  </skill>
+  <skill id="313">
+    <name>마지막 도끼</name>
+    <description>1전투 중 1번만 사용할 수 있다. 가지고 있는 마지막 도끼를 던져서 공격한다.</description>
+  </skill>
+  <skill id="314">
+    <name>심장의 고동</name>
+    <description>남자에겐 인생에 한 번 가장 빛나는 순간이 찾아온다. 요동치는 심장이 지금이 바로 그때란 걸 증명한다.</description>
+  </skill>
+  <skill id="315">
+    <name>격려</name>
+    <description>동료를 격려하여 기운을 나게 한다.</description>
+  </skill>
+  <skill id="316">
+    <name>가정요리</name>
+    <description>어릴 때부터 하숙집 일을 도우면서 쌓아온 요리 실력.</description>
+  </skill>
+  <skill id="317">
+    <name>동화지식</name>
+    <description>클래식 캐릭터에게만 효과를 발휘한다. 풍부한 동화 지식을 살려서 동화 속 등장인물인 동료를 지원한다.</description>
+  </skill>
+  <skill id="318">
+    <name>응원</name>
+    <description>무사히 돌아오길 바라며 동료를 응원한다.</description>
+  </skill>
+  <skill id="319">
+    <name>문학소녀</name>
+    <description>클래식 캐릭터에게만 효과를 발휘한다. 풍부한 동화 지식을 살려서 동화 속 등장인물을 쓰러트리기 위한 방법을 떠올린다.</description>
+  </skill>
+  <skill id="320">
+    <name>고독한 소녀</name>
+    <description>자신과 인접한 캐릭터가 존재할 경우에만 발동한다. 고독은 죽음에 이르는 병이다.</description>
+  </skill>
+  <skill id="321">
+    <name>이상한 나라의 물총</name>
+    <description>생일 파티를 위해 준비한 물총.</description>
+  </skill>
+  <skill id="322">
+    <name>거울의 마녀</name>
+    <description>사랑받고 싶어하는 마음이 구현된 한별이의 힘의 일부</description>
+  </skill>
+  <skill id="323">
+    <name>가시덩굴의 마녀</name>
+    <description>자신과는 다른 누군가가 되고싶다는 마음이 구현된 한별이의 힘의 일부</description>
+  </skill>
+  <skill id="324">
+    <name>과자의 마녀</name>
+    <description>대상과 자신의 HP(비율)을 서로 변경한다. 죽음을 두려워하는 마음이 구현된 한별이의 힘의 일부</description>
+  </skill>
+  <skill id="325">
+    <name>물기</name>
+    <description>야수의 심정으로 적을 깨문다. 약점 태그가 있는 적에게 추가 데미지</description>
+  </skill>
+  <skill id="326">
+    <name>고기먹기</name>
+    <description>어디선가 고기를 꺼내 먹는다.</description>
+  </skill>
+  <skill id="327">
+    <name>사자의 용기</name>
+    <description>용기란 두려움을 아는 것!</description>
+  </skill>
+  <skill id="328">
+    <name>허수아비의 통찰</name>
+    <description>적에게 약점 태그를 단다.</description>
+  </skill>
+  <skill id="329">
+    <name>도발</name>
+    <description>말로 적을 도발한다. 도발당한 적의 공격을 막아주는 것은 동료의 몫이다.</description>
+  </skill>
+  <skill id="330">
+    <name>인내의 달인</name>
+    <description>참고 기다리며 적의 빈틈을 노린다. 허수아비의 일은 가만히 있는 것이다.</description>
+  </skill>
+  <skill id="331">
+    <name>돈다발 뺨때리기</name>
+    <description>부자만이 쓸 수 있는 무시무시한 기술.</description>
+  </skill>
+  <skill id="332">
+    <name>돈의 마녀</name>
+    <description>진짜 마녀는 아니다. 하지만 돈은 마법만큼 많은 일을 할 수 있다.</description>
+  </skill>
+  <skill id="333">
+    <name>사랑에 빠진 소녀</name>
+    <description>아군에 '사냥꾼'캐릭터가 존재할 경우에만 발동한다. 사랑은 쟁취하는 것!</description>
+  </skill>
+  <skill id="334">
+    <name>독사과</name>
+    <description>독사과를 던져서 공격한다. 독이 들어있기 때문에 그냥 사과와 무게가 다르다.</description>
+  </skill>
+  <skill id="335">
+    <name>절세미녀</name>
+    <description>남성에게만 효과를 발휘한다. "거울아 거울아 세상에서 가장 아름다운 사람은 누구니?""그건 백설공주입니다"</description>
+  </skill>
+  <skill id="336">
+    <name>달궈진 구두</name>
+    <description>대상에게 '화상(매 턴 지속 데미지)'부여. 왕자님의 도움으로 되살아난 백설공주는 성으로 돌아가 계모에게 불로 달군 구두를 신기고 죽을 때까지 춤추도록 했습니다.</description>
+  </skill>
+  <skill id="337">
+    <name>이상한 나라의 물총</name>
+    <description>생일 파티를 위해 준비한 물총.</description>
+  </skill>
+  <skill id="338">
+    <name>하트병사</name>
+    <description>하트병사들로 분장한 보디가드들이 일제히 물총을 쏜다.</description>
+  </skill>
+  <skill id="339">
+    <name>여왕의 카리스마</name>
+    <description>"저놈의 머리통을 날려버려라!"</description>
+  </skill>
+  <skill id="340">
+    <name>권총사격</name>
+    <description>소지한 권총을 쏜다. 총기소지법에 걸리지 않도록 조심하자.</description>
+  </skill>
+  <skill id="341">
+    <name>경호</name>
+    <description>지켜야할 사람을 위해서라면 목숨까지 바친다.</description>
+  </skill>
+  <skill id="342">
+    <name>사냥꾼의 충의</name>
+    <description>아군에 '백서리'캐릭터가 존재할 경우에만 발동한다. 아가씨를 지키고자하는 마음, 그건 충성일까 아니면 사랑일까?</description>
+  </skill>
+  <skill id="343">
+    <name>함정 설치</name>
+    <description>지정한 장소에 '함정(그 자리로 이동할 경우 데미지, 1번만)'상태를 부여한다. 사냥꾼은 활이나 총도 중요하지만 덫을 특히 잘 써야한다.</description>
+  </skill>
+  <skill id="344">
+    <name>봐주기</name>
+    <description>이 공격은 대상의 hp를 0으로 만들 수 없다. 사냥꾼은 차마 백설공주를 죽이지 못하고 대신 멧돼지를 잡아 그 내장을 여왕에게 가져갔습니다.</description>
+  </skill>
+  <skill id="345">
+    <name>사냥의 기술</name>
+    <description>동물에게만 효과를 발휘한다. 야생동물을 사냥하기 위한 다양한 기술과 지식.</description>
+  </skill>
+  <skill id="346">
+    <name>격투</name>
+    <description>요인 경호를 위한 근접격투술.</description>
+  </skill>
+  <skill id="347">
+    <name>경호</name>
+    <description>지켜야할 사람을 위해서라면 목숨까지 바친다.</description>
+  </skill>
+  <skill id="348">
+    <name>수는 힘!</name>
+  </skill>
+  <skill id="349">
+    <name>꽃종류로 버프</name>
+  </skill>
+  <skill id="350">
+    <name>단검투척</name>
+  </skill>
+  <skill id="351">
+    <name>네버랜드 스트라이크</name>
+  </skill>
+  <skill id="352">
+    <name>영원한 소년</name>
+  </skill>
+  <skill id="353">
+    <name>단검이도류</name>
+  </skill>
+  <skill id="354">
+    <name>어른이 된 소년</name>
+  </skill>
+  <skill id="355">
+    <name>지팡이</name>
+  </skill>
+  <skill id="356">
+    <name>주사</name>
+  </skill>
+  <skill id="357">
+    <name>요정의 가루</name>
+  </skill>
+  <skill id="358">
+    <name>마녀의 성</name>
+  </skill>
+  <skill id="359">
+    <name>우리이이이이이이이이이집이다!</name>
+  </skill>
+  <skill id="360">
+    <name>구지가</name>
+  </skill>
+  <skill id="361">
+    <name>연재준비</name>
+  </skill>
+  <skill id="362">
+    <name>群鷄一鶴</name>
+  </skill>
+  <skill id="363">
+    <name>더 트리니티</name>
+  </skill>
+  <skill id="364">
+    <name>단발머리 동맹</name>
+  </skill>
+  <skill id="365">
+    <name>브레이브 토이</name>
+  </skill>
+  <skill id="366">
+    <name>슈퍼동상대전</name>
+  </skill>
+  <skill id="367">
+    <name>큰일났어요!</name>
+  </skill>
+  <skill id="368">
+    <name>공학부의 기술력은 세계제일!</name>
+  </skill>
+  <skill id="369">
+    <name>Long long time ago</name>
+  </skill>
+  <skill id="370">
+    <name>정갈한 어둠</name>
+  </skill>
+  <skill id="371">
+    <name>아군이 된 적 보정</name>
+  </skill>
+  <skill id="372">
+    <name>The last standing</name>
+  </skill>
+  <skill id="373">
+    <name>감자와 폭탄</name>
+  </skill>
+  <skill id="374">
+    <name>코믹월드</name>
+  </skill>
+  <skill id="375">
+    <name>rnasterpiece</name>
+  </skill>
+  <skill id="376">
+    <name>삼백이론x</name>
+  </skill>
+  <skill id="377">
+    <name>레드 슈즈 크루세이더</name>
+  </skill>
+  <skill id="378">
+    <name>가정의 수호신</name>
+  </skill>
+  <skill id="379">
+    <name>눈을 좀 더 크게 뜨세요</name>
+  </skill>
+  <skill id="380">
+    <name>별이 빛나는 이런밤에</name>
+  </skill>
+  <skill id="381">
+    <name>Wicked</name>
+  </skill>
+  <skill id="382">
+    <name>네버랜드</name>
+  </skill>
+  <skill id="383">
+    <name>Victims</name>
+  </skill>
+  <skill id="384">
+    <name>거위의 꿈</name>
+  </skill>
+  <skill id="385">
+    <name>사흉수</name>
+  </skill>
+  <skill id="386">
+    <name>내가 있을 장소</name>
+  </skill>
+  <skill id="387">
+    <name>미안해요 카메라맨</name>
+  </skill>
+  <skill id="388">
+    <name>학교 7대 불가사의</name>
+    <description>테스트</description>
+  </skill>
+  <skill id="389">
+    <name>더미</name>
+    <description>더미</description>
+  </skill>
+
+  <skill id="400">
+    <name>빵야빵야</name>
+    <description>안드라스와 플라우로스에 의한 연속사격.</description>
+  </skill>
+  <skill id="401">
+    <name>이퀄리브리엄</name>
+    <description>위험! 어린 아이는 따라하면 안됩니다. 이사야와의 약속이야!</description>
+  </skill>
+  <skill id="402">
+    <name>플라우로스 오버로드</name>
+    <description>악마 플라우로스가 빙의된 마총으로 나갈 리가 없는 7번째 공격을 발사한다.</description>
+  </skill>
+
+  <skill id="403">
+    <name>부활동 임의조달</name>
+    <description>전투 종료시 스택수*7%만큼 전투 보상 증가.</description>
+  </skill>
+  <skill id="404">
+    <name>공학도선언</name>
+    <description>만국의 공학도여 일어나라! </description>
+  </skill>
+  <skill id="405">
+    <name>병특의 꿈</name>
+    <description>지금까지 만들었던 각종 무기들을 꺼내서 공격한다. 이것저것 꺼내다보면 시간 좀 걸릴수도 있지 뭘.</description>
+  </skill>
+
+
+</StringTable>

@@ -1,0 +1,25 @@
+body, table, div, p, a, span, h1, h2, h3, h4, input{
+    font-family: 'Nanum Gothic', sans-serif;
+    color : #343434;
+}
+
+body{
+    min-width: 920px;
+    min-height: 100%;
+    top:0px;
+}
+#content{
+    width: 100%;
+    min-height: 700px;
+    display: table; margin-left: auto; margin-right: auto;
+}
+#header
+{
+    height : 40px;
+    width : 100%;
+    padding : 10px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    background-color: #1c4d90;
+    z-index : 100;
+}

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<skill id="1">
+		<name>중독</name>
+	</skill>
+	<skill id="6">
+		<name>표적</name>
+	</skill>
+	<skill id="9">
+		<name>기절</name>
+	</skill>
+	<skill id="101">
+		<name>ATK 상승</name>
+	</skill>
+	<skill id="102">
+		<name>DEF 상승</name>
+	</skill>
+	<skill id="103">
+		<name>AGI 상승</name>
+	</skill>
+	<skill id="104">
+		<name>CON 상승</name>
+	</skill>
+	<skill id="105">
+		<name>최대 HP 상승</name>
+	</skill>
+	<skill id="106">
+		<name>치명타율 상승</name>
+	</skill>
+	<skill id="107">
+		<name>근거리 공격 무효</name>
+	</skill>
+	<skill id="108">
+		<name>원거리 공격 무효</name>
+	</skill>
+	<skill id="109">
+		<name>상태 지연</name>
+	</skill>
+	<skill id="110">
+		<name>효과 반전</name>
+	</skill>
+	<skill id="111">
+		<name>상태이상 무효</name>
+	</skill>
+	<skill id="112">
+		<name>상태이상 확률 감소</name>
+	</skill>
+	<skill id="113">
+		<name>감싸기</name>
+	</skill>
+	<skill id="114">
+		<name>도발</name>
+	</skill>
+	<skill id="115">
+		<name>신열</name>
+	</skill>
+	<skill id="116">
+		<name>전교 1등 킬러</name>
+	</skill>
+</StringTable>

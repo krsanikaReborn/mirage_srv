@@ -1,0 +1,26 @@
+{% extends '::base.html.twig' %}
+{% block title %}
+    Mirage Chronicle Apocripha
+{% endblock %}
+{% block stylesheets %}
+    <link rel="stylesheet" type="text/css" href="{{asset('bundles/admin/apocripha.css')}}" media="all">
+{% endblock %}
+{% block body %}
+    <table><tr>
+        <td style="width:300px">
+        {% include 'MirageAdminBundle::header.html.twig' %}
+        </td>
+        <td>
+            {%  block contents %}{%  endblock %}
+        </td>
+    </tr></table>
+{% endblock %}
+
+{% block javascripts %}
+    {{ parent() }}
+    <script src="{{asset('/bundles/admin/js/jquery-2.1.4.min.js')}}" type="text/javascript"></script>
+
+{% endblock %}
+
+
+

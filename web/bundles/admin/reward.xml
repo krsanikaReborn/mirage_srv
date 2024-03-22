@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+  <reward id="2">
+    <name>테스트</name>
+    <effect>테스트</effect>
+    <description>우어아으앙</description>
+  </reward>
+</StringTable>

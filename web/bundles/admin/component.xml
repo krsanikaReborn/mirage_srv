@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+	<component id="1">
+		<name>테스트</name>
+		<effect>테스트</effect>
+		<description>테스트</description>
+	</component>
+</StringTable>

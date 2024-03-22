@@ -1,0 +1,1170 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+	<teameffect id="52">
+		<name>群鷄一鶴</name>
+		<effect>테스트</effect>
+		<description>테스트</description>
+	</teameffect>
+	<teameffect id="53">
+		<name>더 트리니티</name>
+	</teameffect>
+	<teameffect id="54">
+		<name>단발머리 동맹</name>
+	</teameffect>
+	<teameffect id="55">
+		<name>브레이브 토이</name>
+	</teameffect>
+	<teameffect id="56">
+		<name>슈퍼동상대전</name>
+	</teameffect>
+	<teameffect id="57">
+		<name>큰일났어요!</name>
+	</teameffect>
+	<teameffect id="58">
+		<name>공학부의 기술력은 세계제일!</name>
+	</teameffect>
+	<teameffect id="59">
+		<name>Long long time ago</name>
+	</teameffect>
+	<teameffect id="60">
+		<name>정갈한 어둠</name>
+	</teameffect>
+	<teameffect id="61">
+		<name>아군이 된 적 보정</name>
+	</teameffect>
+	<teameffect id="62">
+		<name>The last standing</name>
+	</teameffect>
+	<teameffect id="63">
+		<name>감자와 폭탄</name>
+	</teameffect>
+	<teameffect id="64">
+		<name>코믹월드</name>
+	</teameffect>
+	<teameffect id="65">
+		<name>rnasterpiece</name>
+	</teameffect>
+	<teameffect id="66">
+		<name>삼백이론</name>
+	</teameffect>
+	<teameffect id="67">
+		<name>레드 슈즈 크루세이더</name>
+	</teameffect>
+	<teameffect id="68">
+		<name>가정의 수호신</name>
+	</teameffect>
+	<teameffect id="69">
+		<name>눈을 좀 더 크게 뜨세요</name>
+	</teameffect>
+	<teameffect id="70">
+		<name>별이 빛나는 이런밤에</name>
+	</teameffect>
+	<teameffect id="71">
+		<name>Wicked</name>
+	</teameffect>
+	<teameffect id="72">
+		<name>네버랜드</name>
+	</teameffect>
+	<teameffect id="73">
+		<name>Victims</name>
+	</teameffect>
+	<teameffect id="74">
+		<name>거위의 꿈</name>
+	</teameffect>
+	<teameffect id="75">
+		<name>사흉수</name>
+	</teameffect>
+	<teameffect id="76">
+		<name>내가 있을 장소</name>
+	</teameffect>
+	<teameffect id="77">
+		<name>미안해요 카메라맨</name>
+	</teameffect>
+	<teameffect id="78">
+		<name>학교 7대 불가사의</name>
+	</teameffect>
+	<teameffect id="28">
+		<name>마감인생</name>
+	</teameffect>
+	<teameffect id="29">
+		<name>너! 내 동료가 되라!</name>
+	</teameffect>
+	<teameffect id="30">
+		<name>목자의 지팡이</name>
+	</teameffect>
+	<teameffect id="31">
+		<name>싸우는 아가씨들</name>
+	</teameffect>
+	<teameffect id="32">
+		<name>예산집행중!</name>
+	</teameffect>
+	<teameffect id="33">
+		<name>신기루인법첩</name>
+	</teameffect>
+	<teameffect id="34">
+		<name>게릴라 콘서트</name>
+	</teameffect>
+	<teameffect id="35">
+		<name>카페 클라츠</name>
+	</teameffect>
+	<teameffect id="36">
+		<name>백작의 회색</name>
+	</teameffect>
+	<teameffect id="37">
+		<name>마의 13시</name>
+	</teameffect>
+	<teameffect id="38">
+		<name>기자정신</name>
+	</teameffect>
+	<teameffect id="39">
+		<name>공밀레</name>
+	</teameffect>
+	<teameffect id="40">
+		<name>왕의 예술</name>
+	</teameffect>
+	<teameffect id="41">
+		<name>천고의 가락</name>
+	</teameffect>
+	<teameffect id="42">
+		<name>재현된 신비</name>
+	</teameffect>
+	<teameffect id="43">
+		<name>눈 뜨면 출근</name>
+	</teameffect>
+	<teameffect id="44">
+		<name>비기너즈 럭</name>
+	</teameffect>
+	<teameffect id="45">
+		<name>프로타고니스트</name>
+	</teameffect>
+	<teameffect id="46">
+		<name>하우스 오브 빌런</name>
+	</teameffect>
+	<teameffect id="47">
+		<name>뜨거운 결투자들</name>
+	</teameffect>
+	<teameffect id="48">
+		<name>탕수육 소스다!</name>
+	</teameffect>
+	<teameffect id="49">
+		<name>누가 부먹을 하였는가</name>
+	</teameffect>
+	<teameffect id="50">
+		<name>생존전략</name>
+	</teameffect>
+	<teameffect id="51">
+		<name>동화의 비밀</name>
+	</teameffect>
+	<teameffect id="52">
+		<name>펜도깨비</name>
+	</teameffect>
+	<teameffect id="53">
+		<name>야근의 정령</name>
+	</teameffect>
+	<teameffect id="54">
+		<name>마감빙의</name>
+	</teameffect>
+	<teameffect id="55">
+		<name>피스메이커</name>
+	</teameffect>
+	<teameffect id="56">
+		<name>즉결처형</name>
+	</teameffect>
+	<teameffect id="57">
+		<name>차기작 주인공</name>
+	</teameffect>
+	<teameffect id="58">
+		<name>올레인지 펜 미사일</name>
+	</teameffect>
+	<teameffect id="59">
+		<name>불가사리</name>
+	</teameffect>
+	<teameffect id="60">
+		<name>차기작 주인공</name>
+	</teameffect>
+	<teameffect id="61">
+		<name>창격</name>
+	</teameffect>
+	<teameffect id="62">
+		<name>다리후리기</name>
+	</teameffect>
+	<teameffect id="63">
+		<name>아이기스</name>
+	</teameffect>
+	<teameffect id="64">
+		<name>솔로몬의 반지</name>
+	</teameffect>
+	<teameffect id="65">
+		<name>세상의 이치</name>
+	</teameffect>
+	<teameffect id="66">
+		<name>아폴리욘</name>
+	</teameffect>
+	<teameffect id="67">
+		<name>불꽃반응확인</name>
+	</teameffect>
+	<teameffect id="68">
+		<name>초장거리 정밀타격</name>
+	</teameffect>
+	<teameffect id="69">
+		<name>정체성부정</name>
+	</teameffect>
+	<teameffect id="70">
+		<name>커팅 샤드</name>
+	</teameffect>
+	<teameffect id="71">
+		<name>탈출마술</name>
+	</teameffect>
+	<teameffect id="72">
+		<name>기물파괴</name>
+	</teameffect>
+	<teameffect id="73">
+		<name>커팅 샤드</name>
+	</teameffect>
+	<teameffect id="74">
+		<name>최후의 파편질</name>
+	</teameffect>
+	<teameffect id="75">
+		<name>미스디렉션</name>
+	</teameffect>
+	<teameffect id="76">
+		<name>스태빙 샤드</name>
+	</teameffect>
+	<teameffect id="77">
+		<name>무거운 일격</name>
+	</teameffect>
+	<teameffect id="78">
+		<name>동경의 발자취</name>
+	</teameffect>
+	<teameffect id="79">
+		<name>스파토이 소환</name>
+	</teameffect>
+	<teameffect id="80">
+		<name>토르의 망치</name>
+	</teameffect>
+	<teameffect id="81">
+		<name>오컬트지식</name>
+	</teameffect>
+	<teameffect id="82">
+		<name>파편의 군세</name>
+	</teameffect>
+	<teameffect id="83">
+		<name>매칭 샤드</name>
+	</teameffect>
+	<teameffect id="84">
+		<name>등떠밀기</name>
+	</teameffect>
+	<teameffect id="85">
+		<name>펜촉 미사일</name>
+	</teameffect>
+	<teameffect id="86">
+		<name>클로징 샤드</name>
+	</teameffect>
+	<teameffect id="87">
+		<name>나의 '이빨'</name>
+	</teameffect>
+	<teameffect id="88">
+		<name>물로켓</name>
+	</teameffect>
+	<teameffect id="89">
+		<name>피겨린 3호</name>
+	</teameffect>
+	<teameffect id="90">
+		<name>반복작업</name>
+	</teameffect>
+	<teameffect id="91">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="92">
+		<name>폭풍강타</name>
+	</teameffect>
+	<teameffect id="93">
+		<name>얼리어답터</name>
+	</teameffect>
+	<teameffect id="94">
+		<name>옛다 특별한 거</name>
+	</teameffect>
+	<teameffect id="95">
+		<name>목꺽기</name>
+	</teameffect>
+	<teameffect id="96">
+		<name>여우신선</name>
+	</teameffect>
+	<teameffect id="97">
+		<name>지팡이</name>
+	</teameffect>
+	<teameffect id="98">
+		<name>장승투척</name>
+	</teameffect>
+	<teameffect id="99">
+		<name>장승</name>
+	</teameffect>
+	<teameffect id="100">
+		<name>보라색 손</name>
+	</teameffect>
+	<teameffect id="101">
+		<name>억누르는 손</name>
+	</teameffect>
+	<teameffect id="102">
+		<name>참교육자</name>
+	</teameffect>
+	<teameffect id="103">
+		<name>눈부신 대머리</name>
+	</teameffect>
+	<teameffect id="104">
+		<name>클레임</name>
+	</teameffect>
+	<teameffect id="105">
+		<name>페미니스트</name>
+	</teameffect>
+	<teameffect id="106">
+		<name>성수에 담근 BB 서브머신건</name>
+	</teameffect>
+	<teameffect id="107">
+		<name>히드라 다연장 성수로켓</name>
+	</teameffect>
+	<teameffect id="108">
+		<name>수리</name>
+	</teameffect>
+	<teameffect id="109">
+		<name>개틀링 BB탄 총</name>
+	</teameffect>
+	<teameffect id="110">
+		<name>하이드라 캐넌</name>
+	</teameffect>
+	<teameffect id="111">
+		<name>헤어진 여친</name>
+	</teameffect>
+	<teameffect id="112">
+		<name>거울너머의 일격</name>
+	</teameffect>
+	<teameffect id="113">
+		<name>1개 모자라</name>
+	</teameffect>
+	<teameffect id="114">
+		<name>44번의 허들넘기</name>
+	</teameffect>
+	<teameffect id="115">
+		<name>오늘은 네 차례란다</name>
+	</teameffect>
+	<teameffect id="116">
+		<name>네 친구 집이 어디니</name>
+	</teameffect>
+	<teameffect id="117">
+		<name>호버링</name>
+	</teameffect>
+	<teameffect id="118">
+		<name>잡아끌기</name>
+	</teameffect>
+	<teameffect id="119">
+		<name>에그브레이커</name>
+	</teameffect>
+	<teameffect id="120">
+		<name>지하철 틈의 귀신</name>
+	</teameffect>
+	<teameffect id="121">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="122">
+		<name>말년의 은신술</name>
+	</teameffect>
+	<teameffect id="123">
+		<name>사립다이스스쿨</name>
+	</teameffect>
+	<teameffect id="124">
+		<name>클로</name>
+	</teameffect>
+	<teameffect id="125">
+		<name>봉제인형</name>
+	</teameffect>
+	<teameffect id="126">
+		<name>저주받은 인형</name>
+	</teameffect>
+	<teameffect id="127">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="128">
+		<name>핥기</name>
+	</teameffect>
+	<teameffect id="129">
+		<name>막내야 후임 받아라</name>
+	</teameffect>
+	<teameffect id="130">
+		<name>식칼</name>
+	</teameffect>
+	<teameffect id="131">
+		<name>2달간 막내</name>
+	</teameffect>
+	<teameffect id="132">
+		<name>끝없는 후속작</name>
+	</teameffect>
+	<teameffect id="133">
+		<name>총검</name>
+	</teameffect>
+	<teameffect id="134">
+		<name>경비</name>
+	</teameffect>
+	<teameffect id="135">
+		<name>삼연사</name>
+	</teameffect>
+	<teameffect id="136">
+		<name>눈에서 빔</name>
+	</teameffect>
+	<teameffect id="137">
+		<name>회복광선</name>
+	</teameffect>
+	<teameffect id="138">
+		<name>시선고정</name>
+	</teameffect>
+	<teameffect id="139">
+		<name>스닉어택</name>
+	</teameffect>
+	<teameffect id="140">
+		<name>성불</name>
+	</teameffect>
+	<teameffect id="141">
+		<name>7대불가사의</name>
+	</teameffect>
+	<teameffect id="142">
+		<name>거울너머의 일격</name>
+	</teameffect>
+	<teameffect id="143">
+		<name>가위바위보</name>
+	</teameffect>
+	<teameffect id="144">
+		<name>7대불가사의</name>
+	</teameffect>
+	<teameffect id="145">
+		<name>잡아끌기</name>
+	</teameffect>
+	<teameffect id="146">
+		<name>발목잡기</name>
+	</teameffect>
+	<teameffect id="147">
+		<name>제로섬게임</name>
+	</teameffect>
+	<teameffect id="148">
+		<name>전교1등의 원한</name>
+	</teameffect>
+	<teameffect id="149">
+		<name>탑승</name>
+	</teameffect>
+	<teameffect id="150">
+		<name>현실과 타협</name>
+	</teameffect>
+	<teameffect id="151">
+		<name>목조르기</name>
+	</teameffect>
+	<teameffect id="152">
+		<name>매수</name>
+	</teameffect>
+	<teameffect id="153">
+		<name>가위눌림</name>
+	</teameffect>
+	<teameffect id="154">
+		<name>올콤보</name>
+	</teameffect>
+	<teameffect id="155">
+		<name>비탄의 아리아</name>
+	</teameffect>
+	<teameffect id="156">
+		<name>입시예술의 분노</name>
+	</teameffect>
+	<teameffect id="157">
+		<name>펜미사일</name>
+	</teameffect>
+	<teameffect id="158">
+		<name>빙의</name>
+	</teameffect>
+	<teameffect id="159">
+		<name>어시스턴트</name>
+	</teameffect>
+	<teameffect id="160">
+		<name>더블 펜 미사일</name>
+	</teameffect>
+	<teameffect id="161">
+		<name>챨리 챨리 챌린지</name>
+	</teameffect>
+	<teameffect id="162">
+		<name>굴러온 돌</name>
+	</teameffect>
+	<teameffect id="163">
+		<name>풀스로틀 급발진</name>
+	</teameffect>
+	<teameffect id="164">
+		<name>대폭발</name>
+	</teameffect>
+	<teameffect id="165">
+		<name>드리프트</name>
+	</teameffect>
+	<teameffect id="166">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="167">
+		<name>감염</name>
+	</teameffect>
+	<teameffect id="168">
+		<name>사후경직</name>
+	</teameffect>
+	<teameffect id="169">
+		<name>방문환영</name>
+	</teameffect>
+	<teameffect id="170">
+		<name>선전포고</name>
+	</teameffect>
+	<teameffect id="171">
+		<name>대왕 대지에 서다</name>
+	</teameffect>
+	<teameffect id="172">
+		<name>내려치기</name>
+	</teameffect>
+	<teameffect id="173">
+		<name>필사즉생필생즉사</name>
+	</teameffect>
+	<teameffect id="174">
+		<name>계급장 떼고 붙읍시다</name>
+	</teameffect>
+	<teameffect id="175">
+		<name>쪼기</name>
+	</teameffect>
+	<teameffect id="176">
+		<name>두루미사일</name>
+	</teameffect>
+	<teameffect id="177">
+		<name>은혜갚기</name>
+	</teameffect>
+	<teameffect id="178">
+		<name>입에서 빔</name>
+	</teameffect>
+	<teameffect id="179">
+		<name>초토화 빔</name>
+	</teameffect>
+	<teameffect id="180">
+		<name>팔다리는 장식</name>
+	</teameffect>
+	<teameffect id="181">
+		<name>등짝후리기</name>
+	</teameffect>
+	<teameffect id="182">
+		<name>어머니의 자애</name>
+	</teameffect>
+	<teameffect id="183">
+		<name>베이비해머</name>
+	</teameffect>
+	<teameffect id="184">
+		<name>원작에선 볼 수 없던 공격</name>
+	</teameffect>
+	<teameffect id="185">
+		<name>가택침입</name>
+	</teameffect>
+	<teameffect id="186">
+		<name>적정거리유지</name>
+	</teameffect>
+	<teameffect id="187">
+		<name>묘권</name>
+	</teameffect>
+	<teameffect id="188">
+		<name>호랑이교관</name>
+	</teameffect>
+	<teameffect id="189">
+		<name>신살자</name>
+	</teameffect>
+	<teameffect id="190">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="191">
+		<name>박쥐변신</name>
+	</teameffect>
+	<teameffect id="192">
+		<name>밤의 제왕</name>
+	</teameffect>
+	<teameffect id="193">
+		<name>플라즈마 피스톨</name>
+	</teameffect>
+	<teameffect id="194">
+		<name>스텔스</name>
+	</teameffect>
+	<teameffect id="195">
+		<name>은하계 호구</name>
+	</teameffect>
+	<teameffect id="196">
+		<name>가위질</name>
+	</teameffect>
+	<teameffect id="197">
+		<name>입찢기</name>
+	</teameffect>
+	<teameffect id="198">
+		<name>왜 그리 심각해</name>
+	</teameffect>
+	<teameffect id="199">
+		<name>휴지표창</name>
+	</teameffect>
+	<teameffect id="200">
+		<name>어떤 휴지 줄까</name>
+	</teameffect>
+	<teameffect id="201">
+		<name>텃세</name>
+	</teameffect>
+	<teameffect id="202">
+		<name>저승 편도 티켓</name>
+	</teameffect>
+	<teameffect id="203">
+		<name>프로파일링</name>
+	</teameffect>
+	<teameffect id="204">
+		<name>발로 뛰는 공무원</name>
+	</teameffect>
+	<teameffect id="205">
+		<name>괴력</name>
+	</teameffect>
+	<teameffect id="206">
+		<name>안다리걸기</name>
+	</teameffect>
+	<teameffect id="207">
+		<name>천하장사</name>
+	</teameffect>
+	<teameffect id="208">
+		<name>재생</name>
+	</teameffect>
+	<teameffect id="209">
+		<name>시선고정</name>
+	</teameffect>
+	<teameffect id="210">
+		<name>성장</name>
+	</teameffect>
+	<teameffect id="211">
+		<name>숫자세기</name>
+	</teameffect>
+	<teameffect id="212">
+		<name>추락</name>
+	</teameffect>
+	<teameffect id="213">
+		<name>줄넘기</name>
+	</teameffect>
+	<teameffect id="214">
+		<name>격투</name>
+	</teameffect>
+	<teameffect id="215">
+		<name>흉내내기</name>
+	</teameffect>
+	<teameffect id="216">
+		<name>모습을 빼앗는 자</name>
+	</teameffect>
+	<teameffect id="217">
+		<name>빛나는 얼굴</name>
+	</teameffect>
+	<teameffect id="218">
+		<name>무서운 얼굴</name>
+	</teameffect>
+	<teameffect id="219">
+		<name>꼰대질</name>
+	</teameffect>
+	<teameffect id="220">
+		<name>몸통박치기</name>
+	</teameffect>
+	<teameffect id="221">
+		<name>뺑소니</name>
+	</teameffect>
+	<teameffect id="222">
+		<name>헤드라이트</name>
+	</teameffect>
+	<teameffect id="223">
+		<name>붉은 시선</name>
+	</teameffect>
+	<teameffect id="224">
+		<name>틈새에 숨은 자</name>
+	</teameffect>
+	<teameffect id="225">
+		<name>째려보기</name>
+	</teameffect>
+	<teameffect id="226">
+		<name>머리카락 세기</name>
+	</teameffect>
+	<teameffect id="227">
+		<name>영역다툼</name>
+	</teameffect>
+	<teameffect id="228">
+		<name>천장이동</name>
+	</teameffect>
+	<teameffect id="229">
+		<name>맹독</name>
+	</teameffect>
+	<teameffect id="230">
+		<name>최후의 하나</name>
+	</teameffect>
+	<teameffect id="231">
+		<name>단단한 갑각</name>
+	</teameffect>
+	<teameffect id="232">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="233">
+		<name>비 부르기</name>
+	</teameffect>
+	<teameffect id="234">
+		<name>승천</name>
+	</teameffect>
+	<teameffect id="235">
+		<name>꼬리치기(물리)</name>
+	</teameffect>
+	<teameffect id="236">
+		<name>인어의 노래</name>
+	</teameffect>
+	<teameffect id="237">
+		<name>치유의 노래</name>
+	</teameffect>
+	<teameffect id="238">
+		<name>격투</name>
+	</teameffect>
+	<teameffect id="239">
+		<name>발묶기</name>
+	</teameffect>
+	<teameffect id="240">
+		<name>거대화</name>
+	</teameffect>
+	<teameffect id="241">
+		<name>감염</name>
+	</teameffect>
+	<teameffect id="242">
+		<name>공포의 존재</name>
+	</teameffect>
+	<teameffect id="243">
+		<name>경이적인 번식</name>
+	</teameffect>
+	<teameffect id="244">
+		<name>방화</name>
+	</teameffect>
+	<teameffect id="245">
+		<name>유천향제 사제폭탄</name>
+	</teameffect>
+	<teameffect id="246">
+		<name>염을 담는 그림</name>
+	</teameffect>
+	<teameffect id="247">
+		<name>삼각자</name>
+	</teameffect>
+	<teameffect id="248">
+		<name>숨바꼭질</name>
+	</teameffect>
+	<teameffect id="249">
+		<name>본뜨는 인형</name>
+	</teameffect>
+	<teameffect id="250">
+		<name>물대포</name>
+	</teameffect>
+	<teameffect id="251">
+		<name>물을 관리하는 신</name>
+	</teameffect>
+	<teameffect id="252">
+		<name>역린</name>
+	</teameffect>
+	<teameffect id="253">
+		<name>밥주걱</name>
+	</teameffect>
+	<teameffect id="254">
+		<name>밥이 보약</name>
+	</teameffect>
+	<teameffect id="255">
+		<name>부엌을 지키는 신</name>
+	</teameffect>
+	<teameffect id="256">
+		<name>창격</name>
+	</teameffect>
+	<teameffect id="257">
+		<name>경비</name>
+	</teameffect>
+	<teameffect id="258">
+		<name>대문을 지키는 신</name>
+	</teameffect>
+	<teameffect id="259">
+		<name>역류</name>
+	</teameffect>
+	<teameffect id="260">
+		<name>측간신의 저주</name>
+	</teameffect>
+	<teameffect id="261">
+		<name>화장실을 지키는 신</name>
+	</teameffect>
+	<teameffect id="262">
+		<name>가슴의 파편</name>
+	</teameffect>
+	<teameffect id="263">
+		<name>파편 풀파워</name>
+	</teameffect>
+	<teameffect id="264">
+		<name>하단회피</name>
+	</teameffect>
+	<teameffect id="265">
+		<name>불길한 울음소리</name>
+	</teameffect>
+	<teameffect id="266">
+		<name>소울풀 R&amp;B</name>
+	</teameffect>
+	<teameffect id="267">
+		<name>표본병</name>
+	</teameffect>
+	<teameffect id="268">
+		<name>쪼기</name>
+	</teameffect>
+	<teameffect id="269">
+		<name>버드미사일</name>
+	</teameffect>
+	<teameffect id="270">
+		<name>날짐승의 왕</name>
+	</teameffect>
+	<teameffect id="271">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="272">
+		<name>해일</name>
+	</teameffect>
+	<teameffect id="273">
+		<name>질투의 대죄</name>
+	</teameffect>
+	<teameffect id="274">
+		<name>몸통박치기</name>
+	</teameffect>
+	<teameffect id="275">
+		<name>투석</name>
+	</teameffect>
+	<teameffect id="276">
+		<name>거대한 뭍짐승</name>
+	</teameffect>
+	<teameffect id="277">
+		<name>파리의 무리</name>
+	</teameffect>
+	<teameffect id="278">
+		<name>폭식의 대죄</name>
+	</teameffect>
+	<teameffect id="279">
+		<name>파리대왕</name>
+	</teameffect>
+	<teameffect id="280">
+		<name>분열</name>
+	</teameffect>
+	<teameffect id="281">
+		<name>악신의 마술</name>
+	</teameffect>
+	<teameffect id="282">
+		<name>수의 폭력</name>
+	</teameffect>
+	<teameffect id="283">
+		<name>맹독의 엄니</name>
+	</teameffect>
+	<teameffect id="284">
+		<name>악의 화신</name>
+	</teameffect>
+	<teameffect id="285">
+		<name>악룡의 독혈</name>
+	</teameffect>
+	<teameffect id="286">
+		<name>개틀링 BB탄 총</name>
+	</teameffect>
+	<teameffect id="287">
+		<name>스터닝 피스트</name>
+	</teameffect>
+	<teameffect id="288">
+		<name>수능의 무게</name>
+	</teameffect>
+	<teameffect id="289">
+		<name>바주카 200</name>
+	</teameffect>
+	<teameffect id="290">
+		<name>기자의 격언</name>
+	</teameffect>
+	<teameffect id="291">
+		<name>막무가내 취재</name>
+	</teameffect>
+	<teameffect id="292">
+		<name>바주카 50R</name>
+	</teameffect>
+	<teameffect id="293">
+		<name>아수라현준</name>
+	</teameffect>
+	<teameffect id="294">
+		<name>침착한 보조</name>
+	</teameffect>
+	<teameffect id="295">
+		<name>월브레이킹펀치</name>
+	</teameffect>
+	<teameffect id="296">
+		<name>캔자스 킥</name>
+	</teameffect>
+	<teameffect id="297">
+		<name>도로시 블로킹</name>
+	</teameffect>
+	<teameffect id="298">
+		<name>이상한 나라의 물총</name>
+	</teameffect>
+	<teameffect id="299">
+		<name>이상한 세계의 안내인</name>
+	</teameffect>
+	<teameffect id="300">
+		<name>바쁘다바빠</name>
+	</teameffect>
+	<teameffect id="301">
+		<name>마법의 구두</name>
+	</teameffect>
+	<teameffect id="302">
+		<name>붉은 구두</name>
+	</teameffect>
+	<teameffect id="303">
+		<name>도끼투척</name>
+	</teameffect>
+	<teameffect id="304">
+		<name>도끼질</name>
+	</teameffect>
+	<teameffect id="305">
+		<name>뛰지 않는 심장</name>
+	</teameffect>
+	<teameffect id="306">
+		<name>나무베기</name>
+	</teameffect>
+	<teameffect id="307">
+		<name>기름칠</name>
+	</teameffect>
+	<teameffect id="308">
+		<name>양철의 몸</name>
+	</teameffect>
+	<teameffect id="309">
+		<name>홍차 한 잔</name>
+	</teameffect>
+	<teameffect id="310">
+		<name>뜨거운 홍차</name>
+	</teameffect>
+	<teameffect id="311">
+		<name>매드 티파티</name>
+	</teameffect>
+	<teameffect id="312">
+		<name>남자의 주먹</name>
+	</teameffect>
+	<teameffect id="313">
+		<name>마지막 도끼</name>
+	</teameffect>
+	<teameffect id="314">
+		<name>심장의 고동</name>
+	</teameffect>
+	<teameffect id="315">
+		<name>격려</name>
+	</teameffect>
+	<teameffect id="316">
+		<name>가정요리</name>
+	</teameffect>
+	<teameffect id="317">
+		<name>동화지식</name>
+	</teameffect>
+	<teameffect id="318">
+		<name>응원</name>
+	</teameffect>
+	<teameffect id="319">
+		<name>문학소녀</name>
+	</teameffect>
+	<teameffect id="320">
+		<name>고독한 소녀</name>
+	</teameffect>
+	<teameffect id="321">
+		<name>이상한 나라의 물총</name>
+	</teameffect>
+	<teameffect id="322">
+		<name>거울의 마녀</name>
+	</teameffect>
+	<teameffect id="323">
+		<name>가시덩굴의 마녀</name>
+	</teameffect>
+	<teameffect id="324">
+		<name>과자의 마녀</name>
+	</teameffect>
+	<teameffect id="325">
+		<name>물기</name>
+	</teameffect>
+	<teameffect id="326">
+		<name>고기먹기</name>
+	</teameffect>
+	<teameffect id="327">
+		<name>사자의 용기</name>
+	</teameffect>
+	<teameffect id="328">
+		<name>허수아비의 통찰</name>
+	</teameffect>
+	<teameffect id="329">
+		<name>도발</name>
+	</teameffect>
+	<teameffect id="330">
+		<name>인내의 달인</name>
+	</teameffect>
+	<teameffect id="331">
+		<name>돈다발 뺨때리기</name>
+	</teameffect>
+	<teameffect id="332">
+		<name>돈의 마녀</name>
+	</teameffect>
+	<teameffect id="333">
+		<name>사랑에 빠진 소녀</name>
+	</teameffect>
+	<teameffect id="334">
+		<name>독사과</name>
+	</teameffect>
+	<teameffect id="335">
+		<name>절세미녀</name>
+	</teameffect>
+	<teameffect id="336">
+		<name>달궈진 구두</name>
+	</teameffect>
+	<teameffect id="337">
+		<name>이상한 나라의 물총</name>
+	</teameffect>
+	<teameffect id="338">
+		<name>하트병사</name>
+	</teameffect>
+	<teameffect id="339">
+		<name>여왕의 카리스마</name>
+	</teameffect>
+	<teameffect id="340">
+		<name>권총사격</name>
+	</teameffect>
+	<teameffect id="341">
+		<name>경호</name>
+	</teameffect>
+	<teameffect id="342">
+		<name>사냥꾼의 충의</name>
+	</teameffect>
+	<teameffect id="343">
+		<name>함정 설치</name>
+	</teameffect>
+	<teameffect id="344">
+		<name>봐주기</name>
+	</teameffect>
+	<teameffect id="345">
+		<name>사냥의 기술</name>
+	</teameffect>
+	<teameffect id="346">
+		<name>격투</name>
+	</teameffect>
+	<teameffect id="347">
+		<name>경호</name>
+	</teameffect>
+	<teameffect id="348">
+		<name>수는 힘!</name>
+	</teameffect>
+	<teameffect id="349">
+		<name>꽃종류로 버프</name>
+	</teameffect>
+	<teameffect id="350">
+		<name>단검투척</name>
+	</teameffect>
+	<teameffect id="351">
+		<name>네버랜드 스트라이크</name>
+	</teameffect>
+	<teameffect id="352">
+		<name>영원한 소년</name>
+	</teameffect>
+	<teameffect id="353">
+		<name>단검이도류</name>
+	</teameffect>
+	<teameffect id="354">
+		<name>어른이 된 소년</name>
+	</teameffect>
+	<teameffect id="355">
+		<name>지팡이</name>
+	</teameffect>
+	<teameffect id="356">
+		<name>주사</name>
+	</teameffect>
+	<teameffect id="357">
+		<name>요정의 가루</name>
+	</teameffect>
+	<teameffect id="358">
+		<name>마녀의 성</name>
+	</teameffect>
+	<teameffect id="359">
+		<name>우리이이이이이이이이이집이다!</name>
+	</teameffect>
+	<teameffect id="360">
+		<name>구지가</name>
+	</teameffect>
+	<teameffect id="361">
+		<name>연재준비</name>
+	</teameffect>
+	<teameffect id="362">
+		<name>群鷄一鶴</name>
+	</teameffect>
+	<teameffect id="363">
+		<name>더 트리니티</name>
+	</teameffect>
+	<teameffect id="364">
+		<name>단발머리 동맹</name>
+	</teameffect>
+	<teameffect id="365">
+		<name>브레이브 토이</name>
+	</teameffect>
+	<teameffect id="366">
+		<name>슈퍼동상대전</name>
+	</teameffect>
+	<teameffect id="367">
+		<name>큰일났어요!</name>
+	</teameffect>
+	<teameffect id="368">
+		<name>공학부의 기술력은 세계제일!</name>
+	</teameffect>
+	<teameffect id="369">
+		<name>Long long time ago</name>
+	</teameffect>
+	<teameffect id="370">
+		<name>정갈한 어둠</name>
+	</teameffect>
+	<teameffect id="371">
+		<name>아군이 된 적 보정</name>
+	</teameffect>
+	<teameffect id="372">
+		<name>The last standing</name>
+	</teameffect>
+	<teameffect id="373">
+		<name>감자와 폭탄</name>
+	</teameffect>
+	<teameffect id="374">
+		<name>코믹월드</name>
+	</teameffect>
+	<teameffect id="375">
+		<name>rnasterpiece</name>
+	</teameffect>
+	<teameffect id="376">
+		<name>삼백이론x</name>
+	</teameffect>
+	<teameffect id="377">
+		<name>레드 슈즈 크루세이더</name>
+	</teameffect>
+	<teameffect id="378">
+		<name>가정의 수호신</name>
+	</teameffect>
+	<teameffect id="379">
+		<name>눈을 좀 더 크게 뜨세요</name>
+	</teameffect>
+	<teameffect id="380">
+		<name>별이 빛나는 이런밤에</name>
+	</teameffect>
+	<teameffect id="381">
+		<name>Wicked</name>
+	</teameffect>
+	<teameffect id="382">
+		<name>네버랜드</name>
+	</teameffect>
+	<teameffect id="383">
+		<name>Victims</name>
+	</teameffect>
+	<teameffect id="384">
+		<name>거위의 꿈</name>
+	</teameffect>
+	<teameffect id="385">
+		<name>사흉수</name>
+	</teameffect>
+	<teameffect id="386">
+		<name>내가 있을 장소</name>
+	</teameffect>
+	<teameffect id="387">
+		<name>미안해요 카메라맨</name>
+	</teameffect>
+	<teameffect id="388">
+		<name>학교 7대 불가사의</name>
+		<description>테스트</description>
+	</teameffect>
+</StringTable>

@@ -1,0 +1,286 @@
+body{
+    margin : 0px;
+}
+
+select{
+    font-size : 14px;
+}
+
+
+.textArea{
+    width : 600px;
+    height : 60px;
+}
+
+#content{
+    padding : 10px;
+    margin-left : 10px;
+    left: 300px;
+    position: absolute;
+
+}
+
+#sidebar{
+    background-color: #99CDD8;
+    width: 300px;
+    height : 100%;
+    position: absolute;
+    top: 0px;
+
+}
+
+.setterBox{
+    /*display : none;*/
+    background-color : mistyrose;
+    border : #C82829 1px dotted;
+    padding : 3px;
+}
+
+#ori_tags{
+    display : none;
+}
+
+.sbox{
+    width : 300px;
+    height : 30px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.button{
+    width : 200px;
+    height : 30px;
+    font-size : 17px;
+
+}
+
+.button.accept{
+    background-color: #6b9311;
+}
+
+.button.cancle{
+    background-color : #B0413E;
+}
+
+
+.mas{
+    width : 100px;
+    height : 100px;
+    border : #A5C261 1px solid;
+}
+
+
+/*-----ARK Editer------*/
+
+.ark{
+    margin : 10px;
+    padding : 5px;
+    border : cadetblue 2px double;
+}
+
+.phase{
+    margin : 5px;
+    padding : 5px;
+    border : #B0413E 1px double;
+
+}
+
+#tag_table{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: azure;
+    border: orange 2px solid;
+    padding: 4px;
+}
+
+
+/*-----SKILL Editer------*/
+
+.skill{
+    border : darkcyan 2px solid;
+}
+
+.skillLv{
+    margin-top : 10px;
+}
+
+.skillLevel{
+    margin : 10px;
+    border : cadetblue 2px double;
+}
+
+.skillLevel:nth-of-type(6){
+    background : rgb(250, 250, 255);
+}
+.skillLevel:nth-of-type(7){
+    background : rgb(240, 240, 255);
+}
+.skillLevel:nth-of-type(8){
+    background : rgb(230, 230, 255);
+}
+.skillLevel:nth-of-type(9){
+    background : rgb(220, 220, 255);
+}
+.skillLevel:nth-of-type(10){
+    background : rgb(200, 200, 255);
+}
+.skillLevel:nth-of-type(11){
+    background : rgb(180, 180, 255);
+}
+.skillLevel:nth-of-type(12){
+    background : rgb(160, 160, 255);
+}
+.skillLevel:nth-of-type(13){
+    background : rgb(140, 140, 255);
+}
+.skillLevel:nth-of-type(14){
+    background : rgb(120, 120, 255);
+}
+.skillLevel:nth-of-type(15){
+    background : rgb(100, 100, 255);
+}
+
+
+.skillEffect{
+    margin : 5px;
+    border : #B0413E 1px double;
+}
+
+.skillEffectContent{
+    margin : 5px;
+    border : #6b9311 1px dotted;
+}
+
+#allTarget{
+    border: 2px solid purple;
+    position: static;
+    margin: 5px;
+}
+
+
+/*-----Reward Editer------*/
+
+.itemBox{
+    margin : 5px;
+    padding : 5px;
+    border : black 2px solid;
+    text-align: left;
+}
+
+.item{
+    background: #dd6666;
+}
+
+.equipment{
+    background: #5eb5e0;
+}
+
+.ark{
+    background: #a3dd9c;
+}
+
+
+/*-----Encounter Editer------*/
+
+
+.tileBlock{
+    width : 110px;
+    height : 110px;
+}
+
+.mapTd{
+    border: black 1px dotted;
+}
+#field{
+    margin : 5px;
+    border : darkred 2px double;
+}
+
+.tiles{
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    width : 110px;
+    height : 110px;
+}
+
+.tiles > input{
+    width : 60px;
+}
+
+.terrain1{
+    background-color : darkolivegreen;
+}
+.terrain2{
+    background-color : #8959A8;
+}
+
+.terrain3{
+    background-color : #880000;
+
+}
+.terrain4{
+    background-color : #916319;
+
+}
+.terrain5{
+    background-color : #444444;
+
+}
+.terrain6{
+}
+.terrain7{
+
+}
+.terrain8{
+
+}
+.terrain9{
+
+}
+
+.terrain10{
+
+}
+
+/*-----Summon------*/
+
+#gravityBar{
+    position: fixed;
+    right: 0px;
+    top : 0px;
+    height: 100%;
+    width: 100px;
+    border : dotted 1px red;
+}
+
+.grade1{
+    background-color: #333333;
+}
+.grade2{
+    background-color: darkslategray;
+}
+
+.grade3{
+    background-color: saddlebrown;
+}
+.grade4{
+    background-color: silver;
+}
+.grade5{
+    background-color: gold;
+}
+.grade6{
+    background-color: springgreen;
+}
+
+.grade7{
+    background-color: powderblue;
+}
+
+/*-----Deal Meter------*/
+
+.numerera{
+    width : 30px;
+}

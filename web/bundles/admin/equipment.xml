@@ -1,0 +1,1176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+  <equipment id="1">
+    <name>단도</name>
+    <effect>테스트</effect>
+    <description>숲 속에서, 마을에서, 밥 먹을 때 등 온갓 상황에서 활용할 수 있는 나이프. 5세기 영국에선 남녀노소 누구나 가지고 있다.</description>
+  </equipment>
+  <equipment id="2">
+    <name>로마식 군도</name>
+    <description>로마 병사들의 부무장. 긴 창과 사각 방패로 싸우다가 근접 박투전이 시작되면 이 칼을 뽑는다. 찌르기 좋은 모양새를 하고 있다.</description>
+  </equipment>
+  <equipment id="3">
+    <name>칠흑의 단검</name>
+    <description>검은 가죽으로 무두질된 세련된 장식의 단검. 소유자의 중이력을 25%향상시키지만 이 게임에 그런 스테이터스는 없다.</description>
+  </equipment>
+  <equipment id="4">
+    <name>녹슨 검</name>
+    <description>오랫동안 들판에 버려져 있던 검. 줏어와서 갈면 쓸만해진다.</description>
+  </equipment>
+  <equipment id="5">
+    <name>장검</name>
+    <description>이 시대 기사들이 흔히 사용하는 검.</description>
+  </equipment>
+  <equipment id="6">
+    <name>클레이모어</name>
+    <description>픽트의 하이랜더들이 즐겨 사용하는 양손칼. 날부분을 잡고 후려치기도 하므로 방심은 금물이다.</description>
+  </equipment>
+  <equipment id="7">
+    <name>아르덴의 활</name>
+    <description>아르덴 숲의 나무로 만든 활은 예로부터 명품으로 유명했다. 문제는 늘 그렇듯이 사수의 실력이다.</description>
+  </equipment>
+  <equipment id="8">
+    <name>눅진 갑옷</name>
+    <description>습기를 먹어서 눅눅해진 갑옷. 철제던 가죽제던 이렇게 되면 착용감이 찝찝해진다.</description>
+  </equipment>
+  <equipment id="9">
+    <name>늑대 털가죽</name>
+    <description>늑대를 벗겨서 뒤집어쓴 가죽. 이것만 있으면 당신도 울프샤르크가 될 수 있다.</description>
+  </equipment>
+  <equipment id="10">
+    <name>가죽갑옷</name>
+    <description>무두질을 통해 가공한 가죽으로 만든 갑옷. 여러 번 구우면 맛…..이 아니라 단단해진다.</description>
+  </equipment>
+  <equipment id="11">
+    <name>사슬갑옷</name>
+    <description>철조각을 이어붙여서 만든 갑옷. 중요 부위를 지키는데에 좋지만 찌르기 공격엔 취약해진다.</description>
+  </equipment>
+  <equipment id="12">
+    <name>오검 칼</name>
+    <description>드루이드들이 제식할 때에 사용하는 칼. 그들이 말하는 고대 켈트 언어인 오검문자도 이 칼모양에서 나왔다.</description>
+  </equipment>
+  <equipment id="13">
+    <name>국자</name>
+    <description>생활의 필수품. 건더기가 가라앉았을 때 이게 없으면 슬퍼진다.</description>
+  </equipment>
+  <equipment id="14">
+    <name>늑대의 송곳니</name>
+    <description>기다란 늑대의 송곳니는 강함의 상징이기도 하다.</description>
+  </equipment>
+  <equipment id="15">
+    <name>송곳니 목걸이</name>
+    <description>사냥한 짐승의 이빨을 모아서 거는 것은 뛰어난 사냥군의 증거이기도 하다. 그보단 멋으로 한다.</description>
+  </equipment>
+  <equipment id="16">
+    <name>털장화</name>
+    <description>한겨울의 북쪽 섬은 매우 춥다. 눈이 푹푹 쌓이는 경험을 해보면 장화의 소중함을 알게 된다.</description>
+  </equipment>
+  <equipment id="17">
+    <name>가죽장화</name>
+    <description>가죽을 덧댄 신발. 방패로 가리지 못하는 다리는 꼭 방어해야 한다.</description>
+  </equipment>
+  <equipment id="18">
+    <name>화룡의 투구</name>
+    <description>파이어 드레이크의 불에도 견딘다. 뿔장식을 들이받기만 해도 아파 보이지만…..</description>
+  </equipment>
+  <equipment id="19">
+    <name>용의 숨결</name>
+    <description>브레스를 뿜을 수 있는 용들의 날숨엔 미량의 가스가 포함되어 있다. 불을 붙이면…..</description>
+  </equipment>
+  <equipment id="20">
+    <name>용의 뿔</name>
+    <description>이 시절이 되면, 우리가 아는 용보다는 날개가 없는 드레이크가 주요 생산처가 되었다. 이걸 전문적으로 사냥하는 자들을 우리는 헌터라고 부른다.</description>
+  </equipment>
+  <equipment id="21">
+    <name>용의 비늘</name>
+    <description>용의 비늘은 단단하기 때문에 곧잘 갑옷의 기본재료로 사용된다.</description>
+  </equipment>
+  <equipment id="22">
+    <name>죽창</name>
+    <description>사해만민이 평등하다는 인류 가치의 상징. 이 민중이 가질 수 있는 최고의 가치를 모르는 자는 한 방만 찔려보면 알게 된다.</description>
+  </equipment>
+  <equipment id="23">
+    <name>사르마티아 기병창</name>
+    <description>기승상태에서 한손으로 쓰는걸 상정한 창. 그러나 숙련된 사르마티아의 상남자들은 양손으로 쓴다. 말? 말은 무릎으로 조종하는거다.</description>
+  </equipment>
+  <equipment id="24">
+    <name>픽트식 회전창</name>
+    <description>창날 뒤에 나선돌기를 박은 창. 창을 뽑을 때에도 고통을 주겠다는 강한 의지가 엿보인다.</description>
+  </equipment>
+  <equipment id="25">
+    <name>칼라드휘그</name>
+    <description>나선모양으로 꼬여있는 창. 켈트어로 '단단한 벼락'이란 뜻이며, 밤에 벼락이 잘 보이는 것 때문에</description>
+  </equipment>
+  <equipment id="26">
+    <name>가죽방패</name>
+    <description>흔히 구할 수 있는 방패. 별 거 아닌거 같지만 더 옛날엔 부의 상징이었다.</description>
+  </equipment>
+  <equipment id="27">
+    <name>원형방패</name>
+    <description>가죽을 여러 겹 덧대어 방호력을 올린 방패. 로마, 더 멀리 그리스에서 주로 사용된 방식이다.</description>
+  </equipment>
+  <equipment id="28">
+    <name>체스판 방패</name>
+    <description>은색과 청색으로 짜여진 아름다운 체스판….인데 급하면 뭐라도 방패로 써야 한다. 무거워서 그렇지 크기는 딱이다.</description>
+  </equipment>
+  <equipment id="29">
+    <name>용비늘 방패</name>
+    <description>용의 비늘을 촘촘히 둘러서 짠 방패. 마름모꼴인 이유는 하체를 방호하기 위해서이다.</description>
+  </equipment>
+  <equipment id="30">
+    <name>호수의 마검</name>
+    <description>요정들의 피로 저주가 걸린 검. 착용자는 반드시 불행해지며 한번 쥐면 탐욕이 일어나 검을 놓지 못하게 된다.</description>
+  </equipment>
+  <equipment id="31">
+    <name>홍사자의 갑주</name>
+    <description>사자무늬가 새겨진 붉은 갑옷. 불의 정령이 깃들어서 착용자를 보호해준다.</description>
+  </equipment>
+  <equipment id="32">
+    <name>날개옷</name>
+    <description>달려있는 날개로 날수는 없지만, 일정 무게 이하일 경우엔 뜨게 된다. 적응하는 데 꽤나 시간이 걸린다.</description>
+  </equipment>
+  <equipment id="33">
+    <name>천사의 소매자락</name>
+    <description>얊은 베일로 된 반투명한 옷자락. 높은 방어력으로 보는 이의 신앙심을 일깨워준다.</description>
+  </equipment>
+  <equipment id="34">
+    <name>사과술</name>
+    <description>사과를 담궈서 만든 술. 식전주로 자주 쓰이고, 각종 행사를 위해 대량으로 양산된다.</description>
+  </equipment>
+  <equipment id="35">
+    <name>호박 랜턴</name>
+    <description>사탕 아니면 분탕!</description>
+  </equipment>
+  <equipment id="36">
+    <name>각탁</name>
+    <description>사각형의 흔한 테이블. 짧은 쪽에 앉는 사람이 밥값 계산을 한다는 무서운 저주가 걸려있다.</description>
+  </equipment>
+  <equipment id="37">
+    <name>원탁</name>
+    <description>기사들간의 분쟁을 조정하기 위한 테이블. 신분은 사라졌지만 늘 왕의 왼쪽부터 발언을 강요당하게 된다.</description>
+  </equipment>
+  <equipment id="38">
+    <name>토끼발</name>
+    <description>가지고 있으면 행운이 깃든다는 물건이다.</description>
+  </equipment>
+  <equipment id="39">
+    <name>네잎 클로버</name>
+  </equipment>
+  <equipment id="40">
+    <name>해의 조각</name>
+  </equipment>
+  <equipment id="41">
+    <name>달의 조각</name>
+  </equipment>
+  <equipment id="42">
+    <name>별의 조각</name>
+  </equipment>
+  <equipment id="43">
+    <name>태양신의 징표</name>
+  </equipment>
+  <equipment id="44">
+    <name>달신의 징표</name>
+  </equipment>
+  <equipment id="45">
+    <name>별신의 징표</name>
+  </equipment>
+  <equipment id="46">
+    <name>욕정의 안개</name>
+    <description>얊은 책을 보고 흥분했을 때 나오는 숨을 모은 것. 수집하는 사람은 매우 욕을 봤을 것이다.</description>
+  </equipment>
+  <equipment id="47">
+    <name>양초</name>
+    <description>밀랍에 기름을 섞어서 굳힌 조명기구. 기름이 포함되어 있기 때문에 철제장비에 발라서 방습효과를 볼 수 있다.</description>
+  </equipment>
+  <equipment id="48">
+    <name>연철</name>
+    <description>탄소 함량이 낮은 철이다. 부드럽기 때문에 두드려서 여러 모양으로 만들 수 있다.</description>
+  </equipment>
+  <equipment id="49">
+    <name>주철</name>
+    <description>탄소 함량을 높힌 철. 단단하긴 하지만 그만큼 잘 깨진다.</description>
+  </equipment>
+  <equipment id="50">
+    <name>강철</name>
+    <description>연철과 주철의 단점을 이겨내기 위해 탄소 함량을 적절히 조정한 철. 그러나 이번엔 매우 무겁다.</description>
+  </equipment>
+  <equipment id="51">
+    <name>다마스쿠스강</name>
+    <description>특유의 아름다운 물결무늬가 새겨진 강철. 부러지지도 휘지도 않는 대장장이들의 꿈이 담긴 합금이다.</description>
+  </equipment>
+  <equipment id="52">
+    <name>사슴뿔 촛대</name>
+    <description>켈트 문화권에서 갈래가 많은 사슴뿔은 인생동안 만나는 많은 선택지를 의미했다. 이걸 들고 행렬에 참가하는 자는 분명 분별력을 가진 현자일 것이다.</description>
+  </equipment>
+  <equipment id="53">
+    <name>프레셀리의 청석</name>
+    <description>청금석의 일종으로, 금색이 아닌 붉은색이 맴도는 희귀한 보석. 채굴되는 지역엔 모두 고대문명의 그림자가 있다.</description>
+  </equipment>
+  <equipment id="54">
+    <name>사르센석</name>
+    <description>사르스 지방에서만 채굴되는 검은 진흙. 마력을 전도하는 성질이 있어서 굳혀서 온갓 마법아이템에 들어간다. 고대의 초집적반도체임이 분명하다.</description>
+  </equipment>
+  <equipment id="55">
+    <name>엑스칼리버</name>
+    <description>비비아가 내어준 별빛의 검. 아주 먼 곳에서 힘을 끌어다 쓰며, 하늘에 박힌 별들은 모두 사람들의 의지로 빛난다.</description>
+  </equipment>
+  <equipment id="56">
+    <name>클라렌트</name>
+    <description>신의 임재와 그로부터 생기는 왕국의 평화를 상징하는 검. 삐가번쩍해서 의례때 주로 쓰였다.</description>
+  </equipment>
+  <equipment id="57">
+    <name>롱고미안트</name>
+    <description>누구든 꼳히기만 하면 왕후장상이던 용자던 한방에 모시는 창. 죽창정신이 없으면 사용할 수 없는 물건이다.</description>
+  </equipment>
+  <equipment id="58">
+    <name>갈라틴</name>
+    <description>비비아가 내어준 햇빛의 검. 태양빛을 받지 않으면 마력이 떨어지므로, 광합성을 하는 것이 분명하다.</description>
+  </equipment>
+  <equipment id="59">
+    <name>아론다이트</name>
+    <description>비비아가 내어준 달빛의 검. 이 세상의 물질로 되어있지 않기 때문에 이가 상할 일은 없다.</description>
+  </equipment>
+  <equipment id="60">
+    <name>다윗의 검</name>
+    <description>고대 이스라엘의 왕 다윗이 사용한 검. 청동제이지만 무식한 거대함이 원래 주인이 누구인지를 상기시켜준다.</description>
+  </equipment>
+  <equipment id="61">
+    <name>모글레이</name>
+    <description>매우 거대한 검이다. 정면에서 받으면 매우 아플 것이다. 아프고 끝나면 다행이고 아니면…..</description>
+  </equipment>
+  <equipment id="62">
+    <name>카른웨난</name>
+    <description>우서가 사용하던 백색의 단검. 본래 투척용이지만 아서는 빛으로 근거리사격을 할 때 자주 사용한다.</description>
+  </equipment>
+  <equipment id="63">
+    <name>크로케아 모르스</name>
+    <description>라틴어로 '황색의 죽음'을 뜻하는 황금의 검. 우서의 동생 넨니우스가 노획하여 사용했으며, 사후 같이 매장되었다.</description>
+  </equipment>
+  <equipment id="64">
+    <name>광휘의 검</name>
+    <description>켈트 4대비보 중 하나. 태양빛을 상징하는 도구이며, 항상 따스한 열을 뿜기 때문에 겨울철 난방용으로도 쓰인다.</description>
+  </equipment>
+  <equipment id="65">
+    <name>선정의 돌</name>
+    <description>켈트 4대비보 중 하나. 올라선 자의 운명을 알려주는 돌이며, 금수저가 올라서면 크게 소리를 지른다.</description>
+  </equipment>
+  <equipment id="66">
+    <name>하얀 벼락</name>
+    <description>켈트 4대비보 중 하나. 번개가 가진 파괴적인 힘을 상징한다. 한국의 고3들에게 분석되어 무한동력을 제공하는 발전기로 거듭났다.</description>
+  </equipment>
+  <equipment id="67">
+    <name>풍요의 가마솥</name>
+    <description>켈트 4대비보 중 하나. 비록 맛없는 올챙이죽이지만 솥에서 무한정 나온다. 인류의 식량문제를 해결할 것으로 그 귀추가 주목받고 있다.</description>
+  </equipment>
+  <equipment id="68">
+    <name>프라가라흐</name>
+    <description>요정왕의 검으로, 살기를 감지해서 스스로 검집에서 빠져나온다. 자동반격은 매우 아프다. 귀신이 들린 것이 분명하다.</description>
+  </equipment>
+  <equipment id="69">
+    <name>롱기누스</name>
+    <description>성자의 옆구리를 찔러서 편하게 만들어준 로마군인의 창. 창 끝에서 계속 핏방울이 떨어지며, 이 피를 쓰면 어떠한 불치병도 치유할 수 있다.</description>
+  </equipment>
+  <equipment id="70">
+    <name>다그다의 곤봉</name>
+    <description>생사를 관장하는 힘이 있다. 죽은 사람도 살려내고, 산 사람도 탁 치면 억 죽는게 매력적인 무기이다.</description>
+  </equipment>
+  <equipment id="71">
+    <name>페일노트</name>
+    <description>고대의 빔 병기중 하나. 똑바로 겨눌 수만 있으면 절대로 빗나가지 않으며, 상대의 갑옷도 어느정도는 녹일 수 있다.</description>
+  </equipment>
+  <equipment id="72">
+    <name>에스트렌지 렌지</name>
+    <description>기묘한 끈의 검'. 금십자 검의 진짜 모습. 휘두르기만 해도 사람이 죽어나가는 마법의 무기이다.</description>
+  </equipment>
+  <equipment id="73">
+    <name>금십자가의 검</name>
+    <description>소유자를 비참한 죽음으로 몰아간다고 알려진 마검. 거꾸로 세우면 십자가처럼 생겼다.</description>
+  </equipment>
+  <equipment id="74">
+    <name>피의 운반자</name>
+    <description>딘드레인의 금발이 감긴 검집. 숙녀의 머리카락은 검에 서린 귀기를 진정시킬 수 있다.</description>
+  </equipment>
+  <equipment id="75">
+    <name>생명의 검집</name>
+    <description>소유자를 지치지 않게 해주며, 상처를 입어도 재생하는 검집. 아서왕이 잃어버린 뒤로 행방이 묘연했다.</description>
+  </equipment>
+  <equipment id="76">
+    <name>피십자방패</name>
+    <description>사람이 매달린 모습이 피로 그려진 방패. 소유자를 치유할 수 있다.</description>
+  </equipment>
+  <equipment id="77">
+    <name>아리마대 요셉의 방패</name>
+    <description>요셉이 자신의 피로 직접 십자가를 그린 방패. 자신에게 닿은 무기를 부러뜨리는 마법의 방패이다.</description>
+  </equipment>
+  <equipment id="78">
+    <name>성해포</name>
+    <description>성자의 시신을 감쌌다고 알려진 천조각. 전세계에 퍼진 성해포만 모아도 범선 한척에 쓰일 돛이 나온다. 유사품에 주의하자.</description>
+  </equipment>
+  <equipment id="79">
+    <name>성배</name>
+    <description>성자가 최후의 만찬에서 사용한 잔. 이 세상에 귀속된 물건이 아니며, 얻기 위해서는 현실을 이탈해야 한다. 여기까지 오시느라 수고하셨습니다.</description>
+  </equipment>
+  <equipment id="80">
+    <name>숙녀의 머리카락</name>
+    <description>기사의 생환을 위해 숙녀가 잘라주는 부적. 어째서인지 금발이 아니면 효과가 떨어지는 것 같다.</description>
+  </equipment>
+  <equipment id="81">
+    <name>솔로몬의 인장 반지</name>
+    <description>72악마를 부린 명왕 솔로몬의 문양이 들어간 반지. 진품은 아니지만 그 문양만으로도 효과가 있다.</description>
+  </equipment>
+  <equipment id="82">
+    <name>올바른 교과서</name>
+    <description>교과과정을 수록한 책. 외워야 할 것이 늘어서 학생들은 별로 달가워하지 않는 것 같다.</description>
+  </equipment>
+  <equipment id="83">
+    <description>세상의 수많은 명작과 인류의 자산은 이 끝에서 시작됐다. 잉크는 별첨이다.</description>
+  </equipment>
+  <equipment id="84">
+    <description>커피통을 호스로 이어 곧장 주입할 수 있게 설계된 충전기. 주유총으로 커피를 발사할 수 있다.</description>
+  </equipment>
+  <equipment id="85">
+    <description>속에 흙을 채워서 쌓으면 훌륭한 진지가 되고, 쓰레기를 모아서 버리면 마을이 깨끗해진다. 단체생활에서 흔히 만날 수 있다. 군대라던가.</description>
+  </equipment>
+  <equipment id="86">
+    <description>온갓 재료로 들어가지만 보통은 사람을 칠 때 사용된다. 못을 박아서 공격력을 올린 상태라면 도망가라.</description>
+  </equipment>
+  <equipment id="87">
+    <description>초중등교육법 시행령 제31조(학생의 징계 등) (1항 내지 7항 생략) ⑧ 학교의 장은 법 제18조제1항 본문에 따라 지도를 할 때에는 학칙으로 정하는 바에 따라 훈육·훈계 등의 방법으로 하되, 도구, 신체 등을 이용하여 학생의 신체에 고통을 가하는 방법을 사용해서는 아니 된다. &lt;개정 2011.3.18&gt;. 그럼 고등학생은요?</description>
+  </equipment>
+  <equipment id="88">
+    <description>거꾸로 들고 때리면 그럭저럭 아프긴 하다. 하지만 부러졌을 때의 뒷감당은 여간 어려운 일이 아니다.</description>
+  </equipment>
+  <equipment id="89">
+    <description>학생들의 이름이 기록된 명부…이지만 그보다는 모서리로 머리를 찍는데 주로 사용된다. 아프다.</description>
+  </equipment>
+  <equipment id="90">
+    <description>플라스틱 탄을 발사할 수 있는 조그만 총이다. 그러나 공학부의 손을 타면….</description>
+  </equipment>
+  <equipment id="91">
+    <description>일본에서 많이 쓰이는 한날도. 적당히 휘어져 있어서 마상에서 쓰기나 베는데에 큰 힘을 발휘한다.</description>
+  </equipment>
+  <equipment id="92">
+    <description>모서리로 찔리면 매우 아픈 자. 정작 고등학교 과정에선 잘 쓰이지 않는다.</description>
+  </equipment>
+  <equipment id="93">
+    <description>2015년 4월에 진행된 텀블벅 크라우드펀딩 후원자의 증표. 정말정말 감사합니다!</description>
+  </equipment>
+  <equipment id="94">
+    <description>불확실한 것은 아무것도 없을 것이며, 과거와 마찬가지로 미래가 그의 눈 앞에 나타날 것이다.</description>
+  </equipment>
+  <equipment id="95">
+    <description>포크인 동시에 숟가락으로서 기능하는 도구. 익숙해지면 이거 하나로 생선 뼈도 바른다.</description>
+  </equipment>
+  <equipment id="96">
+    <description>잡귀를 불러들여 저장한 펜. 필담을 통해 의사소통을 할 수 있으며, 그대로 원고사역에 동원되기도 한다.</description>
+  </equipment>
+  <equipment id="97">
+    <description>잡귀를 불러들여 하드디스크에 저장한 주술도구. 디스크 안에 있는 데이터는 모두 잡귀가 활용할 수 있으며, AI를 구현하기 힘들 때 사용한다.</description>
+  </equipment>
+  <equipment id="98">
+    <description>긴 말이 필요없는 РПГ-7. 신앙의 방열판에 신의 눈, 관용의 방아쇠가 달린 대전차 로켓포이다. 다만 한티고교에서는 실탄을 구할 수 없어서 탄산수 물로켓을 발사체로 사용한다.</description>
+  </equipment>
+  <equipment id="99">
+    <description>공룡의 화석에 달린 이빨. 매년 몇개씩 꾸준히 사라지고 있으며, 그 자리엔 금박종이를 대신 붙여놓고 가는 묭한 관습이 생겼다.</description>
+  </equipment>
+  <equipment id="100">
+    <description>뗀석기의 상징과도 같으며, 돌을 돌에 던지면 쪼개지면서 몇 개 얻을 수 있다. 인류가 가장 먼저 손에 쥔 것이라고 생각하면 가슴이 뜨거워진다.</description>
+  </equipment>
+  <equipment id="101">
+    <name>G펜촉</name>
+    <description>옛날엔 무릎 위에 놓고 쓴다 하여 랩탑이라 불렀는데 요즘엔 그런 사람이 없다. 만약 있다면 그는 아재이므로 가까운 아재센터에 신고하자.</description>
+  </equipment>
+  <equipment id="102">
+    <name>커피방사기</name>
+    <description>빛을 모으는데 필요한 간단한 광학도구. 이후 온갓 물건에 쓰이며 동네 문방구에서 쉽게 구입할 수 있다. 그리고 이걸로 개미 태워죽이지 마라.</description>
+  </equipment>
+  <equipment id="103">
+    <name>마대자루</name>
+    <description>교회에 흔히 걸려있는 십자가. 그리스도의 보속을 상징하며 매우 무겁다.</description>
+  </equipment>
+  <equipment id="104">
+    <name>각목</name>
+    <description>외계인에게 달마도를 팔고 받아온 광선총. 어떤 원리로 발사되는지 모른다.</description>
+  </equipment>
+  <equipment id="105">
+    <name>사랑의 매</name>
+    <description>역사 깊은 볼펜. 40년간 30억자루가 팔렸다. 쓰다보면 잉크가 덩어리지게 되는게 특징. 안나올 땐 뒤쪽 잉크에 열을 가해서 녹이면 되지만, 곧 콸콸 새서 필통이 검게 물드는 슬픔이 뒤따른다.</description>
+  </equipment>
+  <equipment id="106">
+    <name>빗자루</name>
+    <description>타블렛 자체에 디스플레이를 박아서, 당장 그릴 그림을 보면서 그리게 해주는 도구. 작가가 되는 길에 하나쯤 사두면 좋다.</description>
+  </equipment>
+  <equipment id="107">
+    <name>출석부</name>
+    <description>마취제를 넣은 침을 쏴서 상대를 마취시키는 목적인 총. 비살상이지만 화학무기로서 엄연한 국제조약 금지대상이다.</description>
+  </equipment>
+  <equipment id="108">
+    <name>에어 소프트 건</name>
+    <description>미술을 배운 사람은 매우 잘 다룬다. 사람에게 찌르지 못하도록 날이 무딘 경우가 많다.</description>
+  </equipment>
+  <equipment id="109">
+    <name>일본도</name>
+    <description>평범한 유리구슬이지만, 어떤 아이의 손에만 들어가면 살상력을 가진 흉기로 돌변한다.</description>
+  </equipment>
+  <equipment id="110">
+    <name>삼각자</name>
+    <description>대한민국 예비군이 사용하는 소총. 월남전을 싸워낸 명기가 지급되지만 기뻐하는 사람은 없다.</description>
+  </equipment>
+  <equipment id="111">
+    <name>크라우드펀딩 쿠폰</name>
+    <description>돌과 돌을 부딫혀서 순간 튀는 불꽃으로 불을 붙인다. 해보면 알겠지만 정말정말 어렵다.</description>
+  </equipment>
+  <equipment id="112">
+    <name>라플라스의 복주머니</name>
+    <description>고대 기업전사들의 결전병기. 무거워서 운동효과도 있다. 이제는 돈주고도 못산다.</description>
+  </equipment>
+  <equipment id="113">
+    <name>우월한 포카락</name>
+    <description>용산 지하유적에선 의지를 가지고 박쥐처럼 날아다니는 모습이 목격되기도 하였다. 무섭다.</description>
+  </equipment>
+  <equipment id="114">
+    <name>분신사바 펜</name>
+    <description>당신의 시간은 한정되어 있습니다. 언제까지 다른 폰을 쓰실 건가요?</description>
+  </equipment>
+  <equipment id="115">
+    <name>분신사바 HDD</name>
+    <description>고대 중국에 알려진 팔진미중 하나. 아가미가 넷인게 특징으로, 이로서 다른 농어와 구분할 수 있다.</description>
+  </equipment>
+  <equipment id="116">
+    <name>알라의 요술지팡이</name>
+    <description>계룡산 기슭에서 흔히 볼 수 있는 달걀 크기의 나무열매. 물에 풀면 물고기들이 둥둥 뜬다.</description>
+  </equipment>
+  <equipment id="117">
+    <name>공룡의 이빨</name>
+    <description>실제 곰과는 매우 다른 외모의 귀여운 인형. 때때로 팔 속에 못을 숨기고 다니기도 하므로 주의가 필요하다.</description>
+  </equipment>
+  <equipment id="118">
+    <name>주먹도끼</name>
+    <description>선종의 시도인 달마의 모습을 그린 수묵화. 처진 눈매에서 문득 귀여움을 느낀다면 당신도 보리심을 일으킬 수 있다.</description>
+  </equipment>
+  <equipment id="119">
+    <name>노트북</name>
+    <description>차고 있으면 건강해진다………는 효능은 확인된 바가 없다. 만약 몸이 좋아진 것 처럼 느낀다면 그것은 플라시보 효과이다.</description>
+  </equipment>
+  <equipment id="120">
+    <name>오목렌즈 돋보기</name>
+    <description>동해 용왕의 자식으로 알려진 이방인. 그 기묘한 인상을 그린 부적엔 귀신을 놀래키는 힘이 있다.</description>
+  </equipment>
+  <equipment id="121">
+    <name>대형 십자가</name>
+    <description>원고는 매우 쉽게 손상된다. 쏟은 커피, 비오는 날의 습기, 지우개질…… 만화가는 그 분노를 삼키며 오늘도 원고를 그린다.</description>
+  </equipment>
+  <equipment id="122">
+    <name>플라즈마 피스톨</name>
+    <description>여러 크기의 점이 찍힌 필름. 펜으로 긁어내면 각양각색의 색조와 명도를 표현할 수 있다. 늘 자투리가 많이 남아서 처치가 곤란해진다.</description>
+  </equipment>
+  <equipment id="123">
+    <name>몬아미 153 볼펜</name>
+    <description>작품은 원고를 깨고 나온다. 원고는 세계이다. 태어나려는 작품은 한 원고를 파괴해야만 한다. 작품은 독자에게로 날아간다. 그 독자의 이름은 아브락사스이다.</description>
+  </equipment>
+  <equipment id="124">
+    <name>액정 타블렛</name>
+    <description>이 책은 해로운 책이다. 한 번도 안봤다는 사람은 있어도 한 번만 봤다는 사람은 없다.</description>
+  </equipment>
+  <equipment id="125">
+    <name>마취 저격총</name>
+    <description>남자를 남자답게 만드는 물건. 더 이상 물러설 곳이 없을 땐 깨끗하게 끝내는 편이 나을 수도 있다.</description>
+  </equipment>
+  <equipment id="126">
+    <name>디자인 커터</name>
+    <description>인류사를 뒤바꾼 물건. 화약의 발전으로 인류는 다음 단계에 접어들게 되었다.</description>
+  </equipment>
+  <equipment id="127">
+    <name>청구슬</name>
+    <description>불안정한 흑색화약을 좀 더 둔감하게 안정시킨 폭탄. 물론 위력은 말할 것도 없다.</description>
+  </equipment>
+  <equipment id="128">
+    <name>M-16</name>
+    <description>불교에서 말하는 육통의 단계에 일시적으로 접하게 해주는 부적. 눈에 대고 태워서 사용한다. 평소엔 보이지 않던 것들이 보이게 된다.</description>
+  </equipment>
+  <equipment id="129">
+    <name>부싯돌</name>
+    <description>천리 밖에서 일어나는 일을 볼 수 있게 해준다. 사실 눈이 좋아지는게 아니라 머리가 비상하게 좋아져서 멀리서 일어나는 일도 유추할 수 있게 해주는 부적이다. 참고로 천리란 대략 서울에서 부산 정도의 거리.</description>
+  </equipment>
+  <equipment id="130">
+    <name>벽돌폰</name>
+    <description>과학을 느끼는 즐거움, 미래를 보는 창. 이 책에서 만족하지 말고 뉴턴으로 넘어가는 것을 추천한다. 원서로 구해서 읽으면 대학교 공부도 된다.</description>
+  </equipment>
+  <equipment id="131">
+    <name>폴더폰</name>
+    <description>생물체의 신경에 작용하여 한동안 그 기능을 마비시킨다. 운동신경을 마비시키는 계열은 후유증 등으로 매우 위험할 수 있다.</description>
+  </equipment>
+  <equipment id="132">
+    <name>스마트폰</name>
+    <description>남자의 로망. 다른 의견은 인정하지 않는다.</description>
+  </equipment>
+  <equipment id="133">
+    <name>송강의 농어</name>
+    <description>남자의 로망. 짧은 스커트와 사용하면 절대영역이라 불리는 신비의 공간이 완성된다.</description>
+  </equipment>
+  <equipment id="134">
+    <name>때죽나무 열매</name>
+    <description>여차하면 공격을 막거나, 적을 후려칠 수 있는 현대의 전천후 방패. 단 숙제를 학교에서 하는 습관을 들이면 의미가 없어진다. 숙제는 집에서 하자.</description>
+  </equipment>
+  <equipment id="135">
+    <name>곰인형</name>
+    <description>필시 겨울에 입으라고 만든 옷일텐데 어째서인가 춥다. 이 추움은 영혼이 느끼는 차가움일 것이다.</description>
+  </equipment>
+  <equipment id="136">
+    <name>달마도</name>
+    <description>필시 여름에 입으라고 만든 옷일텐데 늘 덥고 답답하다.</description>
+  </equipment>
+  <equipment id="137">
+    <name>자석팔찌</name>
+    <description>교복이란 착용자와 더불어 성장하는 옷이다. 따라서 몸에 매우 안맞고, 따라서 개조당한다.</description>
+  </equipment>
+  <equipment id="138">
+    <name>처용부</name>
+    <description>나무를 깎아서 만든 흔한 머리띠. 옆나라에선 정통파 히로인의 필수품이라고 한다.</description>
+  </equipment>
+  <equipment id="139">
+    <name>번진 원고</name>
+    <description>슬리퍼의 가장 큰 기능이 미끄러짐 방지라고 한다면, 이 슬리퍼야말로 최고의 가성비를 지녔다.</description>
+  </equipment>
+  <equipment id="140">
+    <name>스크린톤</name>
+    <description>한때 수능공부의 왕좌에 있었던 책이다. 최근엔 외면받고 있다. 아니 그보다 한국 대학 들어가는데 드는 노력으로 유학을 가는 편이 캐리어에 좋다.</description>
+  </equipment>
+  <equipment id="141">
+    <name>원고</name>
+    <description>성문과 함께 양대산맥으로서 수많은 수험생이 뜯어먹고 불태운 책. 하지만 아직까지도 나온다. 무시무시한 책이다.</description>
+  </equipment>
+  <equipment id="142">
+    <name>얇은책</name>
+    <description>안경은 개인을 유혹하고 마법에 빠뜨리는 망상과 허상과 환상의 세계를 향해 문을 연다.</description>
+  </equipment>
+  <equipment id="143">
+    <name>자폭스위치</name>
+    <description>원래는 남자들이 신는 신발이었다. 커보이고 싶은 욕망은 예나 지금이나 달라지지 않고, 같은 실수를 반복한다.</description>
+  </equipment>
+  <equipment id="144">
+    <name>흑색화약폭탄</name>
+    <description>작고 동그란 플라스틱 탄. 아프지만 죽을 정도는 아니다. 물론 눈은 이야기가 다르다. 절대 얼굴에 대고 쏘지 말자.</description>
+  </equipment>
+  <equipment id="145">
+    <name>T.N.T</name>
+    <description>전승상의 묠니르를 복각한 물건. 정의롭지 않은 사람도 들 수 있다.</description>
+  </equipment>
+  <equipment id="146">
+    <name>신안부</name>
+    <description>북구의 천둥신 토르가 사용하는 망치. 그것 자체가 우뢰와도 같은 위력을 가진다.</description>
+  </equipment>
+  <equipment id="147">
+    <name>천리부</name>
+    <description>헌티드스쿨TRPG펀딩계획의 핵심. 범용룰 새비지월드로 만들어졌으며 지금 이 아이템 설명문을 쓰게 해준 책이기도 하다. 후원해 주셔서 감사했습니다!</description>
+  </equipment>
+  <equipment id="148">
+    <name>과학동아시아</name>
+    <description>다음웹툰 '학원기이야담'을 재편집하여 만들어낸 만화책. 만화책치곤 크기가 크고 무겁다. 소장하기 좋게 만들었다. 그러고보니 애니화 계획은 결국 어떻게 된거지….?</description>
+  </equipment>
+  <equipment id="149">
+    <name>마취제</name>
+    <description>한티고교 공학부가 만든 기관총. 일반적인 개틀링으로서의 사용법 외에도 다양한 무장옵션을 제공한다. 후일 파이오니아 피겨린 2호기에도 채용된다.</description>
+  </equipment>
+  <equipment id="150">
+    <name>메이드복</name>
+    <description>다섯 소의 노래……는 아니고 서양의 사람 잡아먹는 무서운 괴물의 이름처럼 들린다. 작성자는 곧장 엎드려 뻗치게 되었다.</description>
+  </equipment>
+  <equipment id="151">
+    <name>니삭스</name>
+    <description>교장선생님이 (입막음으로 지급)후원한 카메라. 이후 신문부의 주력 장비가 되어 수많은 보도전을 해쳐나오게 되었다.</description>
+  </equipment>
+  <equipment id="152">
+    <name>책가방</name>
+    <description>"사장님! 게임을 좀 더 대국적으로 만드십시오!" "기….김부장….!!"</description>
+  </equipment>
+  <equipment id="153">
+    <name>동복</name>
+    <description>미군의 제식권총으로 유명해진 자동권총.  다양한 바리에이션이 존재하며 가장 흔히 만날 수 있는 권총이기도 하다.</description>
+  </equipment>
+  <equipment id="154">
+    <name>하복</name>
+    <description>Think different!</description>
+  </equipment>
+  <equipment id="155">
+    <name>깔맞춤 교복</name>
+    <description>동쪽 마녀가 소지하고 있던 마법의 구두. 집째로 깔려버리는 바람에 한번 사용해보지도 못하고, 이후 도로시가 주워서 요긴하게 사용한다. 강하게 염원하면 접촉한 대상을 원하는 곳으로 보내버리는 기능이 있다.</description>
+  </equipment>
+  <equipment id="156">
+    <name>머리띠</name>
+    <description>온통 금으로 이루어진 모자. 금은 무르기 때문에 방어구로서의 가치는 없지만. 착용자에게 강렬한 우월감을 준다. 금뽕이 오른다는 말이다.</description>
+  </equipment>
+  <equipment id="157">
+    <name>삼선슬리퍼</name>
+    <description>새하얀 색으로만 구성된 드레스. 온갓 보석으로 치장되어 있어서, 공주님 기분을 맛볼 수 있다.</description>
+  </equipment>
+  <equipment id="158">
+    <name>성문 기초정석법</name>
+    <description>커다란 힘이 깃든것은 아니지만, 마법의 도구임에는 분명하다. 무엇보다도 다른 마녀의 보물보단 쉽게 제작할 수 있다!</description>
+  </equipment>
+  <equipment id="159">
+    <name>수리의 정석</name>
+    <description>그린 것을 볼 수 있는 오즈 세계 최고의 신기. 상대가 존재하지 않는 것이라도 그림책에 의해 관측됨으로서 존재하는 것이 된다. 사용하기에 따라선 우주의 법칙도 뒤집어버릴 수 있다.</description>
+  </equipment>
+  <equipment id="160">
+    <name>안경</name>
+    <description>원래는 지팡이라기보단 나무줄기에 가까운 디자인이다. 부가효과로서 찔린 자는 깊은 졸음이 오게 된다.</description>
+  </equipment>
+  <equipment id="161">
+    <name>하이힐</name>
+    <description>평소엔 날을 접어서 다치지 않도록 하는 나이프. 휴대하기에도, 기습하기에도 매우 좋다.</description>
+  </equipment>
+  <equipment id="162">
+    <name>BB탄</name>
+    <description>검은색을 베이스로 하여, 착용자의 순수함을 북돋아주는 귀여운 프릴 디자인이 포인트이다. 옷을 만든 사람은 마법사 때려치고 디자이너로 나가도 된다.</description>
+  </equipment>
+  <equipment id="163">
+    <name>묠니르 레플리카</name>
+    <description>마시면 용기가 '생기는 것 같은' 물약. 이쯤 오면 눈치챘겠지만 이건 그냥 플라시보 효과다. 하지만 뭐 어떠랴? 용기만 생기면 되는거다.</description>
+  </equipment>
+  <equipment id="164">
+    <name>묠니르 이데아</name>
+    <description>심장의 구조는 얼추 따라했으나, 근육이 아니기때문에 뛰지는 못하는 모조심장. 그가 사랑을 할 수 있는 사람이라는 증거.</description>
+  </equipment>
+  <equipment id="165">
+    <name>비욘드 스쿨</name>
+    <description>울음을 참기 위해서 꼭 바다가 필요한 것은 아니다.</description>
+  </equipment>
+  <equipment id="166">
+    <name>학원기이야담 단행본</name>
+    <description>동양의 오랜 전통에 따르면 이걸 둘러야 주인공이 된다고 한다. 괜히 한 때 닌-쟈를 주인공으로 삼은 작품이 흘러넘쳤던게 아니다.</description>
+  </equipment>
+  <equipment id="167">
+    <name>3연장 GAU-19b 개틀링</name>
+    <description>난죠 코우지가 나름대로 정리한 크레아노미콘의 정보. 마신서 사건 내내 큰 도움이 되었다.</description>
+  </equipment>
+  <equipment id="168">
+    <name>오우가</name>
+    <description>솔로몬의 작은 열쇠. 사실 이 책보다 행성에서 직접 힘을 빌려오는 큰 열쇠 쪽이 도움이 된다. 72개의 정령, 신, 악마에 대한 정보가 가득하다.</description>
+  </equipment>
+  <equipment id="169">
+    <name>바주카제 DSLR</name>
+    <description>마신서의 진본. 아랍어로 되어 있으며, 가짜 창조주로 가는 길을 여는 데에 그 목적이 있다.</description>
+  </equipment>
+  <equipment id="301">
+    <name>발터PPK</name>
+    <description>페르도노미콘의 중세영어 번역서. 15세기 무렵에 작성된 것으로 추정된다. 난죠 코우지에 의해 해독되어 2004년 마신서 사건의 시발탄이 된다.</description>
+  </equipment>
+  <equipment id="401">
+    <name>베레타92S</name>
+    <description>일견 고색창연한 고도로 보이지만, 실은 단분자 테크놀로지로 만들어진 무서운 칼이다.</description>
+  </equipment>
+  <equipment id="402">
+    <name>사과</name>
+    <description>흑위와 짝을 맞춰서 만들어진 검. 이쪽은 탄소섬유가 내장되어 있어서 여간한 공격엔 부러지지 않는다.</description>
+  </equipment>
+  <equipment id="403">
+    <name>동쪽 마녀의 은구두</name>
+    <description>흑위, 백위를 합쳐서 강도와 절삭력을 동시에 보유하도록 만든 칼. 타케이의 애용품이다.</description>
+  </equipment>
+  <equipment id="404">
+    <name>서쪽 마녀의 황금모자</name>
+    <description>밤의 대정령 모시레치크가 벼려낸 검. 제작자를 닮아서 한번 뽑으면 피를 보기 전까진 돌아가지 않는다.</description>
+  </equipment>
+  <equipment id="405">
+    <name>남쪽 마녀의 순백드레스</name>
+    <description>여름여우, 겨울늑대의 정령이 들어간 검이다. 정령의 동의를 얻을 수 있다면 언제든지 만들 수 있다.</description>
+  </equipment>
+  <equipment id="406">
+    <name>북쪽 마녀의 구리지팡이</name>
+    <description>가진 자를 신으로 만들어 준다는 신기. 사실 그 정체는 용의 여의주이다. 여의란 뜻대로 된다는 뜻으로, 신의 전제조건 중 하나이다.</description>
+  </equipment>
+  <equipment id="407">
+    <name>에메랄드 성의 그림책</name>
+    <description>동국에 현현한 거짓 창조주의 뿔. 일곱 머리 중 어느 머리에서 떨어뜨린 뿔인지는 모른다. 10개의 뿔은 10단계의 각성을 의미하는데…..</description>
+  </equipment>
+  <equipment id="408">
+    <name>호랑가시 지팡이</name>
+    <description>마신서 사건 최종전에서 부러진 천율어령검의 조각. 나머지 조각은 세게의 경계에 녹아들어서 찾을 길이 없으므로, 이 부러진 칼만이 어령검을 되찾을 열쇠이다.</description>
+  </equipment>
+  <equipment id="409">
+    <name>폴딩나이프</name>
+    <description>카제츠바키의 진정한 모습. 칼밤신의 뿔로 벼려낸 무기이며 신의 권위에 유일하게 타격을 입힐 수 있는 무기이기도 하다.</description>
+  </equipment>
+  <equipment id="410">
+    <name>정갈한 어둠</name>
+    <description>프랑스를 공포로 떨게 만들었던 마수의 팔. 마수는 본래 형체가 없으므로, 사람의 몸에 스며들어서 일체화되었다.</description>
+  </equipment>
+  <equipment id="411">
+    <name>용기가 생기는 물약</name>
+    <description>열자루가 한 세트인 청동검. 한자루만 쥐어도 나머지 아홉자루를 조종할 수 있다. 칼날엔 강한 염원을 담아 '미역국을 먹어라'라고 쓰여있다.</description>
+  </equipment>
+  <equipment id="412">
+    <name>양철 심장</name>
+    <description>엑스칼리버가 되돌아간 호수에서 발견된 낡은 검. 동위원소 측정결과 시대는 얼추 들어맞으나, 이게 정말 그 검인지는 아무도 모른다.</description>
+  </equipment>
+  <equipment id="413">
+    <name>슬픔의 안대</name>
+    <description>호수에서 건져낸 알파검을 현대기술로 보강한 검. 엑스칼리버 답지 않게 근미래적인 디자인이 특징이다. 다양한 전자장비가 내장되어 있으며, 어째서인가 충전을 필요로 하지 않는다.</description>
+  </equipment>
+  <equipment id="414">
+    <name>붉은 머플러</name>
+    <description>중동의 창세신이 사용했다고 알려진 몽둥이. 문자 그대로 몽둥이이며, 사실 깎는 법만 알면 현대의 장인도 만들어낼 수 있다.</description>
+  </equipment>
+  <equipment id="1101">
+    <name>코우지 레포트</name>
+    <description>중동의 창세신이 사용했다고 알려진 몽둥이. 문자 그대로 몽둥이이며, 사실 깎는 법만 알면 현대의 장인도 만들어낼 수 있다.</description>
+  </equipment>
+  <equipment id="1102">
+    <name>게티아</name>
+    <description>베트남 전설에 등장하는 호수에서 건진 검. 엑스칼리버와 왠지 유사하다. 나라를 지키고 하늘로 돌아갔다.</description>
+  </equipment>
+  <equipment id="1103">
+    <name>페르도노미콘</name>
+    <description>삼족은 재액을 구축하는 동물의 상징이고, 특히 까마귀가 사용되었을 경우에는 신화상의 삼족오를 암시하게 된다. 그 형태만으로도 힘을 띄는 부적의 세계에 딱 어울리는 신수의 부적.</description>
+  </equipment>
+  <equipment id="1104">
+    <name>마신서 크레아노미콘</name>
+    <description>맥스웰 재단에서 내부통신용으로 사용되는 최첨단 기계. 10년 앞의 기술력을 도입하여 개발단가가 매우 비싸지만, 모든 정보는 전용 위성을 통해 중계되므로 신용할 수 있다.</description>
+  </equipment>
+  <equipment id="1105">
+    <name>참도 흑위</name>
+    <description>악마를 봉인한 황금색 리볼버. 총신 내부에 새겨진 마법진때문에 파괴력은 일반적인 리볼버보다 낮지만, 마력을 들여 가공된 총알이 이 마법진을 6번 긁고 지나가면 총에 빙의된 악마의 구속이 풀려 총알 없이 7번째 사격을 날리게 된다. 이 7번쨰 사격은 SF만화의 빔포 수준. 스치기만 해도 녹는다.</description>
+  </equipment>
+  <equipment id="1106">
+    <name>참도 백위</name>
+    <description>백금으로 조각한 자동권총. 플라우로스의 7번째 사격이 사용자를 죽이는 저주를 가지고 있기 때문에, 이를 억제하는 의미에서 같은 악마를 다시 소환해 넣었다. 이사야의 손목에는 연사가 부담스러워서 부무장으로 주로 사용한다.</description>
+  </equipment>
+  <equipment id="1107">
+    <name>참도 신위</name>
+    <description>이나리가 등에 묶고 있는 밧줄. 대신이 사는 구름마을 궁전의 대들보와 링크되어 있어서, 이나리를 치는 공격자는 거대한 목조건물을 치는 것과 같은 방어력을 느끼게 된다. 그럴 때마다 흔들리는 궁전에서 사는 대신의 기분도 가끔은 생각해주자.</description>
+  </equipment>
+  <equipment id="1108">
+    <name>에페탐</name>
+    <description>칼밤신의 뿔을 벼려 만든 칼은 전국시대 때 세상에 풀려나, 수많은 사람들을 죽이게 되면서 그 원혼이 칼에 엉겨붙어 군체지성을 가지게 되었다. 이 지성은 소유주를 싸움으로 몰아넣는 정신공격을 끊임없이 행하여 몸을 빼앗으려 한다. 결국 희대의 검수집가인 나가오 카게토라와 당대의 이나리가 협력하여 봉인하게 된다.</description>
+  </equipment>
+  <equipment id="1109">
+    <name>쿠토네 시리카</name>
+    <description>서부개척시대의 상징과도 같은 총. 웬만한 무법자들 허리엔 다 한자루씩 꽂혀있다.</description>
+  </equipment>
+  <equipment id="1110">
+    <name>신핵</name>
+    <description>북미 부족들을 아우르는 대추장 테쿰세의 유령이 미국에 의해 죽어간 원주민들의 원념을 담아준 도끼. 작은 크기지만 미국인에게 있어서는 귀신같은 위력을 발휘한다.</description>
+  </equipment>
+  <equipment id="1111">
+    <name>칼밤신의 뿔</name>
+    <description>세상의 끝에서 불어오는 바람을 담아놓은 유리병. 안에선 늘 차가운 바람이 불고 있어서 더운 여름엔 좋은 냉방도구가 된다.</description>
+  </equipment>
+  <equipment id="1112">
+    <name>부러진 어령검</name>
+    <description>유대족의 흥망성쇠를 다룬 전반부와, 주 예수와 그 제자들의 기록인 후반부로 되어있다. 세상에서 가장 많이 팔리고 안쇄된 책이기도 하다.</description>
+  </equipment>
+  <equipment id="1113">
+    <name>천율어령검</name>
+    <description>고대 로마의 형벌인 십자가형은 사람을 오래 잔인하게 죽이므로 극형이었다. 지금은 이 지상에서 죄가 없이 태어난 예수가 인류를 대신하여 수난을 받은 상징으로서 기독교의 주요 상징물이 되었으니 아이러니한 일이다.</description>
+  </equipment>
+  <equipment id="1114">
+    <name>제보당의 팔</name>
+    <description>어느 이름모를 유골에 달린 뱃지. 이 사람은 어째서 황야에 묻힌 것일까? 진실은 아무도 모르지만, 그가 이 뱃지를 소중히 여겼을 것은 확실하다.</description>
+  </equipment>
+  <equipment id="1115">
+    <name>열손검</name>
+    <description>이계의 타락으로부터 세계를 지키는 비밀결사 메투셀라의 증표인 검은 장갑. 이것으로 차원을 찢고 이승과 저승을 오갈 수 있으나, 여정 자체가 안전해지지는 않는다.</description>
+  </equipment>
+  <equipment id="1116">
+    <name>엑스칼리버 알파</name>
+    <description>우리 아버지들의 아버지들의 아버지들의…아버지의 뼈. 고대의 신기들은 고대인의 몸에 맞게 만들어졌기 때문에, 현대인으로서는 작동시킬 수 없는 경우도 있다. 그럴때 신기들을 오인식시키기 위해 필요한 물건으로, 사람이 살만한 곳이면 의외로 어디에서나 묻혀있을 것이다. 당신의 발 밑에도……..</description>
+  </equipment>
+  <equipment id="1117">
+    <name>엑스칼리버 베타</name>
+  </equipment>
+  <equipment id="1118">
+    <name>야그루쉬</name>
+  </equipment>
+  <equipment id="1119">
+    <name>아야무르</name>
+  </equipment>
+  <equipment id="1120">
+    <name>순천검</name>
+  </equipment>
+  <equipment id="1121">
+    <name>세발까마귀 부적</name>
+  </equipment>
+  <equipment id="1122">
+    <name>맥스웰 폰</name>
+  </equipment>
+  <equipment id="1123">
+    <name>플라우로스</name>
+  </equipment>
+  <equipment id="1124">
+    <name>하우레스</name>
+  </equipment>
+  <equipment id="1125">
+    <name>구름궁전의 밧줄</name>
+  </equipment>
+  <equipment id="1126">
+    <name>카제츠바키</name>
+  </equipment>
+  <equipment id="1127"/>
+  <equipment id="1128"/>
+  <equipment id="1129">
+    <name>콜트 워커</name>
+  </equipment>
+  <equipment id="1130">
+    <name>테쿰세의 손도끼</name>
+  </equipment>
+  <equipment id="1131">
+    <name>북극의 숨결</name>
+  </equipment>
+  <equipment id="1132">
+    <name>성서</name>
+  </equipment>
+  <equipment id="1133">
+    <name>십자가</name>
+  </equipment>
+  <equipment id="1134">
+    <name>보안관의 자존심</name>
+  </equipment>
+  <equipment id="1135">
+    <name>메투셀라의 증표</name>
+  </equipment>
+  <equipment id="1136">
+    <name>선조의 갈비뼈</name>
+  </equipment>
+  <equipment id="420">
+    <name>백서리</name>
+  </equipment>
+  <equipment id="421">
+    <name>클래식 백서리</name>
+  </equipment>
+  <equipment id="422">
+    <name>붉은여 백서리</name>
+  </equipment>
+  <equipment id="423"/>
+  <equipment id="424">
+    <name>사냥꾼</name>
+  </equipment>
+  <equipment id="425">
+    <name>클래식 사냥꾼</name>
+  </equipment>
+  <equipment id="426"/>
+  <equipment id="427">
+    <name>보디가드</name>
+  </equipment>
+  <equipment id="428">
+    <name>배주희</name>
+  </equipment>
+  <equipment id="429">
+    <name>클래식 라푼젤</name>
+  </equipment>
+  <equipment id="430">
+    <name>백다은</name>
+  </equipment>
+  <equipment id="431">
+    <name>클래식 뷰티</name>
+  </equipment>
+  <equipment id="432">
+    <name>건우</name>
+  </equipment>
+  <equipment id="433">
+    <name>클래식 비스트</name>
+  </equipment>
+  <equipment id="434">
+    <name>이유리</name>
+  </equipment>
+  <equipment id="435">
+    <name>클래식 신데렐라</name>
+  </equipment>
+  <equipment id="436">
+    <name>이선화</name>
+  </equipment>
+  <equipment id="437">
+    <name>클래식 프린스</name>
+  </equipment>
+  <equipment id="438"/>
+  <equipment id="439">
+    <name>이새벽</name>
+  </equipment>
+  <equipment id="440">
+    <name>클래식 페어리</name>
+  </equipment>
+  <equipment id="441"/>
+  <equipment id="442">
+    <name>한수정</name>
+  </equipment>
+  <equipment id="443">
+    <name>클래식 후크</name>
+  </equipment>
+  <equipment id="444"/>
+  <equipment id="445">
+    <name>피터 팬</name>
+  </equipment>
+  <equipment id="446">
+    <name>날지 못하는 피터 팬</name>
+  </equipment>
+  <equipment id="447"/>
+  <equipment id="448"/>
+  <equipment id="449">
+    <name>팅커벨</name>
+  </equipment>
+  <equipment id="450"/>
+  <equipment id="451"/>
+  <equipment id="452"/>
+  <equipment id="453">
+    <name>현세의 마녀 이하나</name>
+  </equipment>
+  <equipment id="454"/>
+  <equipment id="455">
+    <name>『마녀』</name>
+  </equipment>
+  <equipment id="456">
+    <name>거울의 『마녀』</name>
+  </equipment>
+  <equipment id="457">
+    <name>덩쿨의 『마녀』</name>
+  </equipment>
+  <equipment id="458">
+    <name>과자의 『마녀』</name>
+  </equipment>
+  <equipment id="601">
+    <name>유은아</name>
+  </equipment>
+  <equipment id="602"/>
+  <equipment id="603"/>
+  <equipment id="604">
+    <name>이현준</name>
+  </equipment>
+  <equipment id="605">
+    <name>대머리선배</name>
+  </equipment>
+  <equipment id="606">
+    <name>교장선생님</name>
+  </equipment>
+  <equipment id="607">
+    <name>유소연(카메라ON)</name>
+  </equipment>
+  <equipment id="608">
+    <name>이가희</name>
+  </equipment>
+  <equipment id="609">
+    <name>신샛별</name>
+  </equipment>
+  <equipment id="610">
+    <name>윤소리</name>
+  </equipment>
+  <equipment id="611">
+    <name>검둥이</name>
+  </equipment>
+  <equipment id="1101">
+    <name>시온</name>
+  </equipment>
+  <equipment id="1102">
+    <name>마법사 시온</name>
+  </equipment>
+  <equipment id="1103">
+    <name>어령검 시온</name>
+  </equipment>
+  <equipment id="1104">
+    <name>크레아노미콘 시온</name>
+  </equipment>
+  <equipment id="1105">
+    <name>타케이</name>
+  </equipment>
+  <equipment id="1106">
+    <name>무명류 타케이</name>
+  </equipment>
+  <equipment id="1107">
+    <name>카무이 타케이</name>
+  </equipment>
+  <equipment id="1108">
+    <name>이사야</name>
+  </equipment>
+  <equipment id="1109">
+    <name>비프론즈 이사야</name>
+  </equipment>
+  <equipment id="1110">
+    <name>데빌헌터 이사야</name>
+  </equipment>
+  <equipment id="1111"/>
+  <equipment id="1112">
+    <name>루카</name>
+  </equipment>
+  <equipment id="1113">
+    <name>무명류 면허개전 루카</name>
+  </equipment>
+  <equipment id="1114">
+    <name>마신 해방 루카</name>
+  </equipment>
+  <equipment id="1115"/>
+  <equipment id="1116">
+    <name>호타루</name>
+  </equipment>
+  <equipment id="1117">
+    <name>카마키 호타루</name>
+  </equipment>
+  <equipment id="1118">
+    <name>견습사원 호타루</name>
+  </equipment>
+  <equipment id="1119"/>
+  <equipment id="1120">
+    <name>치류</name>
+  </equipment>
+  <equipment id="1121">
+    <name>인기변호사 치류</name>
+  </equipment>
+  <equipment id="1122">
+    <name>아야노</name>
+  </equipment>
+  <equipment id="1123">
+    <name>당주 아야노</name>
+  </equipment>
+  <equipment id="1124">
+    <name>입금받은 아야노</name>
+  </equipment>
+  <equipment id="1125">
+    <name>아스카</name>
+  </equipment>
+  <equipment id="1126"/>
+  <equipment id="1127"/>
+  <equipment id="1128"/>
+  <equipment id="1129">
+    <name>코우지</name>
+  </equipment>
+  <equipment id="1130">
+    <name>아나자프타</name>
+  </equipment>
+  <equipment id="1131">
+    <name>오드</name>
+  </equipment>
+  <equipment id="1132"/>
+  <equipment id="1133"/>
+  <equipment id="1134"/>
+  <equipment id="1135">
+    <name>이븐</name>
+  </equipment>
+  <equipment id="1136"/>
+  <equipment id="1137"/>
+  <equipment id="1138"/>
+  <equipment id="1139">
+    <name>아라트</name>
+  </equipment>
+  <equipment id="1140">
+    <name>카샤</name>
+  </equipment>
+  <equipment id="1141">
+    <name>아그누스 데 버저트</name>
+  </equipment>
+  <equipment id="1142">
+    <name>카제츠바키</name>
+  </equipment>
+  <equipment id="1143">
+    <name>크레스니크</name>
+  </equipment>
+  <equipment id="1144">
+    <name>에오리스</name>
+  </equipment>
+  <equipment id="1145">
+    <name>얄다바오스</name>
+  </equipment>
+  <equipment id="1146">
+    <name>칼밤신</name>
+  </equipment>
+  <equipment id="1147">
+    <name>포치</name>
+  </equipment>
+  <equipment id="1148"/>
+  <equipment id="1149">
+    <name>이누가미</name>
+  </equipment>
+  <equipment id="1150">
+    <name>히데노리</name>
+  </equipment>
+  <equipment id="1151">
+    <name>류쉐화</name>
+  </equipment>
+  <equipment id="1152"/>
+  <equipment id="1153"/>
+  <equipment id="1154">
+    <name>야하즈</name>
+  </equipment>
+  <equipment id="1155"/>
+  <equipment id="1156"/>
+  <equipment id="1157"/>
+  <equipment id="1158">
+    <name>미부</name>
+  </equipment>
+  <equipment id="1159"/>
+  <equipment id="1160"/>
+  <equipment id="1161"/>
+  <equipment id="1162">
+    <name>아실칼</name>
+  </equipment>
+  <equipment id="1163"/>
+  <equipment id="1164"/>
+  <equipment id="1165"/>
+  <equipment id="1166">
+    <name>치토세</name>
+  </equipment>
+  <equipment id="1167">
+    <name>이나리 치토세</name>
+  </equipment>
+  <equipment id="1168">
+    <name>다래어리</name>
+  </equipment>
+  <equipment id="1169"/>
+  <equipment id="1170">
+    <name>스즈네</name>
+  </equipment>
+  <equipment id="1171"/>
+  <equipment id="1172"/>
+  <equipment id="1173"/>
+  <equipment id="1174">
+    <name>미치나리</name>
+  </equipment>
+  <equipment id="1175"/>
+  <equipment id="1176">
+    <name>들좌백</name>
+  </equipment>
+  <equipment id="1177">
+    <name>산좌백</name>
+  </equipment>
+  <equipment id="1178">
+    <name>셋달이</name>
+  </equipment>
+  <equipment id="1179"/>
+  <equipment id="1180">
+    <name>나달보리</name>
+  </equipment>
+  <equipment id="1181"/>
+  <equipment id="1182">
+    <name>펌프킨</name>
+  </equipment>
+  <equipment id="1183">
+    <name>펌프킨 폰</name>
+  </equipment>
+  <equipment id="1184">
+    <name>펌프킨 나이트</name>
+  </equipment>
+  <equipment id="1185">
+    <name>펌프킨 비숍</name>
+  </equipment>
+  <equipment id="1186">
+    <name>펌프킨 루크</name>
+  </equipment>
+  <equipment id="1187">
+    <name>펌프킨 퀸</name>
+  </equipment>
+  <equipment id="1188">
+    <name>펌프킨 엠퍼러</name>
+  </equipment>
+  <equipment id="10001">
+    <name>계란계란</name>
+  </equipment>
+  <equipment id="10002">
+    <name>환상거북</name>
+  </equipment>
+  <equipment id="10003">
+    <name>모시레치크</name>
+  </equipment>
+  <equipment id="10004">
+    <name>엉클 못</name>
+  </equipment>
+  <equipment id="10005">
+    <name>피바람의 모시레치크</name>
+  </equipment>
+</StringTable>

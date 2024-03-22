@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<StringTable>
+	<shop id="1">
+		<name>테스트1</name>
+		<description>테스트</description>
+	</shop>
+	<shop id="2">
+		<name>테스트1</name>
+		<description>테스트</description>
+	</shop>
+	<shop id="3">
+		<name>테스트3</name>
+		<description>테스트</description>
+	</shop>
+</StringTable>
